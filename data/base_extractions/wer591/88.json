@@ -1,0 +1,156 @@
+[
+    {
+        "text": "ung thư đường mật không thể cắt bỏ",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            183,
+            217
+        ],
+        "candidates": [
+            "C22.1"
+        ]
+    },
+    {
+        "text": "chụp đường mật",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            237,
+            251
+        ]
+    },
+    {
+        "text": "run rẩy kèm sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            401,
+            416
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            426,
+            429
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            493,
+            496
+        ]
+    },
+    {
+        "text": "áp xe",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            536,
+            541
+        ],
+        "candidates": [
+            "D73.3"
+        ]
+    },
+    {
+        "text": "Augmentin",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            630,
+            639
+        ],
+        "candidates": []
+    },
+    {
+        "text": "chụp chẩn đoán hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            768,
+            791
+        ]
+    },
+    {
+        "text": "ra mồ hôi nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            921,
+            936
+        ]
+    },
+    {
+        "text": "Thiếu một số vi chất",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            951,
+            971
+        ],
+        "candidates": []
+    },
+    {
+        "text": "calcium",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1052,
+            1059
+        ],
+        "candidates": []
+    },
+    {
+        "text": "sắt",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1061,
+            1064
+        ],
+        "candidates": []
+    },
+    {
+        "text": "kẽm",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1066,
+            1069
+        ],
+        "candidates": []
+    },
+    {
+        "text": "ổ dịch sau phẫu thuật",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1371,
+            1392
+        ]
+    },
+    {
+        "text": "chụp chẩn đoán hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1420,
+            1443
+        ]
+    }
+]

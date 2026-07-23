@@ -1,0 +1,232 @@
+# CHẨN_ĐOÁN — lexicon (tiếng Việt) + mã ICD-10 (chuẩn WHO, 3–4 ký tự — khớp ví dụ chính thức
+# require.md: GERD -> K21.0,K21.9). KHÔNG dùng ICD-10-CM 5+ ký tự vì VN dùng WHO ICD-10.
+# Định dạng:  cụm tiếng Việt | MÃ1,MÃ2 | english gloss (verify bằng NLM API theo họ 3 ký tự)
+# Dòng không có '|' = chưa gán mã. '#' = comment.
+tăng huyết áp | I10 | essential hypertension
+cao huyết áp | I10 | essential hypertension
+hạ huyết áp | I95.9 | hypotension
+đái tháo đường | E11.8 | type 2 diabetes mellitus with unspecified complications [đối chiếu GT: 8/12 E11.8 > E11.9]
+tiểu đường | E11.8 | type 2 diabetes mellitus with unspecified complications
+đái tháo đường type 2 | E11.8 | type 2 diabetes mellitus with unspecified complications
+đái tháo đường tuýp 2 | E11.8 | type 2 diabetes mellitus with unspecified complications
+đái tháo đường típ 2 | E11.8 | type 2 diabetes mellitus with unspecified complications
+rối loạn lipid máu | E78.5 | hyperlipidemia unspecified
+tăng lipid máu | E78.5 | hyperlipidemia unspecified
+tăng cholesterol máu | E78.0 | pure hypercholesterolemia
+tăng triglyceride máu | E78.1 | pure hyperglyceridemia
+béo phì | E66.9 | obesity unspecified
+xơ gan | K74.6 | unspecified cirrhosis of liver
+xơ gan do rượu | K70.3 | alcoholic cirrhosis of liver
+viêm gan | K75.9 | inflammatory liver disease unspecified
+viêm gan do rượu | K70.1 | alcoholic hepatitis
+viêm gan virus | B19.9 | unspecified viral hepatitis
+viêm gan siêu vi | B19.9 | unspecified viral hepatitis
+gan nhiễm mỡ | K76.0 | fatty liver not elsewhere classified
+hội chứng não gan | K72.9 | hepatic failure unspecified
+bệnh não gan | K72.9 | hepatic failure unspecified
+suy gan | K72.9 | hepatic failure unspecified
+viêm tụy | K85.9 | acute pancreatitis
+viêm tụy cấp | K85.9 | acute pancreatitis
+viêm túi mật | K81.9 | cholecystitis unspecified
+sỏi mật | K80.2 | calculus of gallbladder without cholecystitis
+sỏi túi mật | K80.2 | calculus of gallbladder without cholecystitis
+tắc nghẽn đường mật | K83.1 | obstruction of bile duct
+viêm đường mật | K83.0 | cholangitis
+viêm dạ dày | K29.7 | gastritis unspecified
+loét dạ dày | K25.9 | gastric ulcer unspecified
+loét dạ dày tá tràng | K27.9 | peptic ulcer unspecified
+trào ngược dạ dày thực quản | K21.0,K21.9 | gastro-esophageal reflux disease
+bệnh trào ngược dạ dày thực quản | K21.0,K21.9 | gastro-esophageal reflux disease
+viêm thực quản | K20.9 | esophagitis
+viêm ruột thừa | K37 | unspecified appendicitis
+viêm túi thừa | K57.9 | diverticular disease of intestine
+viêm đại tràng | K52.9 | noninfective gastroenteritis and colitis unspecified
+xuất huyết tiêu hóa | K92.2 | gastrointestinal hemorrhage unspecified
+viêm phổi | J18.9 | pneumonia unspecified organism
+viêm phế quản | J40 | bronchitis not specified as acute or chronic
+hen suyễn | J45.9 | asthma unspecified
+hen phế quản | J45.9 | asthma unspecified
+bệnh phổi tắc nghẽn mãn tính | J44.9 | chronic obstructive pulmonary disease unspecified
+bệnh phổi tắc nghẽn mạn tính | J44.9 | chronic obstructive pulmonary disease unspecified
+lao phổi | A15.0 | tuberculosis of lung
+thuyên tắc phổi | I26.9 | pulmonary embolism without acute cor pulmonale
+tràn dịch màng phổi | J90 | pleural effusion not elsewhere classified
+suy tim | I50.9 | heart failure unspecified
+suy tim sung huyết | I50.9 | heart failure unspecified
+nhồi máu cơ tim | I21.9 | acute myocardial infarction unspecified
+bệnh mạch vành | I25.1 | atherosclerotic heart disease
+bệnh động mạch vành | I25.1 | atherosclerotic heart disease
+đau thắt ngực không ổn định | I20.0 | unstable angina
+rung nhĩ | I48.2 | chronic atrial fibrillation [đối chiếu GT: bare mặc định 6/7 I48.2]
+rung tâm nhĩ | I48.2 | chronic atrial fibrillation
+rung nhĩ kịch phát | I48.0 | paroxysmal atrial fibrillation [GT 2/2]
+rung nhĩ cơn | I48.0 | paroxysmal atrial fibrillation [GT 1/1]
+rung nhĩ dai dẳng | I48.1 | persistent atrial fibrillation [GT 1/1]
+rung nhĩ bền bỉ | I48.1 | persistent atrial fibrillation
+loạn nhịp tim | I49.9 | cardiac arrhythmia unspecified
+bệnh tim mạch do xơ vữa động mạch | I25.1 | atherosclerotic heart disease
+xơ vữa động mạch | I70.9 | atherosclerosis unspecified
+bệnh van tim | I38 | endocarditis valve unspecified
+đột quỵ | I63.9 | cerebral infarction unspecified
+tai biến mạch máu não | I63.9 | cerebral infarction unspecified
+nhồi máu não | I63.8 | other cerebral infarction [đối chiếu GT: 9/9 I63.8]
+xuất huyết não | I61.9 | intracerebral hemorrhage unspecified
+cơn thiếu máu não thoáng qua | G45.9 | transient cerebral ischemic attack unspecified
+suy thận | N19 | unspecified kidney failure
+suy thận cấp | N17.9 | acute kidney failure unspecified
+suy thận mạn | N18.9 | chronic kidney disease unspecified
+bệnh thận mạn | N18.9 | chronic kidney disease unspecified
+viêm cầu thận | N05.9 | unspecified nephritic syndrome
+viêm bể thận | N12 | tubulo-interstitial nephritis not specified as acute or chronic
+viêm thận bể thận | N12 | tubulo-interstitial nephritis not specified as acute or chronic
+nhiễm trùng đường tiết niệu | N39.0 | urinary tract infection site not specified
+nhiễm khuẩn tiết niệu | N39.0 | urinary tract infection site not specified
+viêm bàng quang | N30.9 | cystitis unspecified
+sỏi thận | N20.0 | calculus of kidney
+thiếu máu | D64.9 | anemia unspecified
+thiếu máu thiếu sắt | D50.9 | iron deficiency anemia unspecified
+rối loạn đông máu | D68.9 | coagulation defect unspecified
+nhiễm trùng huyết | A41.9 | sepsis unspecified organism
+nhiễm khuẩn huyết | A41.9 | sepsis unspecified organism
+sốc nhiễm trùng | R57.2 | septic shock
+suy giáp | E03.9 | hypothyroidism unspecified
+cường giáp | E05.9 | thyrotoxicosis unspecified
+bướu giáp | E04.9 | nontoxic goiter unspecified
+ung thư | C80 | malignant neoplasm without specification of site
+ung thư gan | C22.9 | malignant neoplasm of liver unspecified
+ung thư phổi | C34.9 | malignant neoplasm bronchus or lung unspecified
+ung thư dạ dày | C16.9 | malignant neoplasm of stomach unspecified
+ung thư đại tràng | C18.9 | malignant neoplasm of colon unspecified
+ung thư vú | C50.9 | malignant neoplasm of breast unspecified
+trầm cảm | F32.9 | depressive episode unspecified
+rối loạn lo âu | F41.9 | anxiety disorder unspecified
+sa sút trí tuệ | F03 | unspecified dementia
+động kinh | G40.9 | epilepsy unspecified
+viêm khớp | M13.9 | arthritis unspecified
+thoái hóa khớp | M19.9 | osteoarthritis unspecified
+gout | M10.9 | gout unspecified
+loãng xương | M81.9 | osteoporosis unspecified
+viêm mô tế bào | L03.9 | cellulitis unspecified
+áp xe | L02.9 | cutaneous abscess unspecified
+não úng thủy | G91.9 | hydrocephalus unspecified
+tăng áp lực nội sọ | G93.2 | benign intracranial hypertension
+tăng nhãn áp | H40.9 | unspecified glaucoma
+đục thủy tinh thể | H26.9 | unspecified cataract
+# --- mở rộng đợt 1 (WHO ICD-10) ---
+tăng sản tuyến tiền liệt | N40 | benign prostatic hyperplasia
+phì đại tuyến tiền liệt | N40 | benign prostatic hyperplasia
+ung thư trực tràng | C20 | malignant neoplasm of rectum
+u ác trực tràng | C20 | malignant neoplasm of rectum
+suy hô hấp | J96.9 | respiratory failure unspecified
+toan chuyển hóa | E87.2 | acidosis
+rối loạn điện giải | E87.8 | electrolyte imbalance
+mất nước | E86 | volume depletion
+suy dinh dưỡng | E46 | unspecified protein-energy malnutrition
+viêm khớp dạng thấp | M06.9 | rheumatoid arthritis unspecified
+suy thượng thận | E27.4 | adrenocortical insufficiency
+sỏi niệu quản | N20.1 | calculus of ureter
+tràn khí màng phổi | J93.9 | pneumothorax unspecified
+viêm màng não | G03.9 | meningitis unspecified
+áp xe gan | K75.0 | abscess of liver
+phình động mạch chủ bụng | I71.4 | abdominal aortic aneurysm without rupture
+viêm nội tâm mạc | I38 | endocarditis valve unspecified
+thiếu máu cơ tim | I25.9 | chronic ischemic heart disease unspecified
+suy tuyến giáp | E03.9 | hypothyroidism unspecified
+tâm thần phân liệt | F20.9 | schizophrenia unspecified
+# --- mở rộng đợt 2 (file rỗng) ---
+sa âm đạo | N81.9 | female genital prolapse unspecified
+sa sinh dục | N81.9 | female genital prolapse unspecified
+tách thành động mạch chủ | I71.0 | dissection of aorta
+bóc tách động mạch chủ | I71.0 | dissection of aorta
+thoát vị hoành | K44.9 | diaphragmatic hernia without obstruction
+thoát vị cạnh thực quản | K44.9 | diaphragmatic hernia without obstruction
+thoát vị | K46.9 | unspecified abdominal hernia
+bàn chân vẹo bẩm sinh | Q66.0 | congenital talipes equinovarus
+tổn thương dây thanh quản | J38.3 | diseases of vocal cords
+rò động tĩnh mạch | I77.0 | arteriovenous fistula acquired
+loét tá tràng | K26.9 | duodenal ulcer unspecified
+loét thực quản | K22.1 | ulcer of esophagus
+viêm loét đại tràng | K51.9 | ulcerative colitis unspecified
+# --- mở rộng đợt 3 (từ đối chiếu GT: bệnh + alias) ---
+tim to | I51.7 | cardiomegaly
+phù gai thị | H47.1 | papilledema
+u ác của tuyến tiền liệt | C61 | malignant neoplasm of prostate
+u ác tuyến tiền liệt | C61 | malignant neoplasm of prostate
+ung thư tuyến tiền liệt | C61 | malignant neoplasm of prostate
+u ác của đại tràng | C18.9 | malignant neoplasm of colon
+u ác trực tràng | C20 | malignant neoplasm of rectum
+bệnh lý chất trắng | I67.9 | cerebrovascular disease unspecified
+nốt tuyến giáp | E04.1 | nontoxic single thyroid nodule
+nốt tuyến giáp trái | E04.1 | nontoxic single thyroid nodule
+nốt tuyến giáp thùy trái | E04.1 | nontoxic single thyroid nodule
+nhiễm khuẩn đường tiết niệu | N39.0 | urinary tract infection
+nhiễm trùng đường tiết niệu | N39.0 | urinary tract infection
+hội chứng ruột kích thích | K58 | irritable bowel syndrome [fix: K58.9 không tồn tại trong WHO, K58 mới đúng]
+tăng bilirubin máu | E80.7 | disorder of bilirubin metabolism
+viêm tủy xương mãn tính | M86.6 | chronic osteomyelitis
+viêm tủy xương | M86.9 | osteomyelitis unspecified
+tăng calci máu | E83.5 | disorders of calcium metabolism
+hạ calci máu | E83.5 | disorders of calcium metabolism
+ngoại tâm thu nhĩ | I49.1 | atrial premature depolarization
+ngoại tâm thu thất | I49.3 | ventricular premature depolarization
+nhịp tim chậm | R00.1 | bradycardia unspecified
+nhịp nhanh trên thất | I47.1 | supraventricular tachycardia
+nhịp nhanh thất | I47.2 | ventricular tachycardia
+rung thất | I49.0 | ventricular fibrillation
+sỏi ống mật chủ | K80.5 | calculus of bile duct
+sỏi ống mật | K80.5 | calculus of bile duct
+hội chứng nghiện rượu | F10.2 | alcohol dependence
+nghiện rượu | F10.2 | alcohol dependence
+chấn thương đầu | S09.9 | unspecified injury of head
+tràn dịch màng tim | I31.3 | pericardial effusion
+khí phế thủng | J43.9 | emphysema
+xẹp phổi | J98.1 | atelectasis
+nang màng nhện | G93.0 | cerebral cyst
+bệnh thận đa nang | Q61.3 | polycystic kidney
+tăng kali máu | E87.5 | hyperkalemia
+hạ kali máu | E87.6 | hypokalemia
+tăng natri máu | E87.0 | hypernatremia
+hạ natri máu | E87.1 | hyponatremia
+bất thường điện giải | E87.8 | electrolyte imbalance
+phình mạch não | I67.1 | cerebral aneurysm nonruptured
+nhiễm trùng răng miệng | K04.7 | periapical abscess
+gãy xương sườn | S22.3 | fracture of rib
+chấn thương gãy xương sườn | S22.3 | fracture of rib
+bàng quang thần kinh | N31.9 | neuromuscular dysfunction of bladder
+liệt hai chi dưới | G82.2 | paraplegia
+liệt hai chân | G82.2 | paraplegia
+đa u tủy xương | C90.0 | multiple myeloma
+đa u tuỷ xương | C90.0 | multiple myeloma
+viêm tuyến mồ hôi | L73.2 | hidradenitis suppurativa
+bệnh đa xơ cứng | G35 | multiple sclerosis
+phù phổi | J81 | pulmonary edema
+bệnh phổi kẽ | J84.9 | interstitial pulmonary disease
+thuyên tắc mạch phổi | I26.9 | pulmonary embolism
+tắc mạch phổi | I26.9 | pulmonary embolism
+sa van hai lá | I34.1 | mitral valve prolapse
+hẹp van động mạch chủ | I35.0 | aortic valve stenosis
+hở van động mạch chủ | I35.1 | aortic valve insufficiency
+hẹp van hai lá | I05.0 | mitral stenosis
+xuất huyết dưới nhện | I60.9 | subarachnoid hemorrhage
+xuất huyết dưới màng cứng | I62.0 | subdural hemorrhage
+ngừng thở khi ngủ | G47.3 | sleep apnea
+bệnh gan do rượu | K70.9 | alcoholic liver disease
+hẹp ống sống | M48.0 | spinal stenosis
+viêm họng do liên cầu | J02.0 | streptococcal pharyngitis
+giãn phế quản | J47 | bronchiectasis
+u xơ tử cung | D25.9 | leiomyoma of uterus
+u cơ trơn tử cung | D25.9 | leiomyoma of uterus
+tăng áp lực tĩnh mạch cửa | K76.6 | portal hypertension
+tăng áp tĩnh mạch cửa | K76.6 | portal hypertension
+gãy cổ xương đùi | S72.0 | fracture of neck of femur
+loạn thần | F29 | unspecified psychosis
+cơn đau thắt ngực ổn định | I20.9 | angina pectoris unspecified
+đau thắt ngực ổn định | I20.9 | angina pectoris unspecified
+cường cận giáp nguyên phát | E21.0 | primary hyperparathyroidism
+cường cận giáp | E21.0 | hyperparathyroidism
+bệnh mạch máu ngoại biên | I73.9 | peripheral vascular disease
+u sacoit | D86.9 | sarcoidosis
+sarcoidosis | D86.9 | sarcoidosis
+loét ở tá tràng | K26.9 | duodenal ulcer
+tiểu máu | R31 | hematuria
+rối loạn thần kinh | G98 | disorder of nervous system [fix: G98.8 không tồn tại trong WHO, G98 mới đúng]

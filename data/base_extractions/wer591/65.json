@@ -1,0 +1,202 @@
+[
+    {
+        "text": "rụng tóc từng mảng",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            35,
+            53
+        ],
+        "candidates": []
+    },
+    {
+        "text": "rụng tóc",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            252,
+            260
+        ],
+        "candidates": [
+            "L63.0"
+        ]
+    },
+    {
+        "text": "rụng tóc từng vùng",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            404,
+            422
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Corticosteroid",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            507,
+            521
+        ],
+        "candidates": []
+    },
+    {
+        "text": "corticoid",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            681,
+            690
+        ],
+        "candidates": []
+    },
+    {
+        "text": "rụng tóc toàn bộ",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            713,
+            729
+        ],
+        "candidates": [
+            "L63.1"
+        ]
+    },
+    {
+        "text": "rụng tóc toàn thể",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            735,
+            752
+        ],
+        "candidates": [
+            "L63.0"
+        ]
+    },
+    {
+        "text": "Nghiệm pháp gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            962,
+            982
+        ]
+    },
+    {
+        "text": "thiếu máu cơ tim cục bộ",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            998,
+            1021
+        ],
+        "candidates": [
+            "I25.5"
+        ]
+    },
+    {
+        "text": "ST chênh xuống",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1033,
+            1047
+        ]
+    },
+    {
+        "text": "diphenylcyclopropenone (diphencyprone)",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1116,
+            1154
+        ],
+        "candidates": []
+    },
+    {
+        "text": "dinitrochlorobenzene",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1158,
+            1178
+        ],
+        "candidates": []
+    },
+    {
+        "text": "viêm da tiếp xúc dị ứng",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1221,
+            1244
+        ],
+        "candidates": []
+    },
+    {
+        "text": "viêm da tiếp xúc",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1349,
+            1365
+        ],
+        "candidates": []
+    },
+    {
+        "text": "mày đay",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1367,
+            1374
+        ],
+        "candidates": []
+    },
+    {
+        "text": "bất thường sắc tố",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1376,
+            1393
+        ],
+        "candidates": [
+            "R82.2"
+        ]
+    },
+    {
+        "text": "bạch biến",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1402,
+            1411
+        ],
+        "candidates": [
+            "L80"
+        ]
+    },
+    {
+        "text": "PUVA (psoralen kết hợp UVA)",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1424,
+            1451
+        ],
+        "candidates": []
+    },
+    {
+        "text": "PUVA",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1452,
+            1456
+        ],
+        "candidates": []
+    }
+]

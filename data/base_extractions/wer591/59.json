@@ -1,0 +1,254 @@
+[
+    {
+        "text": "da rất nhiều dầu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            46,
+            62
+        ]
+    },
+    {
+        "text": "mụn trứng cá",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            69,
+            81
+        ]
+    },
+    {
+        "text": "dầu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            176,
+            179
+        ]
+    },
+    {
+        "text": "mụn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            207,
+            210
+        ]
+    },
+    {
+        "text": "mụn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            250,
+            253
+        ]
+    },
+    {
+        "text": "mụn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            266,
+            269
+        ]
+    },
+    {
+        "text": "mụn cám",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            316,
+            323
+        ]
+    },
+    {
+        "text": "mụn đầu trắng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            327,
+            340
+        ]
+    },
+    {
+        "text": "mụn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            481,
+            484
+        ]
+    },
+    {
+        "text": "da dầu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            557,
+            563
+        ]
+    },
+    {
+        "text": "mụn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            564,
+            567
+        ]
+    },
+    {
+        "text": "mụn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            593,
+            596
+        ]
+    },
+    {
+        "text": "Phổi thông khí đều",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            668,
+            686
+        ]
+    },
+    {
+        "text": "nước tiểu có cặn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            703,
+            719
+        ]
+    },
+    {
+        "text": "lactate",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            737,
+            744
+        ]
+    },
+    {
+        "text": "1.1-->0.8",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            745,
+            754
+        ]
+    },
+    {
+        "text": "Cấy nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            757,
+            770
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn đường tiết niệu",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            773,
+            800
+        ]
+    },
+    {
+        "text": "cấy máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            827,
+            834
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            836,
+            843
+        ]
+    },
+    {
+        "text": "MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            920,
+            923
+        ]
+    },
+    {
+        "text": "viêm xương tủy",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            948,
+            962
+        ]
+    },
+    {
+        "text": "Sừng hóa nang lông bất thường",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "L68.0"
+        ],
+        "assertions": [],
+        "position": [
+            972,
+            1001
+        ]
+    },
+    {
+        "text": "Viêm tại chỗ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1019,
+            1031
+        ]
+    },
+    {
+        "text": "mụn trứng cá",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1060,
+            1072
+        ]
+    },
+    {
+        "text": "dầu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1670,
+            1673
+        ]
+    },
+    {
+        "text": "nhân mụn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1680,
+            1688
+        ]
+    }
+]

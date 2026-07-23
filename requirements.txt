@@ -1,0 +1,11 @@
+# Python 3.10+  (developed on 3.12)
+torch>=2.1
+transformers>=4.40
+datasets>=2.18
+accelerate>=0.29
+sentencepiece>=0.2
+safetensors>=0.4
+numpy>=1.26
+# candidate linking uses an OpenAI-compatible embeddings endpoint (ViettelAI Qwen3-Embedding-4B)
+openai>=1.20
+python-dotenv>=1.0

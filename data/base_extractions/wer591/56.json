@@ -1,0 +1,170 @@
+[
+    {
+        "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            68,
+            107
+        ]
+    },
+    {
+        "text": "dị tật cố định vùng trước vách và vách dưới",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            119,
+            162
+        ]
+    },
+    {
+        "text": "giảm chức năng tâm thu thất trái nghiêm trọng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            168,
+            213
+        ]
+    },
+    {
+        "text": "rối loạn chức năng thất trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            223,
+            251
+        ]
+    },
+    {
+        "text": "Chụp động mạch vành",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            255,
+            274
+        ]
+    },
+    {
+        "text": "bệnh ba thân động mạch vành nghiêm trọng",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            284,
+            324
+        ],
+        "candidates": [
+            "F73"
+        ]
+    },
+    {
+        "text": "Viêm hang vị sung huyết",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            411,
+            434
+        ],
+        "candidates": [
+            "C16.3"
+        ]
+    },
+    {
+        "text": "đau bụng cồn cào",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            552,
+            568
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            578,
+            583
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            585,
+            591
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            612,
+            620
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            617,
+            620
+        ]
+    },
+    {
+        "text": "bệnh dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            641,
+            652
+        ],
+        "candidates": [
+            "A21.3"
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            720,
+            727
+        ]
+    },
+    {
+        "text": "viêm sung huyết hang vị dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            801,
+            831
+        ],
+        "candidates": [
+            "I50.0"
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            887,
+            901
+        ]
+    },
+    {
+        "text": "viêm sung huyết hang vị dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1281,
+            1311
+        ],
+        "candidates": [
+            "I50.0"
+        ]
+    }
+]

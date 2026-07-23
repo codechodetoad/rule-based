@@ -1,0 +1,52 @@
+[
+    {
+        "text": "chấn thương",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            124,
+            135
+        ]
+    },
+    {
+        "text": "MÀY đay VÔ CĂN",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            267,
+            281
+        ]
+    },
+    {
+        "text": "MÀY đay MẠN",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            365,
+            376
+        ]
+    },
+    {
+        "text": "bệnh lý mày đay vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            836,
+            858
+        ]
+    },
+    {
+        "text": "Bạn đay vô căn hộ",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            956,
+            973
+        ]
+    }
+]

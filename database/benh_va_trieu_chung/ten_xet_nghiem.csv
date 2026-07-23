@@ -1,0 +1,198 @@
+﻿entity,so_lan,so_file,cac_file
+chụp x-quang ngực,16,12,"1,3,12,16,20,35,37,40,50,66,84,97"
+creatinine,11,4,"36,37,76,82"
+kali,9,4,"37,51,84,97"
+nội soi,9,1,41
+siêu âm,8,5,"9,10,67,72,89"
+troponin,7,6,"3,35,40,75,76,84"
+chụp ct sọ não,7,1,58
+inr,6,3,"35,65,91"
+hct,6,1,54
+điện tâm đồ,5,4,"1,56,75,97"
+cấy máu,5,4,"12,28,84,96"
+tổng phân tích nước tiểu,5,5,"35,37,40,84,97"
+spo2,5,5,"40,51,56,91,94"
+Nhịp thở,5,5,"51,56,63,91,94"
+Huyết áp,5,5,"51,56,63,91,94"
+sinh thiết,4,2,"10,69"
+mri,4,3,"17,96,100"
+bạch cầu,4,4,"17,35,84,97"
+alt,4,3,"17,35,70"
+chụp CT,4,2,"23,92"
+test hơi thở h. pylori,4,1,41
+siêu âm tim,4,3,"43,78,83"
+Nhiệt độ,4,4,"51,56,91,94"
+Mạch,4,4,"51,56,91,94"
+ercp,4,1,70
+điện tâm đồ (ecg),3,1,3
+chụp cắt lớp vi tính sọ não,3,2,"3,23"
+chọc dò dịch não tủy,3,1,7
+Chụp động mạch vành,3,3,"14,83,86"
+chụp ct ngực không thuốc cản quang,3,1,20
+siêu âm vùng gan mật,3,1,28
+độ bão hòa oxy,3,2,"33,63"
+creatinin,3,3,"35,36,97"
+ast,3,2,"35,70"
+pcr,3,1,36
+siêu âm thận,3,1,36
+k,3,1,36
+ag (anion gap),3,2,"38,66"
+xét nghiệm phân tìm cryptosporidium,3,1,41
+cholangiogram,3,1,47
+lấy mẫu bằng bàn chải,3,1,47
+cấy nước tiểu,3,3,"84,96,97"
+monitor holter,2,1,1
+phân tích nước tiểu,2,1,1
+bảng công thức sinh hóa máu cơ bản,2,1,3
+bảng công thức máu,2,1,3
+bảng chức năng gan,2,1,3
+bản phân tích nước tiểu,2,1,3
+nội soi thực quản - dạ dày - tá tràng,2,1,4
+Xét nghiệm chức năng gan,2,1,4
+Nội soi mật tụy ngược dòng,2,2,"4,5"
+chụp ct sọ,2,1,7
+đánh giá thần kinh,2,1,7
+các băng nhóm oligoclonal,2,1,7
+chọc hút,2,1,8
+chọc hút bằng kim nhỏ,2,1,8
+huyết cầu tố,2,1,9
+công thức máu (cbc),2,2,"12,74"
+nghiệm pháp gắng sức,2,2,"14,56"
+x-quang,2,2,"17,61"
+siêu âm vùng cổ phải (scm),2,1,17
+chụp cắt lớp vi tính mạch máu (ctma) ngực,2,1,18
+siêu âm tim qua thành ngực (siêu âm tim qua thành ngực),2,1,20
+chụp ct sọ não không thuốc cản quang,2,1,22
+Siêu âm mạch máu chi trên,2,1,32
+bnp,2,2,"37,84"
+cr (creatinine),2,2,"38,100"
+siêu âm tim gắng sức dobutamine,2,1,43
+LHC,2,1,43
+chụp mạch máu,2,1,45
+chụp cắt lớp vi tính (ct),2,1,46
+sinh thiết và lấy mẫu bằng bàn chải,2,1,47
+chụp ct não,2,1,48
+dấu hiệu sinh tồn,2,1,54
+xét nghiệm gắng sức,2,1,56
+chụp cắt lớp vi tính (ct) đầu,2,1,59
+phân có guaiac,2,1,69
+Nội soi đại tràng,2,1,69
+alp,2,1,70
+bilirubin toàn phần,2,1,70
+siêu âm bụng có doppler,2,1,70
+chụp hida,2,1,70
+các xét nghiệm chức năng gan,2,1,72
+bilirubin,2,1,72
+ercp (nội soi mật tụy ngược dòng),2,1,72
+lấy mẫu tế bào bằng chổi,2,1,72
+điện tim,2,1,75
+lactate,2,2,"84,96"
+xét nghiệm máu,2,2,"92,97"
+canxi ion hóa,2,1,100
+siêu âm tim qua thành ngực,1,1,1
+ecg,1,1,1
+Chụp cộng hưởng từ mật tụy,1,1,4
+Cộng hưởng từ mật tụy,1,1,4
+chụp cộng hưởng từ mật tụy tụi mật,1,1,4
+ast (aspartate aminotransferase),1,1,5
+alt (alanine aminotransferase),1,1,5
+phosphatase kiềm (ap),1,1,5
+bilirubin toàn phần (tbili),1,1,5
+bạch cầu (wbc),1,1,5
+siêu âm Doppler động mạch,1,1,6
+siêu âm doppler hai chiều,1,1,6
+Kết quả xét nghiệm tế bào học từ dịch chọc hút,1,1,8
+tế bào học từ dịch chọc hút,1,1,8
+siêu âm tử cung,1,1,9
+cea (kháng nguyên ung thư phôi),1,1,10
+mri vùng chậu,1,1,10
+Xạ hình tưới máu cơ tim,1,1,14
+huyết khối,1,1,16
+siêu âm vùng cổ phải,1,1,17
+neutrophil,1,1,17
+lymphocyte,1,1,17
+chem 7,1,1,17
+ck,1,1,17
+hiv vl,1,1,17
+soi tươi ký sinh trùng,1,1,17
+xạ hình tưới máu cơ tim mibi,1,1,20
+xạ hình tưới máu cơ tim  mibi,1,1,20
+chụp xạ hình tim bằng mibi,1,1,20
+CT sọ não,1,1,23
+cấy mẫu bệnh phẩm,1,1,24
+lipase,1,1,28
+tbr,1,1,28
+chụp ct bụng chậu,1,1,28
+xạ hình thông khí - tưới máu phổi,1,1,32
+Xạ hình thông khí – tưới máu phổi,1,1,32
+kali (k),1,1,37
+ure (bun),1,1,37
+hemoglobin,1,1,37
+hba1c,1,1,37
+cúm,1,1,37
+glucose,1,1,38
+bun (ure),1,1,38
+công thức máu,1,1,39
+Kết quả chụp cắt lớp vi tính,1,1,39
+số lượng bạch cầu,1,1,40
+thông tim,1,1,43
+thông tim trái,1,1,43
+chụp tim mạch,1,1,43
+chụp mạch máu thận,1,1,46
+lưu lượng đỉnh thở ra,1,1,50
+mrcp (chụp cộng hưởng từ mật tụy),1,1,52
+chụp x-quang,1,1,54
+nghiệm pháp gắng sức trên máy chạy bộ,1,1,56
+chụp cộng hưởng từ (mri) cột sống cổ,1,1,57
+chụp cắt lớp vi tính,1,1,61
+nhịp tim,1,1,63
+bun/creatinine,1,1,63
+"chụp ct bụng, chậu, không thuốc cản quang",1,1,63
+hct (hematocrit),1,1,66
+tiểu cầu (platelets),1,1,66
+hco3- (bicarbonate),1,1,66
+bun/creatinine (ure/creatinine),1,1,66
+glucose (đường huyết),1,1,66
+lactate (acid lactat),1,1,66
+ua (urinalysis - tổng phân tích nước tiểu),1,1,66
+chụp x-quang bàn chân phải,1,1,66
+chụp cắt lớp vi tính ổ bụng,1,1,69
+tổng bilirubin,1,1,70
+nồng độ acetaminophen,1,1,70
+total bili,1,1,70
+bảng xét nghiệm viêm gan virus,1,1,70
+ferritin,1,1,70
+ceruloplasmin,1,1,70
+hệ số tống máu,1,1,71
+áp lực nạp,1,1,71
+áp lực tâm thu phổi,1,1,71
+áp lực tĩnh mạch bít,1,1,71
+xét nghiệm huyết thanh,1,1,72
+chụp cắt lớp vi tính (ct) bụng và chậu,1,1,74
+EKG,1,1,75
+thử nghiệm gắng sức,1,1,76
+k (kali),1,1,76
+phosphate,1,1,76
+điện tâm đồ (ekg),1,1,76
+chỉ số bão hòa oxy,1,1,78
+chụp cắt lớp vi tính (ct) cột sống cổ,1,1,80
+chụp cắt lớp vi tính (ct) lồng ngực,1,1,80
+chụp cắt lớp vi tính (ct) sọ,1,1,81
+chụp cắt lớp vi tính (ct) bụng,1,1,81
+Ure,1,1,82
+photpho,1,1,82
+độ bão hòa oxy (SPO2),1,1,84
+Đo sức bền cơ tim bằng đồng vị phóng xạ,1,1,86
+Chụp động mạch vành can thiệp,1,1,86
+Xquang ngực thẳng,1,1,96
+svo2,1,1,96
+cvp,1,1,96
+huyết áp tâm thu,1,1,97
+tiểu cầu,1,1,97
+đường huyết lúc đói,1,1,97
+phim chụp CT,1,1,98
+Định lượng IgA,1,1,98
+canxi,1,1,100
+canxi toàn phần,1,1,100
+canx toàn phầni,1,1,100
+MRI ngoại trú,1,1,100

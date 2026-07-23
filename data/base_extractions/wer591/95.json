@@ -1,0 +1,316 @@
+[
+    {
+        "text": "bệnh gút",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            64,
+            72
+        ],
+        "candidates": [
+            "M10.0"
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            115,
+            118
+        ]
+    },
+    {
+        "text": "hạt nhỏ màu trắng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            166,
+            183
+        ]
+    },
+    {
+        "text": "bệnhgout",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            396,
+            404
+        ],
+        "candidates": []
+    },
+    {
+        "text": "hạt nhỏ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            467,
+            474
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            508,
+            517
+        ]
+    },
+    {
+        "text": "bệnh gout mạn tính",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            524,
+            542
+        ],
+        "candidates": [
+            "A24.2"
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            558,
+            567
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            588,
+            597
+        ]
+    },
+    {
+        "text": "axit urictăng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            652,
+            665
+        ]
+    },
+    {
+        "text": "cục u cứng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            718,
+            728
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            764,
+            773
+        ]
+    },
+    {
+        "text": "sưng, tấy đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            788,
+            800
+        ]
+    },
+    {
+        "text": "khối u",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            835,
+            841
+        ]
+    },
+    {
+        "text": "cản trở vận động",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            859,
+            875
+        ]
+    },
+    {
+        "text": "hạt tophi bị vỡ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            908,
+            923
+        ]
+    },
+    {
+        "text": "hoại tử",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            938,
+            945
+        ],
+        "candidates": [
+            "K04.1"
+        ]
+    },
+    {
+        "text": "biến dạng xương khớp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            947,
+            967
+        ],
+        "candidates": []
+    },
+    {
+        "text": "nhiễm trùng máu",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            973,
+            988
+        ],
+        "candidates": [
+            "D76.2"
+        ]
+    },
+    {
+        "text": "acid uric",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1024,
+            1033
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1039,
+            1048
+        ]
+    },
+    {
+        "text": "cơn gout cấp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1072,
+            1084
+        ],
+        "candidates": [
+            "E05.5"
+        ]
+    },
+    {
+        "text": "đau các khớp",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1086,
+            1098
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1162,
+            1164
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1165,
+            1179
+        ],
+        "candidates": [
+            "P70.2"
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1186,
+            1199
+        ],
+        "candidates": [
+            "I10"
+        ]
+    },
+    {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1206,
+            1213
+        ],
+        "candidates": []
+    },
+    {
+        "text": "ngưng thở khi ngủ do tắc nghẽn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1220,
+            1250
+        ],
+        "candidates": [
+            "G47.3"
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1287,
+            1294
+        ],
+        "candidates": []
+    },
+    {
+        "text": "mucinex d",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1301,
+            1310
+        ],
+        "candidates": []
+    },
+    {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1330,
+            1339
+        ]
+    }
+]

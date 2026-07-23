@@ -1,0 +1,223 @@
+[
+    {
+        "text": "HA",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            83,
+            85
+        ]
+    },
+    {
+        "text": "160/70 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            89,
+            100
+        ]
+    },
+    {
+        "text": "HA:",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            119,
+            122
+        ]
+    },
+    {
+        "text": "170/60 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            123,
+            134
+        ]
+    },
+    {
+        "text": "HA:",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            154,
+            157
+        ]
+    },
+    {
+        "text": "150/60 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            159,
+            170
+        ]
+    },
+    {
+        "text": "hồi hợp",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            197,
+            204
+        ]
+    },
+    {
+        "text": "cảm giác rợn người",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            206,
+            224
+        ]
+    },
+    {
+        "text": "HA",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            243,
+            245
+        ]
+    },
+    {
+        "text": "HA",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            272,
+            274
+        ]
+    },
+    {
+        "text": "HA",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            391,
+            393
+        ]
+    },
+    {
+        "text": "cảm giác rợn người",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            427,
+            445
+        ]
+    },
+    {
+        "text": "hồi hộp",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            447,
+            454
+        ]
+    },
+    {
+        "text": "cảm nhận được tim đập rất mạnh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            456,
+            486
+        ]
+    },
+    {
+        "text": "tăng HA",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            692,
+            699
+        ],
+        "candidates": []
+    },
+    {
+        "text": "huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            806,
+            814
+        ]
+    },
+    {
+        "text": "lo âu căng thẳng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            986,
+            1002
+        ]
+    },
+    {
+        "text": "huyết áp tăng lên",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1007,
+            1024
+        ]
+    },
+    {
+        "text": "huyết áp lên cao",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1212,
+            1230
+        ]
+    },
+    {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1302,
+            1309
+        ]
+    },
+    {
+        "text": "chưa phát hiện bất thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1309,
+            1334
+        ]
+    },
+    {
+        "text": "đại tràng giãn nhẹ?",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1364,
+            1386
+        ]
+    },
+    {
+        "text": "Tăng huyết áp?",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1424,
+            1440
+        ],
+        "candidates": [
+            "I10"
+        ]
+    },
+    {
+        "text": "Rối loạn lo âu",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1466,
+            1482
+        ],
+        "candidates": []
+    }
+]

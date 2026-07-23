@@ -1,0 +1,3735 @@
+[
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 46,
+    "files": [
+      1,
+      8,
+      14,
+      27,
+      28,
+      32,
+      33,
+      38,
+      42,
+      43,
+      44,
+      47,
+      50,
+      53,
+      56,
+      73,
+      74,
+      75,
+      76,
+      78,
+      91,
+      93,
+      95,
+      96,
+      100
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 35,
+    "files": [
+      1,
+      3,
+      5,
+      16,
+      28,
+      34,
+      38,
+      39,
+      40,
+      41,
+      47,
+      63,
+      70,
+      74,
+      76,
+      82,
+      91,
+      94,
+      99
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 30,
+    "files": [
+      5,
+      12,
+      16,
+      17,
+      24,
+      27,
+      28,
+      32,
+      38,
+      39,
+      40,
+      47,
+      52,
+      55,
+      64,
+      95
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 29,
+    "files": [
+      3,
+      16,
+      27,
+      28,
+      32,
+      40,
+      42,
+      43,
+      44,
+      47,
+      73,
+      74,
+      75,
+      76,
+      91,
+      95,
+      100
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 28,
+    "files": [
+      1,
+      12,
+      16,
+      17,
+      40,
+      44,
+      51,
+      58,
+      69,
+      71,
+      82,
+      84,
+      86
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 22,
+    "files": [
+      1,
+      4,
+      5,
+      16,
+      28,
+      35,
+      39,
+      40,
+      44,
+      47,
+      70,
+      76,
+      82,
+      91,
+      94,
+      95
+    ]
+  },
+  {
+    "text": "đánh trống ngực",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 17,
+    "files": [
+      1,
+      3,
+      16,
+      27,
+      44,
+      73,
+      78
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 17,
+    "files": [
+      5,
+      10,
+      12,
+      27,
+      32,
+      38,
+      40,
+      78,
+      84,
+      98
+    ]
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 17,
+    "files": [
+      10,
+      16,
+      36,
+      40,
+      41,
+      51,
+      76
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 16,
+    "files": [
+      3,
+      7,
+      14,
+      16,
+      24,
+      44,
+      56,
+      64,
+      65,
+      100
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 14,
+    "files": [
+      4,
+      5,
+      16,
+      28,
+      41,
+      42,
+      63,
+      91,
+      96,
+      97
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 13,
+    "files": [
+      5,
+      27,
+      28,
+      39,
+      42,
+      47,
+      74,
+      95
+    ]
+  },
+  {
+    "text": "nôn ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 13,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 11,
+    "files": [
+      13,
+      24,
+      42
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 11,
+    "files": [
+      17,
+      50,
+      59
+    ]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 10,
+    "files": [
+      3,
+      16,
+      27,
+      70,
+      82,
+      83
+    ]
+  },
+  {
+    "text": "ngất xỉu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 9,
+    "files": [
+      3,
+      43,
+      44,
+      100
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 9,
+    "files": [
+      30,
+      35
+    ]
+  },
+  {
+    "text": "táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 8,
+    "files": [
+      5,
+      16,
+      49,
+      63,
+      99
+    ]
+  },
+  {
+    "text": "chướng bụng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 7,
+    "files": [
+      4,
+      39
+    ]
+  },
+  {
+    "text": "chủ quan sốt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 7,
+    "files": [
+      33,
+      34,
+      42
+    ]
+  },
+  {
+    "text": "tiếng rít",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 7,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "khò khè",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 6,
+    "files": [
+      32,
+      50
+    ]
+  },
+  {
+    "text": "khó thở khi nằm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 5,
+    "files": [
+      3,
+      40,
+      43,
+      71
+    ]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 5,
+    "files": [
+      5,
+      58,
+      97
+    ]
+  },
+  {
+    "text": "tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 5,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "đau ngực trái",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 5,
+    "files": [
+      14,
+      18
+    ]
+  },
+  {
+    "text": "yếu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 5,
+    "files": [
+      19,
+      44,
+      68
+    ]
+  },
+  {
+    "text": "thiếu oxy",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 5,
+    "files": [
+      33,
+      40,
+      84
+    ]
+  },
+  {
+    "text": "Ăn uống kém",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 5,
+    "files": [
+      34,
+      35,
+      41
+    ]
+  },
+  {
+    "text": "Toàn trạng suy kiệt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 5,
+    "files": [
+      34,
+      35
+    ]
+  },
+  {
+    "text": "đổ mồ hôi",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      1,
+      3,
+      56
+    ]
+  },
+  {
+    "text": "buồn nôn thoáng qua",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "Lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      7,
+      35
+    ]
+  },
+  {
+    "text": "hạ huyết áp, không đặc hiệu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      16,
+      58
+    ]
+  },
+  {
+    "text": "tiểu tiện không tự chủ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      23,
+      29
+    ]
+  },
+  {
+    "text": "căng cứng vai trái",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "phù chi dưới",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      33,
+      44
+    ]
+  },
+  {
+    "text": "khó khăn khi cài cúc áo",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "vụng về",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "kéo lê chân trái",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "vã mồ hôi",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      75,
+      76
+    ]
+  },
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 4,
+    "files": [
+      77,
+      87
+    ]
+  },
+  {
+    "text": "mất ý thức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      3,
+      20
+    ]
+  },
+  {
+    "text": "đau vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      4,
+      67
+    ]
+  },
+  {
+    "text": "Nôn mửa",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      4,
+      44,
+      74
+    ]
+  },
+  {
+    "text": "đau bụng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      4,
+      94
+    ]
+  },
+  {
+    "text": "ảo giác thị giác",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "đau bụng dưới",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      9,
+      74
+    ]
+  },
+  {
+    "text": "đau cơ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "ho khan",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      17,
+      71
+    ]
+  },
+  {
+    "text": "mất định hướng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "sốt nhẹ đến 38.3°C",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "đau hạ sườn phải tái phát, ngày càng nặng hơn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "run rẩy",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      34,
+      52
+    ]
+  },
+  {
+    "text": "khó khăn khi ăn uống qua đường miệng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "phù",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      42,
+      71
+    ]
+  },
+  {
+    "text": "kéo khóa quần",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "tiểu tiện ra sàn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "khó khăn khi ra khỏi ghế tựa",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "khó khăn khi ăn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "ho nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "Đau đầu dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "sưng nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "đau nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "nhìn song thị",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "yếu sức chân phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "tỉnh chậm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "phản xạ kém",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "nhìn mờ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      59
+    ]
+  },
+  {
+    "text": "đau hố chậu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "đau bụng ngày càng nặng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "đau bụng liên tục",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "mất trí nhớ chi tiết",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "nhịp thở nhanh",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "hạ thân nhiệt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 3,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "cảm giác thắt chặt ngực vùng trước tim",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "cảm giác thắt chặt ngực",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      1,
+      53
+    ]
+  },
+  {
+    "text": "khó chịu vùng ngực",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "đau chân",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "khó thở về đêm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "phù mắt cá chân",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "Xỉu trước",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "đau lưng kéo dài",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "đau bụng vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "rối loạn thị giác",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "Ảo thanh (AH)",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "khó nuốt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      8,
+      27
+    ]
+  },
+  {
+    "text": "chảy máu nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "ho ra máu cỡ đồng xu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "ho ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "tổn thương vùng âm hộ và mông bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "cực kỳ đau đớn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "khó khăn khi ra khỏi giường",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "đau bụng gián đoạn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "ho mạn tính có đờm vàng loãng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "phù phù",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "phân nâu dương tính guaiac",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "sưng quanh khớp ức đòn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "đau cổ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "đau sau xương ức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      18
+    ]
+  },
+  {
+    "text": "đau bẹn trái",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "Cơn rối loạn ý thức thoáng qua",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "đi lại không vững",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "kích thích nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "cứng đờ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "cắn lưỡi",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "co giật",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      23,
+      58
+    ]
+  },
+  {
+    "text": "sưng nề",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      24
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn trên vùng da",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      24
+    ]
+  },
+  {
+    "text": "đau bụng trên",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "Khó thở tăng dần",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "cảm giác nghẹt ngực",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "nghẹt ngực",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      32,
+      40
+    ]
+  },
+  {
+    "text": "ho có đờm trắng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "đau bụng/khó chịu vùng bụng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "nôn x 1",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "mất cảm giác ngon miệng/chán ăn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "suy nhược",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "yếu cơ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "ăn vào dễ nôn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "ra dịch mật",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "uống kém",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "đau họng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "Tăng tăng cân 3 pound trong 7 ngày qua",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "đau bụng dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      39
+    ]
+  },
+  {
+    "text": "mất ăn ngon",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      39
+    ]
+  },
+  {
+    "text": "đau buốt khi đi tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      40,
+      44
+    ]
+  },
+  {
+    "text": "đau tăng dần khi đi lại",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      42
+    ]
+  },
+  {
+    "text": "phù hai bên",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      42
+    ]
+  },
+  {
+    "text": "lơ mơ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      42,
+      92
+    ]
+  },
+  {
+    "text": "cơn ngất xỉu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "đau rát khi đi tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "chán ăn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn xung quanh vị trí đặt ống dẫn, đặc biệt là khi hít thở sâu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      47
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "cảm thấy yếu sức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "cảm giác bất thường ở bên phải đầu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "Cánh tay trái lơ lửng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "căng tức vùng âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "khô âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "ra huyết âm đạo lượng ít",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "đau khi ấn xoang",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "mất ngủ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "Đau hạ vị",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "máu từ trực tràng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "đau quanh vết mổ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      55
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      56,
+      84
+    ]
+  },
+  {
+    "text": "yếu sức nửa người bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "tình trạng tri giác giảm sút",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "không thể chịu lực ở chân phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "nhịp tim chậm nặng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "mờ mắt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      59
+    ]
+  },
+  {
+    "text": "trào ngược",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      60
+    ]
+  },
+  {
+    "text": "đau đầu gối phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      61
+    ]
+  },
+  {
+    "text": "táo bón trở nên tồi tệ hơn gần đây",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      64
+    ]
+  },
+  {
+    "text": "đau vùng hạ vị bên phải và hạ vị bên trái",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      64
+    ]
+  },
+  {
+    "text": "đổ mồ hôi qua đêm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      64
+    ]
+  },
+  {
+    "text": "hoa mắt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      64
+    ]
+  },
+  {
+    "text": "đi tiêu bình thường, không ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      64
+    ]
+  },
+  {
+    "text": "đại tiện ra máu đỏ tươi gián đoạn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      65
+    ]
+  },
+  {
+    "text": "đau bàn chân phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "khó thở khi gắng sức nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "sưng phù hai mắt cá chân",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "Đau tiến triển và lan vào sườn trái và LLQ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "khó chịu khi đi tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "đau ngực trái dữ dội lan xuống cánh tay trái",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "suy nhược toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      78
+    ]
+  },
+  {
+    "text": "hồi hộp",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      78
+    ]
+  },
+  {
+    "text": "chảy dịch liên tục từ mặt trong của bàn chân trái",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      79
+    ]
+  },
+  {
+    "text": "vết thương thấu bụng giữa bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      81
+    ]
+  },
+  {
+    "text": "mệt mỏi nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "ăn không ngon miệng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "ngứa da toàn thân nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "chảy nước mũi",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "giọng khàn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      90
+    ]
+  },
+  {
+    "text": "chảy máu mũi",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "nhầy máu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      94,
+      95
+    ]
+  },
+  {
+    "text": "sốt cao",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "biến đổi ý thức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "đau dai dẳng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 2,
+    "files": [
+      99
+    ]
+  },
+  {
+    "text": "giảm dung nạp gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "quầng sáng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "mất kiểm soát đại tiện hoặc tiểu tiện",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "khó chịu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "choáng váng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "đau đầu gối",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "nôn ói",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "đau lưng kéo dài từ lâu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "Đau bụng chủ yếu khu trú vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "đau lưng âm ỉ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "đau lưng (khu trú vùng cạnh cột sống bên trái đoạn giữa lưng, đôi khi lan ra phía trước bụng.)",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "đau bụng vùng thượng vị",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "tiểu khó",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "Lú lẫn từng đợt gần đây",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "cảm giác chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "khó khăn khi nhìn gần",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "ảo giác thính giác",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "Khó khăn về thị lực gần",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "khàn tiếng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      8
+    ]
+  },
+  {
+    "text": "lower abdominal pain",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "Đờm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "đau bụng quặn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "đi ngoài ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "không tăng cân nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "cổ trướng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      11
+    ]
+  },
+  {
+    "text": "đờm có màu hồng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "Đờm pha màu hồng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "fever",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "Đau bụng  âm ỉ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "tổn thương vùng âm hộ phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "tổn thương đơn độc vùng âm hộ phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "bọng nước",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "đau nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "rỉ dịch vàng đục giống mủ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "tổn thương dạng bóng nước",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "dịch giống mủ có màu vàng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "chảy mủ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "dịch tiết có vẻ như mủ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "tụt huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "chán ăn trong vài tháng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "dịch từ vết mổ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "đỏ da",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "bục chỉ khâu bụng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "ran nổ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "dịch rỉ huyết thanh từ vết mổ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "ran",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "dịch thanh dịch lẫn máu từ vết mổ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "không khỏe",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "đau cổ và vai phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "đau vai phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "sợ ánh sáng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "hơi đau khi sờ nắn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "đau khi vận động cánh tay",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "đau lan ra sau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      18
+    ]
+  },
+  {
+    "text": "đau ngực lan ra sau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      18
+    ]
+  },
+  {
+    "text": "đôi khi lan ra bên hông trái, xuống đầu gối trái khi đau dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "tê",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "cảm giác châm chích",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "cảm giác nặng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "Bầm máu vùng bẹn trái",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "Sáng nay không thể tự ra khỏi giường và tự đi lại",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "Đau ở hông phải khi cử động và thay đổi tư thế",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "Than phiền đau ở hông phải khi cử động và thay đổi tư thế",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "tiểu đêm nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "rối loạn thần kinh",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      22
+    ]
+  },
+  {
+    "text": "cơn co giật",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "đau đầu kéo dài",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "đau đầu vùng thái dương phải và đỉnh đầu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "tê bì nửa mặt phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "gần như ngất",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "ý thức dao động",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "run giật tay chân",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "Đau đầu vùng thái dương phải, đỉnh đầu, đôi khi lan ra sau mắt phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "Tê bì vùng trán phải, da đầu phải và nửa mặt phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "Mất thăng bằng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "Gần ngất",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn ở vết mổ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      24
+    ]
+  },
+  {
+    "text": "ban đỏ lan rộng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      24
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn vùng mổ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      24
+    ]
+  },
+  {
+    "text": "đau ấn vùng mổ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      24
+    ]
+  },
+  {
+    "text": "rung động tại vị trí lỗ rò",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      25
+    ]
+  },
+  {
+    "text": "Cảm giác có đờm ở cổ họng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      27
+    ]
+  },
+  {
+    "text": "khó thở tăng lên",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      27
+    ]
+  },
+  {
+    "text": "Cơn nhịp nhanh",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      27
+    ]
+  },
+  {
+    "text": "đau hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "đau hạ sườn phải liên tục",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "thay đổi chức năng ruột",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "bàng quang căng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      29
+    ]
+  },
+  {
+    "text": "cảm giác bí tiếu liên tục",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      29
+    ]
+  },
+  {
+    "text": "sờ thấy một khối cứng trong âm đạo khi bệnh nhân vệ sinh cá nhân",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      29
+    ]
+  },
+  {
+    "text": "Bệnh nhân nhìn/nghe thấy có nhiều người (đôi khi tổng cộng khoảng 8 người).",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      30
+    ]
+  },
+  {
+    "text": "Ảo giác không mang tính chất ra lệnh",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      30
+    ]
+  },
+  {
+    "text": "Bệnh nhân thường hoang tưởng/lo sợ rằng họ sẽ chạm vào da của mình.",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      30
+    ]
+  },
+  {
+    "text": "ảo giác khoảng mỗi đêm lúc 2 giờ sáng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      30
+    ]
+  },
+  {
+    "text": "cơn co tử cung",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      31
+    ]
+  },
+  {
+    "text": "ra huyết âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      31
+    ]
+  },
+  {
+    "text": "vỡ ối/rỉ ối",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      31
+    ]
+  },
+  {
+    "text": "phù ngoại vi tăng dần",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "đau vai",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "Khó thở tăng dần, chủ yếu khi gắng sức.",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "Nghẹt ngực kéo dài.",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "Ho.",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "Phù ngoại vi tăng dần trong vài tuần gần đây.",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "ho và khò khè tăng lên",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "ho nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "khó nằm vào ban đêm để ngủ vì thở",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "khó nằm vào ban đêm để ngủ vì khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "giảm lượng nước tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "tăng đáng kể lượng dịch từ ống thông hồi tràng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "thiểu niệu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "chảy dịch từ lỗ dò tăng đáng kể",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "Nhiều lần ngã gần đây",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "Cực kỳ yếu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "ngã hôm nay",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "trượt ngã xuống sàn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "đau họng kèm theo nuốt vướng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      39
+    ]
+  },
+  {
+    "text": "khó thở nhẹ-vừa khó thở khi gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "đi tiểu nhiều lần vào ban đêm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "khó thở khi gắng sức bao gồm cảm giác khó thở sau khi đi bộ vài khối",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "ho đặc như bã theo lời bệnh nhân nhưng ông ấy không khạc nhổ gì",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "tiêu chảy đã tự khỏi vào buổi sáng hôm sau",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "đổ mồ hôi đêm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "khó thở khi nằm đột ngột (paroxysmal nocturnal dyspnea)",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "nausea",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "diarrhea",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "abdominal pain",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "đau tăng dần",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      42
+    ]
+  },
+  {
+    "text": "cảm giác như vòi nước",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "cảm giác như bị xịt nước bắt đầu ở ngực trái lan sang ngực phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "khó thở khi ngủ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "weak",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "ngủ quên",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "giảm khả năng quan hệ tình dục",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "tê bì ở cánh tay trái trên",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "đau ở cánh tay trái dưới và bàn tay",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "shortness of breath",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "khó khăn với hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      46
+    ]
+  },
+  {
+    "text": "khó kiểm soát huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      46
+    ]
+  },
+  {
+    "text": "đi khập khiễng cách quãng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      46
+    ]
+  },
+  {
+    "text": "va đập đầu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "cánh tay trái được cho là lơ lửng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "khó khăn khi ước lượng vị trí ngồi xuống ghế ăn trưa",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "cánh tay buông thõng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "khó khăn khi tự ăn tối",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "Khó kéo khóa quần",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "khó khăn khi ước lượng vị trí ngồi xuống ghế",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "đi tiểu trên sàn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "khó khăn khi ước lượng vị trí ngồi",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "cảm giác bất thường bên phải đầu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "đập đầu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "khối lồi trong âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "khối sa tại âm hộ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "tiểu buốt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "không kiểm soát được tiểu tiện",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "đau nhiều khi  giao hợp",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "khối sa lồi ra âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "Tiểu dắt",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "Tiểu không tự chủ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "Đau khi giao hợp",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "khối lồi âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "đau khi đi tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "đau vùng hạ vị",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "Đau vùng xoang",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "khó chịu chung",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "nghẹt mũi",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "đau đầu bên trái",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "phân đen",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "máu đỏ tươi",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "dịch nhầy",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "Cảm giác thắt chặt ngực dưới xương ức nghiêm trọng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      53
+    ]
+  },
+  {
+    "text": "máu trong phân",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "rối loạn huyết động",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "sưng ở chân trái",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "máu trong trực tràng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "suy giảm huyết động",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "khó chịu vùng ngực gián đoạn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      56
+    ]
+  },
+  {
+    "text": "yếu chân phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "yếu nửa người bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "suy giảm tri giác",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "nhịp tim chậm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "không nhấc chân phải khỏi mặt giường",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "chân phải liên tục khuỵ xuống",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "đau vùng xương bánh chè – đùi phải dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      61
+    ]
+  },
+  {
+    "text": "Đau bánh chè đùi phải dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      61
+    ]
+  },
+  {
+    "text": "đau đau dữ dội khi thực hiện hầu hết các hoạt động",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      61
+    ]
+  },
+  {
+    "text": "loét đau",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      62
+    ]
+  },
+  {
+    "text": "loét đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      62
+    ]
+  },
+  {
+    "text": "loét sưng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      62
+    ]
+  },
+  {
+    "text": "mất thăng bằng khi đi lại",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "đau bàn chân phải đã hoàn toàn hết",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "Vẫn cảm thấy không vững khi đứng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "cơn đau dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "đau bụng trở nên tồi tệ hơn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "mệt mỏi toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "yếu sức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "ngứa toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "tiểu ra máu không đau",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "Đau vùng gan phải (RUQ) và thượng vị lan ra sau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "thay đổi thói quen đại tiện",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "phân có máu, đen hoặc nhựa đường",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "vàng da không đau",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "khó chịu khi đại tiện",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "đau liên tục, lan tỏa ra lưng và có tính chất kéo",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "máu trong phân hoặc nước tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "đau đớn khi đi tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "tiểu gấp",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "chảy máu âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "khí hư bất thường",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "thay đổi cân nặng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "đau ngực sau xương ức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "Đau ngực dữ dội sau xương ức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "ý nghĩ tự bắn vào đầu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "các giai đoạn giống hưng cảm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "tăng hoạt động",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "giảm nhu cầu ngủ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "ý nghĩ tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "nghĩ tự bắn vào đầu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "lo âu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "hoảng sợ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "hoang tưởng như đang chiếm khí oxy của người khác",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "khó thở kéo dài",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      78
+    ]
+  },
+  {
+    "text": "khó thở liên tục, nhất là khi nằm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      78
+    ]
+  },
+  {
+    "text": "khó thở tăng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      86
+    ]
+  },
+  {
+    "text": "Khó thở tăng khi vận động gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      86
+    ]
+  },
+  {
+    "text": "Đi lại khó khăn, cần dùng gậy hỗ trợ đi lại",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      86
+    ]
+  },
+  {
+    "text": "Đau hai bàn chân do bệnh lý thần kinh ngoại biên",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      86
+    ]
+  },
+  {
+    "text": "buồn chán",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      87
+    ]
+  },
+  {
+    "text": "Phù chân trái và hoại tử ngày càng nặng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "phù chân",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "phù chân và hoại tử nặng lên",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "Phù 2 chân nặng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "chảy dịch vàng và có hoại tử đen kích thước 2*4 cm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "chân sonde dẫn lưu sưng nề, đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "chân sonde dẫn lưu ổ bụng sưng nề, đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "ý thúc chậm hơn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      92
+    ]
+  },
+  {
+    "text": "đau bụng vùng hạ sườn phải ngày càng tăng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "đi ngoài phân lỏng, toàn nước",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "đau bụng tăng lên",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "nôn nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "Buồn nôn, nôn ra thức ăn và dịch dạ dày, không có máu",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "đau bụng sau khi uống sữa",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      95
+    ]
+  },
+  {
+    "text": "đau âm ỉ vùng quanh rốn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      95
+    ]
+  },
+  {
+    "text": "đau bụng âm ỉ quanh rốn sau khí uống sữa",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      95
+    ]
+  },
+  {
+    "text": "xuất huyết dưới da",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      95
+    ]
+  },
+  {
+    "text": "đau âm ỉ vùng quanh rốn, hạ sườn trái từng cơni",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      95
+    ]
+  },
+  {
+    "text": "buồn nôn nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      95
+    ]
+  },
+  {
+    "text": "Cảm giác khát nước",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "Da khô, nếp véo da mất chậm",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "đau hông từng cơn",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "Mạch nhanh",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "Tim nhịp nhanh đều",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "đau toàn thân ít",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "đau ngực ít",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "đau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      98
+    ]
+  },
+  {
+    "text": "động kinh",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "đau ở sau đầu và cổ từ khi bị ngã trong bồn tắm năm ngoái đến nay",
+    "type": "TRIỆU_CHỨNG",
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  }
+]

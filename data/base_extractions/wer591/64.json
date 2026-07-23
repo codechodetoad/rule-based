@@ -1,0 +1,201 @@
+[
+    {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            62,
+            81
+        ],
+        "candidates": [
+            "I25.4"
+        ]
+    },
+    {
+        "text": "Vastarel",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            129,
+            137
+        ],
+        "candidates": []
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            203,
+            210
+        ]
+    },
+    {
+        "text": "Vastarel",
+        "type": "THUỐC",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            243,
+            251
+        ],
+        "candidates": []
+    },
+    {
+        "text": "bệnh Graves",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            283,
+            294
+        ],
+        "candidates": []
+    },
+    {
+        "text": "tăng lipid máu, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            301,
+            331
+        ],
+        "candidates": [
+            "E78.5"
+        ]
+    },
+    {
+        "text": "run rẩy tay chân",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            338,
+            354
+        ]
+    },
+    {
+        "text": "mất thăng bằng khi đi đứng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            356,
+            382
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            417,
+            424
+        ]
+    },
+    {
+        "text": "trimetazidine",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            518,
+            531
+        ],
+        "candidates": []
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            725,
+            732
+        ]
+    },
+    {
+        "text": "Nitramyl 2,5 mg/viên (nitroglycerin)",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            810,
+            846
+        ],
+        "candidates": [
+            "312013"
+        ]
+    },
+    {
+        "text": "cơn đau thắt ngực",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            944,
+            961
+        ]
+    },
+    {
+        "text": "bệnh mạch vành",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            969,
+            983
+        ],
+        "candidates": [
+            "Q24.5"
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1201,
+            1208
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1210,
+            1219
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1221,
+            1229
+        ]
+    },
+    {
+        "text": "đỏ mặt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1231,
+            1237
+        ]
+    },
+    {
+        "text": "tụt huyết áp thế đứng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1251,
+            1272
+        ]
+    },
+    {
+        "text": "Nitramyl",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1508,
+            1516
+        ],
+        "candidates": []
+    }
+]

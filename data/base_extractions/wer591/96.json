@@ -1,0 +1,44 @@
+[
+    {
+        "text": "chụp cắt lớp vi tính (ct)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            57,
+            82
+        ]
+    },
+    {
+        "text": "tắc hẹp 80% động mạch thận trái L",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            107,
+            140
+        ],
+        "candidates": [
+            "Q27.1"
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính (ct)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            201,
+            226
+        ]
+    },
+    {
+        "text": "tắc hẹp 80% động mạch thận trái L",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            236,
+            269
+        ],
+        "candidates": [
+            "Q27.1"
+        ]
+    }
+]

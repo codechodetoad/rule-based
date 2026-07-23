@@ -1,0 +1,126 @@
+[
+    {
+        "text": "dấu mề đay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            81,
+            91
+        ]
+    },
+    {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            102,
+            106
+        ]
+    },
+    {
+        "text": "dấu mề đay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            157,
+            167
+        ]
+    },
+    {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            188,
+            192
+        ]
+    },
+    {
+        "text": "dị ứng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            357,
+            363
+        ]
+    },
+    {
+        "text": "MÀY ĐAY VÔ CĂN",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            733,
+            747
+        ],
+        "candidates": []
+    },
+    {
+        "text": "MÀY ĐAY MẠN TÍNH",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            839,
+            855
+        ],
+        "candidates": []
+    },
+    {
+        "text": "bệnh lý mày đay vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1388,
+            1410
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Mày đay vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1508,
+            1522
+        ],
+        "candidates": []
+    },
+    {
+        "text": "corticoid",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1965,
+            1974
+        ],
+        "candidates": []
+    },
+    {
+        "text": "chụp cộng hưởng từ (mri) cột sống cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            2235,
+            2271
+        ]
+    },
+    {
+        "text": "hẹp ống sống C4-5, C5-6, C6-7",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            2281,
+            2310
+        ]
+    },
+    {
+        "text": "hẹp lỗ liên hợp",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            2314,
+            2329
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+# TÊN_XÉT_NGHIỆM — seed lexicon (tiếng Việt + viết tắt). 1 cụm / dòng.
+# Tên xét nghiệm / thăm dò. Khớp không phân biệt hoa/thường.
+công thức máu
+tổng phân tích tế bào máu
+tổng phân tích tế bào máu ngoại vi
+huyết đồ
+bạch cầu
+hồng cầu
+tiểu cầu
+hemoglobin
+hematocrit
+wbc
+rbc
+plt
+hgb
+hct
+neut
+lymph
+ast
+alt
+aspartate aminotransferase
+alanine aminotransferase
+men gan
+bilirubin
+bilirubin toàn phần
+bilirubin trực tiếp
+phosphatase kiềm
+ure
+creatinin
+điện giải đồ
+natri
+kali
+clo
+canxi
+glucose
+đường huyết
+hba1c
+albumin
+protein toàn phần
+crp
+procalcitonin
+troponin
+ck-mb
+inr
+pt
+aptt
+d-dimer
+khí máu động mạch
+lactate
+amylase
+lipase
+tsh
+ft4
+psa
+tổng phân tích nước tiểu
+phân tích nước tiểu
+cấy máu
+cấy nước tiểu
+cấy đờm
+x-quang
+x-quang ngực
+x-quang bụng
+chụp x-quang
+chụp x-quang ngực
+ct
+ct scan
+chụp ct
+chụp cắt lớp vi tính
+mri
+chụp cộng hưởng từ
+siêu âm
+siêu âm bụng
+siêu âm tim
+siêu âm gan mật
+siêu âm tim qua thành ngực
+điện tâm đồ
+ecg
+ekg
+điện tim
+monitor holter
+holter
+nội soi
+nội soi dạ dày
+nội soi đại tràng
+nội soi mật tụy ngược dòng
+sinh thiết
+chọc dò
+# --- mở rộng đợt 1 ---
+cr
+bun
+egfr
+ck
+ldh
+inr
+crp
+siêu âm doppler
+chụp mạch
+chụp hida
+xạ hình
+điện não đồ
+đo chức năng hô hấp
+khí máu
+cắt lớp vi tính
+# --- mở rộng đợt 2 (từ đối chiếu GT) ---
+creatinine
+spo2
+độ bão hòa oxy
+nhịp thở
+nhịp tim
+huyết áp
+nhiệt độ
+ercp
+pcr
+anion gap
+chụp động mạch vành
+chụp mạch vành
+cholangiogram
+test hơi thở
+soi tươi
+soi phân
+tổng phân tích nước tiểu
+xét nghiệm phân
+cấy phân
+men gan
+bảng chuyển hóa
+troponin i
+troponin t
+# --- mở rộng đợt 3 (từ đối chiếu GT, focus output_tests) ---
+siêu âm doppler động mạch
+đường huyết lúc đói
+alp
+bnp
+cvp
+lhc
+tbr
+cúm
+# LƯU Ý: "k"/"K" (viết tắt kali) KHÔNG thêm — rủi ro cao (1 ký tự, trùng
+# vô số ngữ cảnh khác). Xem architecture/OUTPUT_TESTS_PLAN.md mục 1C.

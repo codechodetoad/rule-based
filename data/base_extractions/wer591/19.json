@@ -1,0 +1,262 @@
+[
+    {
+        "text": "dấu mề đay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            81,
+            91
+        ]
+    },
+    {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            102,
+            106
+        ]
+    },
+    {
+        "text": "dấu mề đay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            157,
+            167
+        ]
+    },
+    {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            188,
+            192
+        ]
+    },
+    {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "D69.0"
+        ],
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            357,
+            363
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            684,
+            691
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            696,
+            699
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            721,
+            728
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            761,
+            764
+        ]
+    },
+    {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            809,
+            817
+        ]
+    },
+    {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            824,
+            831
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            838,
+            846
+        ]
+    },
+    {
+        "text": "đau hố chậu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            886,
+            897
+        ]
+    },
+    {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            925,
+            932
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            962,
+            969
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            999,
+            1007
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1084,
+            1091
+        ]
+    },
+    {
+        "text": "MÀY ĐAY VÔ CĂN",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1161,
+            1175
+        ]
+    },
+    {
+        "text": "MÀY ĐAY MẠN TÍNH",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1267,
+            1283
+        ]
+    },
+    {
+        "text": "Nhuộm huỳnh quang miễn dịch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1653,
+            1684
+        ]
+    },
+    {
+        "text": "lắng đọng các phức hợp miễn dịch, bổ thể hay sợi fibrin",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1741,
+            1806
+        ]
+    },
+    {
+        "text": "bệnh lý mày đay vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1816,
+            1838
+        ]
+    },
+    {
+        "text": "Mày đay vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1936,
+            1950
+        ]
+    },
+    {
+        "text": "**************** thể hệ sau",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            2274,
+            2303
+        ]
+    },
+    {
+        "text": "**************** thể hệ 1",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            2364,
+            2391
+        ]
+    },
+    {
+        "text": "corticoid liều thấp",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            2393,
+            2414
+        ]
+    }
+]

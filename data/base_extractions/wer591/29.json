@@ -1,0 +1,316 @@
+[
+    {
+        "text": "Bệnh bạch cầu dòng tủy mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            46,
+            77
+        ],
+        "candidates": [
+            "C93.1"
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            80,
+            93
+        ],
+        "candidates": [
+            "I10"
+        ]
+    },
+    {
+        "text": "Đái tháo đường típ 2",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            96,
+            116
+        ],
+        "candidates": [
+            "P70.2"
+        ]
+    },
+    {
+        "text": "Rung nhĩ kèm đáp ứng thất nhanh",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            122,
+            153
+        ],
+        "candidates": [
+            "I47.2"
+        ]
+    },
+    {
+        "text": "bệnh thận mạn, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            156,
+            185
+        ],
+        "candidates": [
+            "N18.9"
+        ]
+    },
+    {
+        "text": "Khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            222,
+            229
+        ]
+    },
+    {
+        "text": "cảm giác nghẹt ngực",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            334,
+            353
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            358,
+            361
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            414,
+            417
+        ]
+    },
+    {
+        "text": "nghẹt ngực",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            435,
+            445
+        ]
+    },
+    {
+        "text": "khó thở tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            504,
+            520
+        ]
+    },
+    {
+        "text": "phù ngoại vi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            548,
+            560
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            640,
+            643
+        ]
+    },
+    {
+        "text": "đau vai",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            647,
+            654
+        ]
+    },
+    {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            700,
+            710
+        ],
+        "candidates": [
+            "J96.0"
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            715,
+            728
+        ],
+        "candidates": [
+            "I10"
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            991,
+            1044
+        ],
+        "candidates": [
+            "A41.0"
+        ]
+    },
+    {
+        "text": "Siêu âm mạch máu chi trên",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1116,
+            1141
+        ]
+    },
+    {
+        "text": "huyết khối",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1157,
+            1167
+        ]
+    },
+    {
+        "text": "xạ hình thông khí - tưới máu phổi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1169,
+            1202
+        ]
+    },
+    {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1226,
+            1241
+        ],
+        "candidates": [
+            "I26.0"
+        ]
+    },
+    {
+        "text": "hội chứng bàn chân bẹt bẩm sinh",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1309,
+            1340
+        ],
+        "candidates": [
+            "Q66.5"
+        ]
+    },
+    {
+        "text": "vòng kiềng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1468,
+            1478
+        ]
+    },
+    {
+        "text": "bệnh bàn chân bẹt",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1700,
+            1717
+        ],
+        "candidates": [
+            "Q66.5"
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1818,
+            1821
+        ]
+    },
+    {
+        "text": "khám lâm sàng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1935,
+            1948
+        ]
+    },
+    {
+        "text": "Siêu âm mạch máu chi trên",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            2108,
+            2133
+        ]
+    },
+    {
+        "text": "huyết khối",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            2149,
+            2159
+        ]
+    },
+    {
+        "text": "xạ hình thông khí – tưới máu phổi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            2052,
+            2085
+        ]
+    },
+    {
+        "text": "thuyên tắc phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            2218,
+            2233
+        ],
+        "candidates": [
+            "I26.0"
+        ]
+    }
+]

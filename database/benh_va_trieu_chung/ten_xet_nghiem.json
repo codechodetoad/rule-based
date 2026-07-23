@@ -1,0 +1,1663 @@
+[
+  {
+    "text": "chụp x-quang ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 16,
+    "files": [
+      1,
+      3,
+      12,
+      16,
+      20,
+      35,
+      37,
+      40,
+      50,
+      66,
+      84,
+      97
+    ]
+  },
+  {
+    "text": "creatinine",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 11,
+    "files": [
+      36,
+      37,
+      76,
+      82
+    ]
+  },
+  {
+    "text": "kali",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 9,
+    "files": [
+      37,
+      51,
+      84,
+      97
+    ]
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 9,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 8,
+    "files": [
+      9,
+      10,
+      67,
+      72,
+      89
+    ]
+  },
+  {
+    "text": "troponin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 7,
+    "files": [
+      3,
+      35,
+      40,
+      75,
+      76,
+      84
+    ]
+  },
+  {
+    "text": "chụp ct sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 7,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "inr",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 6,
+    "files": [
+      35,
+      65,
+      91
+    ]
+  },
+  {
+    "text": "hct",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 6,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "điện tâm đồ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 5,
+    "files": [
+      1,
+      56,
+      75,
+      97
+    ]
+  },
+  {
+    "text": "cấy máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 5,
+    "files": [
+      12,
+      28,
+      84,
+      96
+    ]
+  },
+  {
+    "text": "tổng phân tích nước tiểu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 5,
+    "files": [
+      35,
+      37,
+      40,
+      84,
+      97
+    ]
+  },
+  {
+    "text": "spo2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 5,
+    "files": [
+      40,
+      51,
+      56,
+      91,
+      94
+    ]
+  },
+  {
+    "text": "Nhịp thở",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 5,
+    "files": [
+      51,
+      56,
+      63,
+      91,
+      94
+    ]
+  },
+  {
+    "text": "Huyết áp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 5,
+    "files": [
+      51,
+      56,
+      63,
+      91,
+      94
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      10,
+      69
+    ]
+  },
+  {
+    "text": "mri",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      17,
+      96,
+      100
+    ]
+  },
+  {
+    "text": "bạch cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      17,
+      35,
+      84,
+      97
+    ]
+  },
+  {
+    "text": "alt",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      17,
+      35,
+      70
+    ]
+  },
+  {
+    "text": "chụp CT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      23,
+      92
+    ]
+  },
+  {
+    "text": "test hơi thở h. pylori",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "siêu âm tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      43,
+      78,
+      83
+    ]
+  },
+  {
+    "text": "Nhiệt độ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      51,
+      56,
+      91,
+      94
+    ]
+  },
+  {
+    "text": "Mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      51,
+      56,
+      91,
+      94
+    ]
+  },
+  {
+    "text": "ercp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "điện tâm đồ (ecg)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      3,
+      23
+    ]
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "Chụp động mạch vành",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      14,
+      83,
+      86
+    ]
+  },
+  {
+    "text": "chụp ct ngực không thuốc cản quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "siêu âm vùng gan mật",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "độ bão hòa oxy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      33,
+      63
+    ]
+  },
+  {
+    "text": "creatinin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      35,
+      36,
+      97
+    ]
+  },
+  {
+    "text": "ast",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      35,
+      70
+    ]
+  },
+  {
+    "text": "pcr",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "siêu âm thận",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "k",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "ag (anion gap)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      38,
+      66
+    ]
+  },
+  {
+    "text": "xét nghiệm phân tìm cryptosporidium",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "cholangiogram",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      47
+    ]
+  },
+  {
+    "text": "lấy mẫu bằng bàn chải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      47
+    ]
+  },
+  {
+    "text": "cấy nước tiểu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      84,
+      96,
+      97
+    ]
+  },
+  {
+    "text": "monitor holter",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "phân tích nước tiểu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "bảng công thức sinh hóa máu cơ bản",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "bảng công thức máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "bảng chức năng gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "bản phân tích nước tiểu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "nội soi thực quản - dạ dày - tá tràng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "Xét nghiệm chức năng gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "Nội soi mật tụy ngược dòng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      4,
+      5
+    ]
+  },
+  {
+    "text": "chụp ct sọ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "đánh giá thần kinh",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "các băng nhóm oligoclonal",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "chọc hút",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      8
+    ]
+  },
+  {
+    "text": "chọc hút bằng kim nhỏ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      8
+    ]
+  },
+  {
+    "text": "huyết cầu tố",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "công thức máu (cbc)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      12,
+      74
+    ]
+  },
+  {
+    "text": "nghiệm pháp gắng sức",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      14,
+      56
+    ]
+  },
+  {
+    "text": "x-quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      17,
+      61
+    ]
+  },
+  {
+    "text": "siêu âm vùng cổ phải (scm)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính mạch máu (ctma) ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      18
+    ]
+  },
+  {
+    "text": "siêu âm tim qua thành ngực (siêu âm tim qua thành ngực)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "chụp ct sọ não không thuốc cản quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      22
+    ]
+  },
+  {
+    "text": "Siêu âm mạch máu chi trên",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "bnp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      37,
+      84
+    ]
+  },
+  {
+    "text": "cr (creatinine)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      38,
+      100
+    ]
+  },
+  {
+    "text": "siêu âm tim gắng sức dobutamine",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "LHC",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "chụp mạch máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      45
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      46
+    ]
+  },
+  {
+    "text": "sinh thiết và lấy mẫu bằng bàn chải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      47
+    ]
+  },
+  {
+    "text": "chụp ct não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "dấu hiệu sinh tồn",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "xét nghiệm gắng sức",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      56
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) đầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      59
+    ]
+  },
+  {
+    "text": "phân có guaiac",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      69
+    ]
+  },
+  {
+    "text": "Nội soi đại tràng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      69
+    ]
+  },
+  {
+    "text": "alp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "bilirubin toàn phần",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "siêu âm bụng có doppler",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "chụp hida",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "các xét nghiệm chức năng gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "bilirubin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "ercp (nội soi mật tụy ngược dòng)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "lấy mẫu tế bào bằng chổi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "điện tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "lactate",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      84,
+      96
+    ]
+  },
+  {
+    "text": "xét nghiệm máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      92,
+      97
+    ]
+  },
+  {
+    "text": "canxi ion hóa",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "siêu âm tim qua thành ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "ecg",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "Chụp cộng hưởng từ mật tụy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "Cộng hưởng từ mật tụy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "chụp cộng hưởng từ mật tụy tụi mật",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "ast (aspartate aminotransferase)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "alt (alanine aminotransferase)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "phosphatase kiềm (ap)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "bilirubin toàn phần (tbili)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "bạch cầu (wbc)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "siêu âm Doppler động mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      6
+    ]
+  },
+  {
+    "text": "siêu âm doppler hai chiều",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      6
+    ]
+  },
+  {
+    "text": "Kết quả xét nghiệm tế bào học từ dịch chọc hút",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      8
+    ]
+  },
+  {
+    "text": "tế bào học từ dịch chọc hút",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      8
+    ]
+  },
+  {
+    "text": "siêu âm tử cung",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "cea (kháng nguyên ung thư phôi)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "mri vùng chậu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "Xạ hình tưới máu cơ tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      14
+    ]
+  },
+  {
+    "text": "huyết khối",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "siêu âm vùng cổ phải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "neutrophil",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "lymphocyte",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "chem 7",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "ck",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "hiv vl",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "soi tươi ký sinh trùng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "xạ hình tưới máu cơ tim mibi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "xạ hình tưới máu cơ tim  mibi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "chụp xạ hình tim bằng mibi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "CT sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "cấy mẫu bệnh phẩm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      24
+    ]
+  },
+  {
+    "text": "lipase",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "tbr",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "chụp ct bụng chậu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "xạ hình thông khí - tưới máu phổi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "Xạ hình thông khí – tưới máu phổi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "kali (k)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "ure (bun)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "hemoglobin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "hba1c",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "cúm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "glucose",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "bun (ure)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "công thức máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      39
+    ]
+  },
+  {
+    "text": "Kết quả chụp cắt lớp vi tính",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      39
+    ]
+  },
+  {
+    "text": "số lượng bạch cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "thông tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "thông tim trái",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "chụp tim mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "chụp mạch máu thận",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      46
+    ]
+  },
+  {
+    "text": "lưu lượng đỉnh thở ra",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "mrcp (chụp cộng hưởng từ mật tụy)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      52
+    ]
+  },
+  {
+    "text": "chụp x-quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "nghiệm pháp gắng sức trên máy chạy bộ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      56
+    ]
+  },
+  {
+    "text": "chụp cộng hưởng từ (mri) cột sống cổ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      57
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      61
+    ]
+  },
+  {
+    "text": "nhịp tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "bun/creatinine",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "chụp ct bụng, chậu, không thuốc cản quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "hct (hematocrit)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "tiểu cầu (platelets)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "hco3- (bicarbonate)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "bun/creatinine (ure/creatinine)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "glucose (đường huyết)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "lactate (acid lactat)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "ua (urinalysis - tổng phân tích nước tiểu)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "chụp x-quang bàn chân phải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính ổ bụng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      69
+    ]
+  },
+  {
+    "text": "tổng bilirubin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "nồng độ acetaminophen",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "total bili",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "bảng xét nghiệm viêm gan virus",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "ferritin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "ceruloplasmin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "hệ số tống máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "áp lực nạp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "áp lực tâm thu phổi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "áp lực tĩnh mạch bít",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "xét nghiệm huyết thanh",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) bụng và chậu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "EKG",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "thử nghiệm gắng sức",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "k (kali)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "phosphate",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "điện tâm đồ (ekg)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "chỉ số bão hòa oxy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      78
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) cột sống cổ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      80
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) lồng ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      80
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) sọ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      81
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) bụng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      81
+    ]
+  },
+  {
+    "text": "Ure",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "photpho",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "độ bão hòa oxy (SPO2)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      86
+    ]
+  },
+  {
+    "text": "Chụp động mạch vành can thiệp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      86
+    ]
+  },
+  {
+    "text": "Xquang ngực thẳng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "svo2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "cvp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "huyết áp tâm thu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "tiểu cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "đường huyết lúc đói",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "phim chụp CT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      98
+    ]
+  },
+  {
+    "text": "Định lượng IgA",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      98
+    ]
+  },
+  {
+    "text": "canxi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "canxi toàn phần",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "canx toàn phầni",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "MRI ngoại trú",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  }
+]

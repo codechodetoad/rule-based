@@ -1,0 +1,423 @@
+[
+    {
+        "text": "THIẾU MEN G6PD",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            0,
+            14
+        ],
+        "candidates": [
+            "E73.0"
+        ]
+    },
+    {
+        "text": "Thiếu men G6PD",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            27,
+            41
+        ],
+        "candidates": [
+            "E73.0"
+        ]
+    },
+    {
+        "text": "Thiếu men G6PD (Glucose-6-Phosphate Dehydrogenase)",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            55,
+            105
+        ],
+        "candidates": [
+            "D55.0"
+        ]
+    },
+    {
+        "text": "thiếu hụt men G6PD",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            548,
+            566
+        ],
+        "candidates": [
+            "E73.0"
+        ]
+    },
+    {
+        "text": "rối loạn quá trình chuyển hóa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            706,
+            735
+        ]
+    },
+    {
+        "text": "bệnh bẩm sinh",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1099,
+            1112
+        ],
+        "candidates": []
+    },
+    {
+        "text": "xét nghiệm thiếu men G6PD",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1126,
+            1151
+        ]
+    },
+    {
+        "text": "xét nghiệm chuyên sâu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1279,
+            1300
+        ]
+    },
+    {
+        "text": "Khi trẻ bị thiếu men G6PD",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1486,
+            1511
+        ],
+        "candidates": [
+            "E73.0"
+        ]
+    },
+    {
+        "text": "Sốt cao",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1632,
+            1639
+        ]
+    },
+    {
+        "text": "Tim đập nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1669,
+            1682
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1684,
+            1691
+        ]
+    },
+    {
+        "text": "Vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1695,
+            1702
+        ]
+    },
+    {
+        "text": "vàng mắt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1704,
+            1712
+        ]
+    },
+    {
+        "text": "thiếu máu do tan huyết",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1758,
+            1780
+        ],
+        "candidates": []
+    },
+    {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1821,
+            1830
+        ]
+    },
+    {
+        "text": "vàng da vàng mắt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1832,
+            1848
+        ]
+    },
+    {
+        "text": "suy thận cấp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1861,
+            1873
+        ],
+        "candidates": []
+    },
+    {
+        "text": "vàng da nặng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1904,
+            1916
+        ]
+    },
+    {
+        "text": "tổn thương thần kinh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1945,
+            1965
+        ]
+    },
+    {
+        "text": "bại não",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1995,
+            2002
+        ],
+        "candidates": []
+    },
+    {
+        "text": "chậm phát triển trí tuệ",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            2004,
+            2027
+        ],
+        "candidates": [
+            "F70"
+        ]
+    },
+    {
+        "text": "rối loạn vận động",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1484,
+            1501
+        ],
+        "candidates": [
+            "F44.4"
+        ]
+    },
+    {
+        "text": "thiếu máu tan huyết",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            2464,
+            2483
+        ],
+        "candidates": []
+    },
+    {
+        "text": "vàng da sơ sinh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2728,
+            2743
+        ]
+    },
+    {
+        "text": "phát hiện trẻ bị thiếu men G6PD",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            2847,
+            2878
+        ],
+        "candidates": [
+            "E73.0"
+        ]
+    },
+    {
+        "text": "trẻ thiếu men G6PD",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            3313,
+            3331
+        ],
+        "candidates": [
+            "E73.0"
+        ]
+    },
+    {
+        "text": "Nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            3399,
+            3410
+        ],
+        "candidates": [
+            "A31.8"
+        ]
+    },
+    {
+        "text": "nhiễm virus",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            3412,
+            3423
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Thuốc giảm đau, hạ sốt chứa ******* hoặc **********",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            3427,
+            3478
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Kháng sinh nhóm ***********, ********",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            3482,
+            3519
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Thuốc kháng sốt rét như *******, ***********, **********",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            3523,
+            3579
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Vitamin K",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            3583,
+            3592
+        ],
+        "candidates": [
+            "11258"
+        ]
+    },
+    {
+        "text": "băng phiến",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            3684,
+            3694
+        ],
+        "candidates": []
+    },
+    {
+        "text": "long não",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            3696,
+            3704
+        ],
+        "candidates": []
+    },
+    {
+        "text": "thuốc nam",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            3982,
+            3991
+        ],
+        "candidates": []
+    },
+    {
+        "text": "thuốc đông y",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            3993,
+            4005
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Phòng ngừa thiếu men G6PD",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            4175,
+            4200
+        ],
+        "candidates": [
+            "E73.0"
+        ]
+    },
+    {
+        "text": "trẻ mắc thiếu men G6PD",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            4221,
+            4243
+        ],
+        "candidates": [
+            "E73.0"
+        ]
+    },
+    {
+        "text": "xét nghiệm sàng lọc trước sinh và sau sinh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            4245,
+            4287
+        ]
+    },
+    {
+        "text": "xét nghiệm sàng lọc",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            4368,
+            4387
+        ]
+    }
+]

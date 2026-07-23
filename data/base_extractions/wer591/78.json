@@ -1,0 +1,159 @@
+[
+    {
+        "text": "chảy máu cam",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            52,
+            64
+        ]
+    },
+    {
+        "text": "choáng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            125,
+            131
+        ]
+    },
+    {
+        "text": "chảy máu cam",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            175,
+            187
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            488,
+            494
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            513,
+            522
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            659,
+            665
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            708,
+            711
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            737,
+            746
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            759,
+            762
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            875,
+            881
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            908,
+            911
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            935,
+            938
+        ]
+    },
+    {
+        "text": "hắt hơi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1073,
+            1080
+        ]
+    },
+    {
+        "text": "chảy máu mũi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1165,
+            1177
+        ]
+    },
+    {
+        "text": "chảy máu tái phát",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1226,
+            1243
+        ]
+    },
+    {
+        "text": "choáng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1279,
+            1285
+        ]
+    },
+    {
+        "text": "nội soi mũi họng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1329,
+            1345
+        ]
+    }
+]

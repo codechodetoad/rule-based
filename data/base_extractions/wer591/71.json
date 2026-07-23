@@ -1,0 +1,225 @@
+[
+    {
+        "text": "Bệnh nhân tỉnh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            56,
+            70
+        ]
+    },
+    {
+        "text": "tiếp xúc tốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            72,
+            84
+        ]
+    },
+    {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            106,
+            114
+        ],
+        "candidates": []
+    },
+    {
+        "text": "ý định tự tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            146,
+            158
+        ]
+    },
+    {
+        "text": "tổn thương tổn thương chi dưới nghiêm trọng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            173,
+            216
+        ]
+    },
+    {
+        "text": "Phẫu thuật cắt cụt chân trái bên trên gối",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            229,
+            270
+        ],
+        "candidates": []
+    },
+    {
+        "text": "cắt cụt chân phải bên dưới gối",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            275,
+            305
+        ],
+        "candidates": []
+    },
+    {
+        "text": "biến chứng thuyên tắc phổi hai bên",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            308,
+            342
+        ],
+        "candidates": [
+            "H90.3"
+        ]
+    },
+    {
+        "text": "nhiễm trùng chi dưới bên phải do Enterococcus kháng vancomycin",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            346,
+            408
+        ],
+        "candidates": [
+            "U83.0"
+        ]
+    },
+    {
+        "text": "phẫu thuật cắt cụt chân trái trên gối",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            428,
+            465
+        ],
+        "candidates": []
+    },
+    {
+        "text": "chân phải dưới gối",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            469,
+            487
+        ],
+        "candidates": [
+            "Z89.5"
+        ]
+    },
+    {
+        "text": "nổi mẩn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            632,
+            639
+        ]
+    },
+    {
+        "text": "nổi mẩn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            691,
+            698
+        ]
+    },
+    {
+        "text": "nổi sần",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            763,
+            770
+        ]
+    },
+    {
+        "text": "lớp sừng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            781,
+            789
+        ]
+    },
+    {
+        "text": "nổi mẩn đỏ ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1171,
+            1186
+        ]
+    },
+    {
+        "text": "suy giảm chức năng gan",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1387,
+            1409
+        ],
+        "candidates": []
+    },
+    {
+        "text": "nổi mề đay",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1411,
+            1421
+        ],
+        "candidates": [
+            "L50.3"
+        ]
+    },
+    {
+        "text": "bệnh vảy nến",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1423,
+            1435
+        ],
+        "candidates": []
+    },
+    {
+        "text": "tác dụng phụ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1437,
+            1449
+        ]
+    },
+    {
+        "text": "viêm nang lông",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            914,
+            928
+        ],
+        "candidates": [
+            "L66.3"
+        ]
+    },
+    {
+        "text": "nổi mẩn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1064,
+            1071
+        ]
+    }
+]

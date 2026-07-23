@@ -1,0 +1,309 @@
+[
+    {
+        "text": "dấu mề đay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            81,
+            91
+        ]
+    },
+    {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            102,
+            106
+        ]
+    },
+    {
+        "text": "dấu mề đay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            157,
+            167
+        ]
+    },
+    {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            188,
+            192
+        ]
+    },
+    {
+        "text": "dị ứng",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            357,
+            363
+        ],
+        "candidates": [
+            "D69.0"
+        ]
+    },
+    {
+        "text": "Bệnh bạch cầu dòng tủy mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            642,
+            673
+        ],
+        "candidates": [
+            "C93.1"
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            684,
+            691
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            698,
+            711
+        ],
+        "candidates": [
+            "I10"
+        ]
+    },
+    {
+        "text": "tăng lipid máu, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            718,
+            748
+        ],
+        "candidates": [
+            "E78.5"
+        ]
+    },
+    {
+        "text": "Đái tháo đường típ 2",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            755,
+            775
+        ],
+        "candidates": [
+            "P70.2"
+        ]
+    },
+    {
+        "text": "hẹp ống sống",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            782,
+            794
+        ],
+        "candidates": [
+            "M48.0"
+        ]
+    },
+    {
+        "text": "Giả gout",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            801,
+            809
+        ],
+        "candidates": []
+    },
+    {
+        "text": "bệnh thận mạn, không đặc hiệu Giai đoạn 4",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            816,
+            857
+        ],
+        "candidates": [
+            "N18.4"
+        ]
+    },
+    {
+        "text": "tăng sản tuyến tiền liệt",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            864,
+            888
+        ],
+        "candidates": [
+            "N40"
+        ]
+    },
+    {
+        "text": "ngã",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            905,
+            908
+        ]
+    },
+    {
+        "text": "Ngã",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            917,
+            920
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            927,
+            934
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "position": [
+            966,
+            973
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Toàn trạng suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1061,
+            1080
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1108,
+            1115
+        ]
+    },
+    {
+        "text": "Lú lẫn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1131,
+            1137
+        ]
+    },
+    {
+        "text": "Cực kỳ yếu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1190,
+            1200
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1246,
+            1253
+        ]
+    },
+    {
+        "text": "Lú lẫn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1278,
+            1284
+        ]
+    },
+    {
+        "text": "Nhuộm huỳnh quang miễn dịch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1686,
+            1717
+        ]
+    },
+    {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1730,
+            1741
+        ]
+    },
+    {
+        "text": "bệnh lý mày đay vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1849,
+            1871
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Mày đay vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1969,
+            1983
+        ],
+        "candidates": []
+    },
+    {
+        "text": "buồn ngủ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            2347,
+            2357
+        ]
+    },
+    {
+        "text": "corticoid",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            2426,
+            2435
+        ],
+        "candidates": []
+    }
+]

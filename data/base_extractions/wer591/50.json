@@ -1,0 +1,294 @@
+[
+    {
+        "text": "thông não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            93,
+            102
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính (ct) đầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            110,
+            139
+        ]
+    },
+    {
+        "text": "tăng đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            160,
+            172
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            263,
+            270
+        ]
+    },
+    {
+        "text": "phù gai thị",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            353,
+            364
+        ]
+    },
+    {
+        "text": "não úng thuỷ khác",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            388,
+            405
+        ]
+    },
+    {
+        "text": "tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "Q15.0"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            504,
+            516
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            703,
+            710
+        ]
+    },
+    {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            728,
+            734
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            772,
+            779
+        ]
+    },
+    {
+        "text": "não úng tuỷ",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "G04.8"
+        ],
+        "assertions": [],
+        "position": [
+            846,
+            857
+        ]
+    },
+    {
+        "text": "não úng thủy",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "B01.1†"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            968,
+            980
+        ]
+    },
+    {
+        "text": "tăng đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            995,
+            1007
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1109,
+            1116
+        ]
+    },
+    {
+        "text": "phù gai thị",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1192,
+            1203
+        ]
+    },
+    {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1237,
+            1243
+        ]
+    },
+    {
+        "text": "CT ngực",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1337,
+            1344
+        ]
+    },
+    {
+        "text": "VPHT",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1405,
+            1409
+        ]
+    },
+    {
+        "text": "bất thường bẩm sinh",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1464,
+            1483
+        ]
+    },
+    {
+        "text": "dị vật đường thở",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1497,
+            1513
+        ]
+    },
+    {
+        "text": "VPHT",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1586,
+            1590
+        ]
+    },
+    {
+        "text": "VPHT",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1630,
+            1634
+        ]
+    },
+    {
+        "text": "vùng đông đặc phổi",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1649,
+            1667
+        ]
+    },
+    {
+        "text": "giảm thể tích",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1680,
+            1693
+        ]
+    },
+    {
+        "text": "Phá hủy cấu trúc nhu mô phổi bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1697,
+            1737
+        ]
+    },
+    {
+        "text": "vùng giảm bắt thuốc cản quang",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1759,
+            1788
+        ]
+    },
+    {
+        "text": "Phù gai thị",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1797,
+            1808
+        ]
+    }
+]

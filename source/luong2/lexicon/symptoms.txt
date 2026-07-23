@@ -1,0 +1,193 @@
+# TRIỆU_CHỨNG — seed lexicon (tiếng Việt). 1 cụm / dòng. Dòng bắt đầu bằng # là comment.
+# Mở rộng dần từ HPO/UMLS T184 (dịch) + dữ liệu input. Khớp không phân biệt hoa/thường.
+đánh trống ngực
+trống ngực
+hồi hộp
+khó thở
+khó thở khi gắng sức
+khó thở nhẹ
+thở nhanh
+thở gấp
+đau ngực
+tức ngực
+đau thắt ngực
+cảm giác thắt chặt ngực
+thắt chặt ngực
+nặng ngực
+khó chịu vùng ngực
+đau bụng
+đau bụng vùng thượng vị
+đau thượng vị
+đau quặn bụng
+đau hạ sườn phải
+đau lưng
+đau đầu
+nhức đầu
+đau khớp
+đau cơ
+đau họng
+đau mỏi
+mệt mỏi
+mệt
+uể oải
+suy nhược
+giảm dung nạp gắng sức
+buồn nôn
+nôn
+nôn ói
+ói
+sốt
+ớn lạnh
+rét run
+lạnh run
+vã mồ hôi
+đổ mồ hôi
+táo bón
+tiêu chảy
+đi ngoài phân lỏng
+ho
+ho khan
+ho đờm
+ho đờm xanh
+ho ra máu
+khạc đờm
+tiểu khó
+tiểu buốt
+tiểu rắt
+tiểu nhiều
+tiểu máu
+bí tiểu
+chóng mặt
+hoa mắt
+choáng váng
+xây xẩm
+ngất
+ngất xỉu
+mất ý thức
+chán ăn
+ăn kém
+sụt cân
+gầy sút cân
+phù
+phù chân
+phù hai chân
+khó nuốt
+nuốt nghẹn
+nuốt vướng
+ợ hơi
+ợ chua
+ợ nóng
+đầy bụng
+đầy hơi
+khó tiêu
+chướng bụng
+vàng da
+vàng mắt
+ngứa
+phát ban
+nổi mẩn
+mề đay
+run
+run tay
+co giật
+yếu tay chân
+yếu nửa người
+yếu liệt
+tê
+tê bì
+tê tay chân
+dị cảm
+mất ngủ
+lo âu
+bồn chồn
+căng thẳng
+trầm cảm
+lú lẫn
+lơ mơ
+ý thức suy giảm
+rối loạn ý thức
+sổ mũi
+nghẹt mũi
+chảy nước mũi
+hắt hơi
+khàn tiếng
+đau tai
+ù tai
+mờ mắt
+nhìn mờ
+đau mắt
+sưng
+sưng khớp
+cứng khớp
+đau nhức
+khó chịu
+mệt mỏi khi gắng sức
+hụt hơi
+choáng
+đau đầu chóng mặt
+yếu
+# --- mở rộng đợt 1 (từ dữ liệu input) ---
+song thị
+nhìn song thị
+nhìn đôi
+ảo giác
+hoang tưởng
+kích động
+lơ mơ
+hạ thân nhiệt
+đau hạ vị
+đau vùng chậu
+đau hông
+đau mạn sườn
+yếu nửa người
+yếu sức nửa người
+liệt nửa người
+liệt hai chân
+liệt hai chi dưới
+liệt hai chi
+tê liệt
+suy kiệt
+toàn trạng suy kiệt
+khò khè
+thở khò khè
+thở rít
+tiếng rít
+ăn uống kém
+nuốt đau
+tiểu đêm
+són tiểu
+đi ngoài ra máu
+đại tiện ra máu
+phân đen
+nôn ra máu
+chảy máu
+xuất huyết
+đau vai
+đau cổ
+cứng cổ
+sưng chân
+mất thăng bằng
+đi lại khó khăn
+run rẩy
+co giật
+đau nhức xương
+đau toàn thân
+khó chịu trong người
+# --- mở rộng đợt 2 (file rỗng) ---
+tiểu tiện không tự chủ
+tiểu không tự chủ
+tiểu không kiểm soát
+cảm giác bí tiểu
+bàng quang căng
+ra huyết âm đạo
+chảy máu âm đạo
+giọng khàn
+loét
+loét đau
+loét đỏ
+loét sưng
+chảy dịch
+rỉ dịch
+sưng đỏ
+đau khi đi tiểu
+khó tiểu

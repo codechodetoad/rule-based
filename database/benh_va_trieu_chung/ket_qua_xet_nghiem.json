@@ -1,0 +1,1673 @@
+[
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 17,
+    "files": [
+      7,
+      17,
+      37,
+      58,
+      70,
+      72,
+      76,
+      96
+    ]
+  },
+  {
+    "text": "dương tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 7,
+    "files": [
+      28,
+      41,
+      69
+    ]
+  },
+  {
+    "text": "bình thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 6,
+    "files": [
+      17,
+      37,
+      48,
+      70,
+      76
+    ]
+  },
+  {
+    "text": "bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 5,
+    "files": [
+      8,
+      14
+    ]
+  },
+  {
+    "text": "99",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 5,
+    "files": [
+      54,
+      63
+    ]
+  },
+  {
+    "text": "tăng men gan",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      4,
+      70
+    ]
+  },
+  {
+    "text": "26.1",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 4,
+    "files": [
+      9,
+      54
+    ]
+  },
+  {
+    "text": "0.01",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      3,
+      84
+    ]
+  },
+  {
+    "text": "2.4",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      5,
+      51
+    ]
+  },
+  {
+    "text": "dương tính với virus bk",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "5.1",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "5.8",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "17",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      38,
+      54
+    ]
+  },
+  {
+    "text": "2.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "24.7",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 3,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "130-150",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "thay đổi sóng T không đặc hiệu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "mất vận động vùng đỉnh",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "túi mật căng to với dịch quanh túi mật",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "không ghi nhận huyết khối",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "xác suất thấp thuyên tắc phổi",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "86",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "0.10",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      35,
+      75
+    ]
+  },
+  {
+    "text": "1.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      38,
+      100
+    ]
+  },
+  {
+    "text": "65%",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      45
+    ]
+  },
+  {
+    "text": "80%",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      46
+    ]
+  },
+  {
+    "text": "tế bào bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      47
+    ]
+  },
+  {
+    "text": "24.5",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "98.1",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "11663",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "ST chênh xuống",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      56
+    ]
+  },
+  {
+    "text": "20",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      63,
+      66
+    ]
+  },
+  {
+    "text": "2.0",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      65
+    ]
+  },
+  {
+    "text": "tăng Cr",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      65
+    ]
+  },
+  {
+    "text": "6.7",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "421",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "336",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "185",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "0.9",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "chưa phát hiện bất thường trên phim chụp",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      92
+    ]
+  },
+  {
+    "text": "12.0",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "6.8",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 2,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "men gan tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "sốt đến 101.4",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "Tăng lên 101.8 trước thủ thuật",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "319",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "690",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "983",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "11.6",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "> 7",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      6
+    ]
+  },
+  {
+    "text": "vận tốc dòng chảy tăng rõ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      6
+    ]
+  },
+  {
+    "text": "không phát hiện bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "Tử cung đo 14,2 x 8,8 x 7,5 cm",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "Dải nội mạc tử cung không thể xác định được",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "Cả hai buồng trứng đều có vẻ bình thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "Không thấy dịch tự do trong túi cùng Douglas",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "Không có giãn bể thận",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "tăng nhẹ lên 4.9",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "không chẩn đoán được do không có mỡ nào trong cơ thể",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "có thể có một tổn thương t2 tốt nhất, nhưng một số vùng không thể đánh giá tốt",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "11.3",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "26.3",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "28",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "102.9°F",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "Phổi rõ tiếng khi nghe",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "Tim nhịp đều, không có tiếng tim bệnh lý",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "13.9",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "80",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "11",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "58",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "92",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "ổ tụ dịch chia làm hai thùy, giới hạn và bờ không rõ. Cấu trúc tổn thương giảm âm, có hồi âm lợn cợn (vẩn đục) bên trong. Kích thước đo được khoảng 3.7 x 0.7 cm trên mặt cắt ngang. Ổ dịch có xu hướng lan lên trên và ăn sâu xuống phía dưới xương đòn.",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "sung huyết ngoại vi nhẹ nhưng không có mạch máu bên trong",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "Hình ảnh mức nước - hơi vùng ngực",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "mức nước-khí",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "khuyết tật toàn bộ, không hồi phục, kích thước vừa phải ở thành dưới gần mấu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "EF30",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "623",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "tăng men gan nhẹ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "cao tới 1.0 sau đó cải thiện",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "các xét nghiệm khác có xu hướng giảm",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "chưa phát hiện bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "thai máy tốt (FM +)",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      31
+    ]
+  },
+  {
+    "text": "nhiệt độ cao nhất khoảng 38,3°C",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "38,3°C",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "39.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "3.0",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "1.4",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "176",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "287",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "1.4-1.6",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "Creatinine tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "6.3 mẫu không tan máu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "6.3, mẫu không tan máu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": ".8",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "83",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "5.7",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "7.8",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "6.5",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "21,000",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "102",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "537",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "cải thiện thành 367",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "3",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "đóng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "32",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      39
+    ]
+  },
+  {
+    "text": "lên đến 101",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "90-92%",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "93%",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "12.5",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "đáng chú ý chỉ có vếtvết protein niệu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "âm tính x1",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "tế bào bất thườngtế bào bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      47
+    ]
+  },
+  {
+    "text": "240 đến 260",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "97.5",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "85",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "18",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "14279",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "96",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "36.7°c",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      56
+    ]
+  },
+  {
+    "text": "139/68 mmhg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      56
+    ]
+  },
+  {
+    "text": "67 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      56
+    ]
+  },
+  {
+    "text": "16 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      56
+    ]
+  },
+  {
+    "text": "100%",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      56
+    ]
+  },
+  {
+    "text": "góc tăng lên",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      61
+    ]
+  },
+  {
+    "text": "T97.8",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "84",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "15670",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "27.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "một lượng nhỏ dịch và mỡ bao quanh một quai ruột kết sigma",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "8.126.3",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "478",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "13",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "316",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "1.3",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "12 bạch cầu, không vi khuẩn, 1 hồng cầu, âm tính nitrite",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "dòng picc đã đặt, không có quá trình bệnh lý tim phổi cấp tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "không phát hiện gãy xương hoặc viêm xương tủy",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "một khối ở chỗ uốn gan",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      69
+    ]
+  },
+  {
+    "text": "không có dấu hiệu bệnh lan rộng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      69
+    ]
+  },
+  {
+    "text": "tăng men gan kéo dài",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "50 inch",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "12",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "sóng ST chênh xuống ở các chuyển đạo v4 đến v6",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "nhịp xoang",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "91 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "Sóng ST chênh xuống  ở các chuyển đạo v4 đến v6",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "0.03",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "2.0 -> 3.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "5.4",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "5.6",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "dưới 90 %",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      78
+    ]
+  },
+  {
+    "text": "không thấy tổn thương",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      80
+    ]
+  },
+  {
+    "text": "5.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "6.3 mg/dl (460 - 557 umol/l)",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "69",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "91 mg/dl ( 24.6 -32.5 mmol/l)",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "8.4",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "từ 88-92 %",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "26.7",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "4227",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "3.2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "1.8",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "có kết quả dương tính  với 182bạch cầuvài vi khuẩn (vi khuẩn), nitrite",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "chẩn đoán hình ảnh không cho thấy quá trình bệnh lý tim mạch hoặc hô hấp cấp tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "dị tật cố định vùng trước vách và vách dưới với  giảm chức năng tâm thu thất trái nghiêm trọng kèm theo rối loạn chức năng thất trái",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      86
+    ]
+  },
+  {
+    "text": "không phát hiện huyết khối tĩnh mạch sâu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "dưới ngưỡng điều trị",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "1.7",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "36.5 độ C",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "88 l/p",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "120/70 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "20 l/p",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "92 %",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "dưới ngưỡng điều trị 1.7",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "tăng bạch cầu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      92
+    ]
+  },
+  {
+    "text": "Bạch cầu tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      92
+    ]
+  },
+  {
+    "text": "VAS 7/10",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "130/76 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "93 l/p",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "36.3 độ C",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "14 l/p",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "99 %",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "39.7 độ C",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "Phổi thông khí đều",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "nước tiểu có cặn",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "1.1-->0.8",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu có các vi khuẩn hỗn hợp",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "chỉ số marker viêm của anh ấy đã có xu hướng tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "không thấy tình trạng viêm xương tủy nặng hơn",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "không thấy thâm nhiễm",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "82",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "6",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "90",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "6.6 mmol/l",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "1.9 mmol/l",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "81 G/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "10.9 G/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "không có hình ảnh tổn thương viêm cấp tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "đường huyết thấp",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "tổn thương tiêu xương lan tỏa",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      98
+    ]
+  },
+  {
+    "text": "tăng cao",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      98
+    ]
+  },
+  {
+    "text": "các tổn thương ổ tiêu xương lan tỏa",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      98
+    ]
+  },
+  {
+    "text": "không có tổn thương cấp tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "12.3",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "không có quá trình cấp tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  }
+]

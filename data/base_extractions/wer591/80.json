@@ -1,0 +1,244 @@
+[
+    {
+        "text": "bệnh gút",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "M10.0"
+        ],
+        "assertions": [],
+        "position": [
+            64,
+            72
+        ]
+    },
+    {
+        "text": "hạt nhỏ màu trắng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            166,
+            183
+        ]
+    },
+    {
+        "text": "bệnhgout",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            396,
+            404
+        ]
+    },
+    {
+        "text": "hạt nhỏ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            467,
+            474
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            508,
+            517
+        ]
+    },
+    {
+        "text": "bệnh gout mạn tính",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "A24.2"
+        ],
+        "assertions": [],
+        "position": [
+            524,
+            542
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            558,
+            567
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            588,
+            597
+        ]
+    },
+    {
+        "text": "axit urictăng nhanh",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            652,
+            671
+        ]
+    },
+    {
+        "text": "cục u cứng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            718,
+            728
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            764,
+            773
+        ]
+    },
+    {
+        "text": "sưng, tấy đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            788,
+            800
+        ]
+    },
+    {
+        "text": "khối u",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            835,
+            841
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            908,
+            917
+        ]
+    },
+    {
+        "text": "hoại tử",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K04.1"
+        ],
+        "assertions": [],
+        "position": [
+            938,
+            945
+        ]
+    },
+    {
+        "text": "biến dạng xương khớp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            947,
+            967
+        ]
+    },
+    {
+        "text": "nhiễm trùng máu",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "D76.2"
+        ],
+        "assertions": [],
+        "position": [
+            973,
+            988
+        ]
+    },
+    {
+        "text": "xơ gan mất bù",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "J98.3"
+        ],
+        "assertions": [],
+        "position": [
+            1019,
+            1032
+        ]
+    },
+    {
+        "text": "tăng áp lực tĩnh mạch cửa",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K76.6"
+        ],
+        "assertions": [],
+        "position": [
+            1036,
+            1061
+        ]
+    },
+    {
+        "text": "cổ trướng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1063,
+            1072
+        ]
+    },
+    {
+        "text": "tràn dịch màng phổi",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "J90"
+        ],
+        "assertions": [],
+        "position": [
+            1076,
+            1095
+        ]
+    },
+    {
+        "text": "liệu pháp lợi tiểu",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1136,
+            1154
+        ]
+    },
+    {
+        "text": "hạt tophi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1356,
+            1365
+        ]
+    },
+    {
+        "text": "acid uric máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1404,
+            1417
+        ]
+    }
+]

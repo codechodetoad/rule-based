@@ -1,0 +1,234 @@
+[
+    {
+        "text": "ý định tự tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            34,
+            46
+        ]
+    },
+    {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            108,
+            116
+        ]
+    },
+    {
+        "text": "rối loạn lo âu",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            121,
+            135
+        ]
+    },
+    {
+        "text": "tổn thương chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "tự tử không thành",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            202,
+            219
+        ]
+    },
+    {
+        "text": "sốc",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            263,
+            266
+        ]
+    },
+    {
+        "text": "buồn chán",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            314,
+            323
+        ]
+    },
+    {
+        "text": "uống nhiều rượu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            325,
+            340
+        ]
+    },
+    {
+        "text": "hút cần sa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            341,
+            351
+        ]
+    },
+    {
+        "text": "nhảy cầu tự tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            418,
+            432
+        ]
+    },
+    {
+        "text": "tổn thương chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            441,
+            460
+        ]
+    },
+    {
+        "text": "tỉnh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            515,
+            519
+        ]
+    },
+    {
+        "text": "tiếp xúc tốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            521,
+            533
+        ]
+    },
+    {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [
+            "isNegated",
+            "isHistorical"
+        ],
+        "position": [
+            555,
+            563
+        ]
+    },
+    {
+        "text": "ý định tự tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            595,
+            607
+        ]
+    },
+    {
+        "text": "tổn thương tổn thương chi dưới nghiêm trọng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            622,
+            665
+        ]
+    },
+    {
+        "text": "thuyên tắc phổi hai bên",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "H90.3"
+        ],
+        "assertions": [],
+        "position": [
+            768,
+            791
+        ]
+    },
+    {
+        "text": "nhiễm trùng chi dưới bên phải do Enterococcus kháng vancomycin",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "U83.0"
+        ],
+        "assertions": [],
+        "position": [
+            795,
+            857
+        ]
+    },
+    {
+        "text": "kháng sinh tĩnh mạch",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            943,
+            963
+        ]
+    },
+    {
+        "text": "nổi những nét nhẹ nhàng nhẹ nhàng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1031,
+            1064
+        ]
+    },
+    {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1116,
+            1130
+        ]
+    },
+    {
+        "text": "dị ứng thời tiết hay thức ăn",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K52.2"
+        ],
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1337,
+            1365
+        ]
+    },
+    {
+        "text": "Diễn biến ổn định",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1605,
+            1622
+        ]
+    }
+]

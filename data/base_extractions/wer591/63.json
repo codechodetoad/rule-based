@@ -1,0 +1,285 @@
+[
+    {
+        "text": "Bệnh bạch cầu dòng tủy mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            57,
+            88
+        ],
+        "candidates": [
+            "C93.1"
+        ]
+    },
+    {
+        "text": "tăng cholesterol máu đơn thuần",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            95,
+            125
+        ],
+        "candidates": [
+            "E78.0"
+        ]
+    },
+    {
+        "text": "thuốc kháng B-histamin",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            136,
+            158
+        ],
+        "candidates": []
+    },
+    {
+        "text": "mẩn ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            210,
+            218
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            368,
+            375
+        ],
+        "candidates": []
+    },
+    {
+        "text": "allopurinol",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            417,
+            428
+        ],
+        "candidates": [
+            "519"
+        ]
+    },
+    {
+        "text": "Thuốc giảm đau",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            471,
+            485
+        ],
+        "candidates": []
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            541,
+            548
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            629,
+            636
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            693,
+            743
+        ],
+        "candidates": [
+            "O86.2"
+        ]
+    },
+    {
+        "text": "Thuốc giảm đau",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            751,
+            765
+        ],
+        "candidates": []
+    },
+    {
+        "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            842,
+            892
+        ],
+        "candidates": [
+            "O86.2"
+        ]
+    },
+    {
+        "text": "Thuốc giảm đau",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1467,
+            1481
+        ],
+        "candidates": []
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            929,
+            936
+        ],
+        "candidates": []
+    },
+    {
+        "text": "allopurinol",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            975,
+            986
+        ],
+        "candidates": [
+            "519"
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1025,
+            1032
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1097,
+            1104
+        ]
+    },
+    {
+        "text": "Ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1254,
+            1261
+        ]
+    },
+    {
+        "text": "hoang tưởng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1309,
+            1320
+        ]
+    },
+    {
+        "text": "lo sợ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1321,
+            1326
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1410,
+            1460
+        ],
+        "candidates": [
+            "O86.2"
+        ]
+    },
+    {
+        "text": "Thuốc giảm đau",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1252,
+            1266
+        ],
+        "candidates": []
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1502,
+            1509
+        ],
+        "candidates": []
+    },
+    {
+        "text": "allopurinol",
+        "type": "THUỐC",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1547,
+            1558
+        ],
+        "candidates": [
+            "519"
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1631,
+            1638
+        ]
+    }
+]

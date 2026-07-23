@@ -1,0 +1,266 @@
+[
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            34,
+            42
+        ]
+    },
+    {
+        "text": "đau ngực T âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            112,
+            127
+        ]
+    },
+    {
+        "text": "đau không lan",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            129,
+            142
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            163,
+            171
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            182,
+            185
+        ]
+    },
+    {
+        "text": "Đau ngực T âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            240,
+            255
+        ]
+    },
+    {
+        "text": "đau không lan",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            257,
+            270
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            278,
+            285
+        ]
+    },
+    {
+        "text": "phù",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            310,
+            313
+        ]
+    },
+    {
+        "text": "xuất huyết",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            321,
+            331
+        ]
+    },
+    {
+        "text": "RRPN thô",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            352,
+            360
+        ]
+    },
+    {
+        "text": "HA",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            383,
+            385
+        ]
+    },
+    {
+        "text": "110/ 70 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            387,
+            399
+        ]
+    },
+    {
+        "text": "M",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            414,
+            415
+        ]
+    },
+    {
+        "text": "70 l/p",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            417,
+            423
+        ]
+    },
+    {
+        "text": "Thời gian prothrombin (PT: Prothrombin Time)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            455,
+            499
+        ]
+    },
+    {
+        "text": "Định lượng Troponin Ths",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            560,
+            583
+        ]
+    },
+    {
+        "text": "Đo hoạt độ AST \n(GOT)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            586,
+            607
+        ]
+    },
+    {
+        "text": "Đo hoạt độ ALT (GPT)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            609,
+            629
+        ]
+    },
+    {
+        "text": "Định lượng \nCreatinin (máu)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            631,
+            658
+        ]
+    },
+    {
+        "text": "Điện giải đồ (Na, K, Cl)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            660,
+            684
+        ]
+    },
+    {
+        "text": "Định lượng \nGlucose",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            687,
+            706
+        ]
+    },
+    {
+        "text": "Định lượng NT - proBNP ( \nProBNP)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            707,
+            740
+        ]
+    },
+    {
+        "text": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            743,
+            799
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler tim, van tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            811,
+            839
+        ]
+    },
+    {
+        "text": "Ghi điện tim cấp cứu tại giường",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            853,
+            884
+        ]
+    },
+    {
+        "text": "Cơn đau thắt ngực không ổn định",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I20.0"
+        ],
+        "assertions": [],
+        "position": [
+            900,
+            931
+        ]
+    },
+    {
+        "text": "bệnh tăng HA vô căn(nguyên phát)",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "D68.5"
+        ],
+        "assertions": [],
+        "position": [
+            932,
+            964
+        ]
+    }
+]

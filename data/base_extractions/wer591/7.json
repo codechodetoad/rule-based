@@ -1,0 +1,364 @@
+[
+    {
+        "text": "đau bao tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            113,
+            123
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            138,
+            141
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            297,
+            304
+        ]
+    },
+    {
+        "text": "ổ loét trong bao tử",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            327,
+            346
+        ]
+    },
+    {
+        "text": "tinh bột nghệ tách tinh dầu",
+        "type": "THUỐC",
+        "position": [
+            578,
+            605
+        ],
+        "candidates": []
+    },
+    {
+        "text": "bôt nghệ",
+        "type": "THUỐC",
+        "position": [
+            760,
+            768
+        ],
+        "candidates": []
+    },
+    {
+        "text": "tăng 10kg",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            808,
+            817
+        ]
+    },
+    {
+        "text": "ói",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            838,
+            840
+        ]
+    },
+    {
+        "text": "đau bụng râm ran",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1030,
+            1046
+        ]
+    },
+    {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1347,
+            1354
+        ]
+    },
+    {
+        "text": "sỏi",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "N20.2"
+        ],
+        "assertions": [],
+        "position": [
+            1419,
+            1422
+        ]
+    },
+    {
+        "text": "không ứ nước",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1433,
+            1445
+        ]
+    },
+    {
+        "text": "sỏi thận",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "N20.0"
+        ],
+        "assertions": [],
+        "position": [
+            1455,
+            1463
+        ]
+    },
+    {
+        "text": "viêm bao tử",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1517,
+            1528
+        ]
+    },
+    {
+        "text": "******",
+        "type": "THUỐC",
+        "position": [
+            1713,
+            1719
+        ],
+        "candidates": []
+    },
+    {
+        "text": "******",
+        "type": "THUỐC",
+        "position": [
+            1752,
+            1758
+        ],
+        "candidates": []
+    },
+    {
+        "text": "*******",
+        "type": "THUỐC",
+        "position": [
+            1803,
+            1810
+        ],
+        "candidates": []
+    },
+    {
+        "text": "**************",
+        "type": "THUỐC",
+        "position": [
+            1812,
+            1826
+        ],
+        "candidates": []
+    },
+    {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1886,
+            1893
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1894,
+            1901
+        ]
+    },
+    {
+        "text": "Aquima",
+        "type": "THUỐC",
+        "position": [
+            2032,
+            2038
+        ],
+        "candidates": []
+    },
+    {
+        "text": "nhôm hydroxid",
+        "type": "THUỐC",
+        "position": [
+            2040,
+            2053
+        ],
+        "candidates": []
+    },
+    {
+        "text": "magie hydroxid",
+        "type": "THUỐC",
+        "position": [
+            2055,
+            2069
+        ],
+        "candidates": []
+    },
+    {
+        "text": "**********",
+        "type": "THUỐC",
+        "position": [
+            1833,
+            1843
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Simenic",
+        "type": "THUỐC",
+        "position": [
+            2085,
+            2092
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Alverin citrate 40mg",
+        "type": "THUỐC",
+        "position": [
+            2094,
+            2114
+        ],
+        "candidates": [
+            "804614"
+        ]
+    },
+    {
+        "text": "Simethicon 100mg",
+        "type": "THUỐC",
+        "position": [
+            2118,
+            2134
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Pimperam",
+        "type": "THUỐC",
+        "position": [
+            2135,
+            2143
+        ],
+        "candidates": []
+    },
+    {
+        "text": "metoclopramide 10mg",
+        "type": "THUỐC",
+        "position": [
+            2145,
+            2164
+        ],
+        "candidates": [
+            "311666"
+        ]
+    },
+    {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2346,
+            2352
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "Q62.7"
+        ],
+        "assertions": [],
+        "position": [
+            2358,
+            2385
+        ]
+    },
+    {
+        "text": "**********",
+        "type": "THUỐC",
+        "position": [
+            1853,
+            1863
+        ],
+        "candidates": []
+    },
+    {
+        "text": "**********",
+        "type": "THUỐC",
+        "position": [
+            2073,
+            2083
+        ],
+        "candidates": []
+    },
+    {
+        "text": "tổn thương vùng âm hộ và mông bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2709,
+            2747
+        ]
+    },
+    {
+        "text": "Tổn thương cực kỳ đau đớn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2754,
+            2779
+        ]
+    },
+    {
+        "text": "Tình trạng tổn thương dạng bóng nước ngày càng nặng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2786,
+            2837
+        ]
+    },
+    {
+        "text": "có dịch giống mủ có màu vàng chảy ra từ tổn thương",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2050,
+            2092
+        ]
+    },
+    {
+        "text": "viêm dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K29.6"
+        ],
+        "assertions": [],
+        "position": [
+            3167,
+            3178
+        ]
+    }
+]

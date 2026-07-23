@@ -1,0 +1,217 @@
+[
+    {
+        "text": "Rối loạn cảm xúc",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            581,
+            597
+        ]
+    },
+    {
+        "text": "Rối loạn lưỡng cực",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            605,
+            623
+        ]
+    },
+    {
+        "text": "rối loạn lo âu",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            630,
+            644
+        ]
+    },
+    {
+        "text": "klonopinclonidine",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            746,
+            763
+        ]
+    },
+    {
+        "text": "clonidine",
+        "type": "THUỐC",
+        "candidates": [
+            "2599"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            754,
+            763
+        ]
+    },
+    {
+        "text": "suboxone",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            821,
+            829
+        ]
+    },
+    {
+        "text": "Lạm dụng chất kích thích",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "Y49.7"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            953,
+            977
+        ]
+    },
+    {
+        "text": "ý định tự tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1046,
+            1058
+        ]
+    },
+    {
+        "text": "ý nghĩ tự bắn vào đầu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1062,
+            1083
+        ]
+    },
+    {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1112,
+            1120
+        ]
+    },
+    {
+        "text": "hưng cảm",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1177,
+            1185
+        ]
+    },
+    {
+        "text": "tăng hoạt động",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1202,
+            1216
+        ]
+    },
+    {
+        "text": "giảm nhu cầu ngủ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1220,
+            1236
+        ]
+    },
+    {
+        "text": "ý định tự tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1272,
+            1284
+        ]
+    },
+    {
+        "text": "suboxone",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1343,
+            1351
+        ]
+    },
+    {
+        "text": "ý nghĩ tự tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1443,
+            1455
+        ]
+    },
+    {
+        "text": "có nghĩ tự bắn vào đầu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1457,
+            1479
+        ]
+    },
+    {
+        "text": "lo âu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1486,
+            1491
+        ]
+    },
+    {
+        "text": "hoảng sợ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1492,
+            1500
+        ]
+    },
+    {
+        "text": "hoang tưởng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1507,
+            1518
+        ]
+    }
+]

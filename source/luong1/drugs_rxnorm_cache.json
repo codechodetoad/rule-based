@@ -1,0 +1,256 @@
+{
+  "acetaminophen": [
+    "161"
+  ],
+  "acetaminophen 500mg": [
+    "315266"
+  ],
+  "advil": [
+    "153010"
+  ],
+  "albuterol": [
+    "435"
+  ],
+  "albuterol nebs q4h": [
+    "435"
+  ],
+  "allopurinol": [
+    "519"
+  ],
+  "amiodarone": [
+    "703"
+  ],
+  "amoxicillin": [
+    "723"
+  ],
+  "aspirin": [
+    "1191"
+  ],
+  "aspirin 325mg": [
+    "198467"
+  ],
+  "aspirin 325mg x 1": [
+    "198467"
+  ],
+  "aspirin 81mg": [
+    "315431"
+  ],
+  "atenolol": [
+    "1202"
+  ],
+  "ativan": [
+    "202479"
+  ],
+  "atorvastatin 80mg daily": [
+    "329299"
+  ],
+  "augmentin đường uống": [
+    "151392"
+  ],
+  "azithromycin": [
+    "18631"
+  ],
+  "bactrim": [
+    "151399"
+  ],
+  "bicarbonate": [
+    "1527"
+  ],
+  "bumetanide 2mg iv": [
+    "315502"
+  ],
+  "carvedilol": [
+    "20352"
+  ],
+  "ceftazidime": [
+    "2191"
+  ],
+  "ceftriaxone 1 g": [
+    "603474"
+  ],
+  "cephalexin": [
+    "2231"
+  ],
+  "cipro": [
+    "203563"
+  ],
+  "clonidine": [
+    "2599"
+  ],
+  "clopidogrel": [
+    "32968"
+  ],
+  "combivent nebs x3": [
+    "151539"
+  ],
+  "cotrimoxazol": [],
+  "coumadin": [
+    "202421"
+  ],
+  "coumadin 3.0 mg": [
+    "855319"
+  ],
+  "crestor": [
+    "320864"
+  ],
+  "desmopressin": [
+    "3251"
+  ],
+  "dilaudid": [
+    "224913"
+  ],
+  "dilaudid 3mg": [
+    "897751"
+  ],
+  "diltiazem": [
+    "3443"
+  ],
+  "doxycycline": [
+    "3640"
+  ],
+  "eliquis": [
+    "1364436"
+  ],
+  "flagyl": [
+    "202866"
+  ],
+  "furosemide": [
+    "4603"
+  ],
+  "furosemide 40 mg đường uống": [
+    "315971"
+  ],
+  "gleevec": [
+    "282386"
+  ],
+  "guaifenesin": [
+    "5032"
+  ],
+  "heparin": [
+    "235473"
+  ],
+  "insulin": [
+    "253182"
+  ],
+  "ipratropium": [
+    "7213"
+  ],
+  "isosorbide": [
+    "6057"
+  ],
+  "lasix": [
+    "202991"
+  ],
+  "lasix 40 mg": [],
+  "lasix 40mg daily": [],
+  "lasix iv": [
+    "202991"
+  ],
+  "laxis 20mg": [],
+  "levafloxacin": [
+    "82122"
+  ],
+  "levofloxacin": [
+    "82122"
+  ],
+  "levofloxacin 750mg iv": [
+    "330371"
+  ],
+  "levophed": [
+    "227559"
+  ],
+  "lisinopril 2.5mg daily": [
+    "316152"
+  ],
+  "lorazepam": [
+    "6470"
+  ],
+  "lovenox": [
+    "225036"
+  ],
+  "methylprednisolone 125mg iv": [
+    "1743702"
+  ],
+  "metoprolol": [
+    "6918"
+  ],
+  "metoprolol 25mg po bid": [
+    "331561"
+  ],
+  "metoprolol 5mg iv x2": [
+    "335209"
+  ],
+  "metoprolol succinate 100mg daily": [
+    "1370483"
+  ],
+  "morphine": [
+    "7052"
+  ],
+  "mucinex d": [
+    "352777"
+  ],
+  "natriclori 0.9 %": [],
+  "nitroglycerin": [
+    "4917"
+  ],
+  "nitroglycerin dưới lưỡi": [
+    "4917"
+  ],
+  "omeprazole": [
+    "7646"
+  ],
+  "oxy 100%": [
+    "1114474"
+  ],
+  "percocet": [
+    "42844"
+  ],
+  "phentolamine": [
+    "8153"
+  ],
+  "plavix": [
+    "174742"
+  ],
+  "prasugrel": [
+    "613391"
+  ],
+  "prednisone": [
+    "8640"
+  ],
+  "prednisone 40 mg/ngày": [
+    "451144"
+  ],
+  "propofol": [
+    "8782"
+  ],
+  "ranexa 500mg daily": [
+    "616493"
+  ],
+  "rosuvastatin": [
+    "301542"
+  ],
+  "seroquel": [
+    "83553"
+  ],
+  "tylenol": [
+    "202433"
+  ],
+  "tylenol 1 g": [
+    "202433"
+  ],
+  "vancomycin": [
+    "11124"
+  ],
+  "vancomycin 1 g": [
+    "1807508"
+  ],
+  "vicodin": [
+    "128793"
+  ],
+  "z-pack": [
+    "750149"
+  ],
+  "zosyn": [
+    "74170"
+  ]
+}

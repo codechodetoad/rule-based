@@ -1,0 +1,119 @@
+[
+    {
+        "text": "khối u trực tràng",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            25,
+            42
+        ],
+        "candidates": [
+            "C20"
+        ]
+    },
+    {
+        "text": "u ác trực tràng",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            64,
+            79
+        ],
+        "candidates": [
+            "C20"
+        ]
+    },
+    {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            90,
+            100
+        ]
+    },
+    {
+        "text": "u tuyến",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            118,
+            125
+        ],
+        "candidates": [
+            "C37"
+        ]
+    },
+    {
+        "text": "Nấm bẹn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            220,
+            227
+        ],
+        "candidates": []
+    },
+    {
+        "text": "nhiễm nấm",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            240,
+            249
+        ],
+        "candidates": []
+    },
+    {
+        "text": "chứng béo phì",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            406,
+            419
+        ],
+        "candidates": [
+            "J35.2"
+        ]
+    },
+    {
+        "text": "nhiễm nấm da",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            453,
+            465
+        ],
+        "candidates": []
+    },
+    {
+        "text": "thuốc kháng nấm",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            521,
+            536
+        ],
+        "candidates": []
+    },
+    {
+        "text": "nấm bẹn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            491,
+            498
+        ],
+        "candidates": []
+    },
+    {
+        "text": "nấm bẹn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            691,
+            698
+        ],
+        "candidates": []
+    }
+]

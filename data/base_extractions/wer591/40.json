@@ -1,0 +1,585 @@
+[
+    {
+        "text": "Đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            34,
+            51
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            53,
+            60
+        ]
+    },
+    {
+        "text": "đau bụng quanh rốn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            106,
+            124
+        ]
+    },
+    {
+        "text": "nôn thức ăn lẫn máu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            126,
+            145
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            150,
+            167
+        ]
+    },
+    {
+        "text": "khó thở liên tục",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            169,
+            185
+        ]
+    },
+    {
+        "text": "nội soi tiêu hóa",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            223,
+            239
+        ]
+    },
+    {
+        "text": "XHTH quá liều thuốc kháng vitamin K (INR 15)",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E56.1"
+        ],
+        "assertions": [],
+        "position": [
+            251,
+            295
+        ]
+    },
+    {
+        "text": "Van động mạch chủ cơ học",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I70.0"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            370,
+            394
+        ]
+    },
+    {
+        "text": "thay khớp háng",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "M91.2"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            421,
+            435
+        ]
+    },
+    {
+        "text": "Mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            467,
+            471
+        ]
+    },
+    {
+        "text": "130 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            473,
+            485
+        ]
+    },
+    {
+        "text": "Bệnh nhân tỉnh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            487,
+            501
+        ]
+    },
+    {
+        "text": "glasgow 15 điểm",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            503,
+            518
+        ]
+    },
+    {
+        "text": "Da niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            520,
+            536
+        ]
+    },
+    {
+        "text": "Thể trạng nhiễm trùng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            538,
+            559
+        ]
+    },
+    {
+        "text": "Không phù",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            561,
+            570
+        ]
+    },
+    {
+        "text": "không xuất huyết dưới da",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            572,
+            596
+        ]
+    },
+    {
+        "text": "Tim đều",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            612,
+            619
+        ]
+    },
+    {
+        "text": "T1T2 rõ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            621,
+            628
+        ]
+    },
+    {
+        "text": "tiếng van cơ học",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            629,
+            645
+        ]
+    },
+    {
+        "text": "không tiếng thổi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            647,
+            663
+        ]
+    },
+    {
+        "text": "RRPN giảm 2 phế trường",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            665,
+            687
+        ]
+    },
+    {
+        "text": "Bụng mềm",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            689,
+            697
+        ]
+    },
+    {
+        "text": "không chướng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            699,
+            711
+        ]
+    },
+    {
+        "text": "Không điểm đau thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            713,
+            738
+        ]
+    },
+    {
+        "text": "Nhiệt độ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            740,
+            748
+        ]
+    },
+    {
+        "text": "37°C",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            750,
+            754
+        ]
+    },
+    {
+        "text": "Huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            756,
+            764
+        ]
+    },
+    {
+        "text": "130 / 70 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            766,
+            779
+        ]
+    },
+    {
+        "text": "Nhịp thở",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            781,
+            789
+        ]
+    },
+    {
+        "text": "21 l/p",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            792,
+            798
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa theo dõi quá liều kháng vitamin K",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E56.1"
+        ],
+        "assertions": [],
+        "position": [
+            812,
+            865
+        ]
+    },
+    {
+        "text": "Viêm phổi",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            868,
+            877
+        ]
+    },
+    {
+        "text": "Van động mạch chủ cơ\nhọc",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I70.0"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            881,
+            906
+        ]
+    },
+    {
+        "text": "Đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "P70.2"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            909,
+            923
+        ]
+    },
+    {
+        "text": "thay khớp háng",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "M91.2"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            929,
+            943
+        ]
+    },
+    {
+        "text": "Khí máu động mạch (23 thông số)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            993,
+            1024
+        ]
+    },
+    {
+        "text": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1048,
+            1103
+        ]
+    },
+    {
+        "text": "Thời gian Thromboplastin một phần hoạt hóa (aPTT / TCK) bằng máy tự động",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1105,
+            1177
+        ]
+    },
+    {
+        "text": "Thời gian Prothrombin (PT / TQ / Tỷ lệ Prothrombin) bằng máy tự động",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1178,
+            1246
+        ]
+    },
+    {
+        "text": "Định lượng Fibrinogen (Yếu tố I) - Phương pháp Clauss trực tiếp bằng máy tự động",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1247,
+            1327
+        ]
+    },
+    {
+        "text": "Định lượng Glucose, Urê, Creatinin máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1347,
+            1385
+        ]
+    },
+    {
+        "text": "Điện giải đồ (Na+, K+, cl-)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1386,
+            1413
+        ]
+    },
+    {
+        "text": "Đo hoạt độ AST (GOT) và ALT (GPT)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1424,
+            1457
+        ]
+    },
+    {
+        "text": "Định lượng CRP và Troponin T siêu nhạy (hs-Troponin T)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1475,
+            1529
+        ]
+    },
+    {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1568,
+            1575
+        ]
+    },
+    {
+        "text": "cứng đờ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1577,
+            1584
+        ]
+    },
+    {
+        "text": "cắn lưỡi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1586,
+            1594
+        ]
+    },
+    {
+        "text": "tiểu tiện không tự chủ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1600,
+            1622
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1647,
+            1650
+        ]
+    },
+    {
+        "text": "227.0 mg/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1652,
+            1662
+        ]
+    },
+    {
+        "text": "Creatinin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1663,
+            1672
+        ]
+    },
+    {
+        "text": "46 µmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1675,
+            1684
+        ]
+    },
+    {
+        "text": "Kali +",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1685,
+            1691
+        ]
+    },
+    {
+        "text": "3.6 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1693,
+            1703
+        ]
+    },
+    {
+        "text": "Chụp CT Bụng - Tiểu khung (64–128 dãy, có thuốc cản quang, không in phim)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1743,
+            1816
+        ]
+    },
+    {
+        "text": "Hình ảnh dày thành một số quai ruột non",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1826,
+            1865
+        ]
+    },
+    {
+        "text": "Ceftriaxone 1g",
+        "type": "THUỐC",
+        "candidates": [
+            "1665005"
+        ],
+        "position": [
+            1886,
+            1900
+        ]
+    }
+]

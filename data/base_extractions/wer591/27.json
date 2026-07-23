@@ -1,0 +1,432 @@
+[
+    {
+        "text": "viêm phổi hoại tử",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            20,
+            37
+        ],
+        "candidates": [
+            "M72.6"
+        ]
+    },
+    {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            68,
+            77
+        ],
+        "candidates": []
+    },
+    {
+        "text": "áp xe phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            116,
+            126
+        ],
+        "candidates": [
+            "J85.1"
+        ]
+    },
+    {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            206,
+            215
+        ],
+        "candidates": []
+    },
+    {
+        "text": "viêm phế quản",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            235,
+            248
+        ],
+        "candidates": []
+    },
+    {
+        "text": "xuất tiết dịch",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            277,
+            291
+        ]
+    },
+    {
+        "text": "viêm phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            366,
+            375
+        ],
+        "candidates": []
+    },
+    {
+        "text": "nhiễm vi khuẩn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            445,
+            459
+        ],
+        "candidates": [
+            "P36.8"
+        ]
+    },
+    {
+        "text": "thuốc kháng sinh",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            466,
+            482
+        ],
+        "candidates": []
+    },
+    {
+        "text": "suy giảm miễn dịch",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            529,
+            547
+        ],
+        "candidates": []
+    },
+    {
+        "text": "hoại tử nhu mô phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            551,
+            570
+        ],
+        "candidates": [
+            "J85.0"
+        ]
+    },
+    {
+        "text": "viêm phổi hoại tử",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            557,
+            573
+        ],
+        "candidates": [
+            "M72.6"
+        ]
+    },
+    {
+        "text": "bệnh lý phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            611,
+            623
+        ],
+        "candidates": [
+            "M05.1†"
+        ]
+    },
+    {
+        "text": "hang nhỏ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            650,
+            658
+        ]
+    },
+    {
+        "text": "áp-xe nhỏ (<2cm)",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            660,
+            676
+        ],
+        "candidates": [
+            "E32.1"
+        ]
+    },
+    {
+        "text": "tổn thương màng phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            718,
+            738
+        ],
+        "candidates": [
+            "S27.6"
+        ]
+    },
+    {
+        "text": "áp xe phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1143,
+            1153
+        ],
+        "candidates": [
+            "J85.1"
+        ]
+    },
+    {
+        "text": "nung mủ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            778,
+            785
+        ]
+    },
+    {
+        "text": "hoại tử chủ mô phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            787,
+            806
+        ],
+        "candidates": []
+    },
+    {
+        "text": "viêm cấp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            825,
+            833
+        ],
+        "candidates": [
+            "E06.0"
+        ]
+    },
+    {
+        "text": "ổ viêm hóa mủ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            902,
+            915
+        ]
+    },
+    {
+        "text": "đông đặc",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            932,
+            940
+        ]
+    },
+    {
+        "text": "hoại tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1045,
+            1052
+        ]
+    },
+    {
+        "text": "nung mủ cấp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1128,
+            1139
+        ],
+        "candidates": [
+            "H66.0"
+        ]
+    },
+    {
+        "text": "áp xe phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1105,
+            1115
+        ],
+        "candidates": [
+            "J85.1"
+        ]
+    },
+    {
+        "text": "khạc ra mủ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1244,
+            1254
+        ]
+    },
+    {
+        "text": "tổ chức hoại tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1263,
+            1278
+        ]
+    },
+    {
+        "text": "viêm xơ",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1320,
+            1327
+        ],
+        "candidates": [
+            "N48.6"
+        ]
+    },
+    {
+        "text": "ổ áp xe",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1346,
+            1353
+        ]
+    },
+    {
+        "text": "tăng tần suất đau đầu gián đoạn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1474,
+            1505
+        ]
+    },
+    {
+        "text": "đau đầu kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1538,
+            1553
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1560,
+            1567
+        ]
+    },
+    {
+        "text": "cơn đau đầu nhiều hơn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1540,
+            1562
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1670,
+            1677
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1621,
+            1628
+        ]
+    },
+    {
+        "text": "phù gai thị",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1909,
+            1920
+        ]
+    },
+    {
+        "text": "phù gai thị",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1800,
+            1810
+        ]
+    },
+    {
+        "text": "tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1850,
+            1860
+        ],
+        "candidates": [
+            "Q15.0"
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính (ct) đầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            2134,
+            2163
+        ]
+    },
+    {
+        "text": "nang chứa khí hay dịch nhỏ (<2cm)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            2210,
+            2243
+        ]
+    },
+    {
+        "text": "áp-xe phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            2255,
+            2265
+        ],
+        "candidates": [
+            "E32.1"
+        ]
+    },
+    {
+        "text": "ổ hoại tử",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2277,
+            2286
+        ]
+    }
+]

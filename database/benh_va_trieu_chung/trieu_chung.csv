@@ -1,0 +1,442 @@
+﻿entity,so_lan,so_file,cac_file
+khó thở,46,25,"1,8,14,27,28,32,33,38,42,43,44,47,50,53,56,73,74,75,76,78,91,93,95,96,100"
+buồn nôn,35,19,"1,3,5,16,28,34,38,39,40,41,47,63,70,74,76,82,91,94,99"
+sốt,30,16,"5,12,16,17,24,27,28,32,38,39,40,47,52,55,64,95"
+đau ngực,29,17,"3,16,27,28,32,40,42,43,44,47,73,74,75,76,91,95,100"
+mệt mỏi,28,13,"1,12,16,17,40,44,51,58,69,71,82,84,86"
+nôn,22,16,"1,4,5,16,28,35,39,40,44,47,70,76,82,91,94,95"
+đánh trống ngực,17,7,"1,3,16,27,44,73,78"
+ho,17,10,"5,10,12,27,32,38,40,78,84,98"
+tiêu chảy,17,7,"10,16,36,40,41,51,76"
+chóng mặt,16,10,"3,7,14,16,24,44,56,64,65,100"
+đau bụng,14,10,"4,5,16,28,41,42,63,91,96,97"
+ớn lạnh,13,8,"5,27,28,39,42,47,74,95"
+nôn ra máu,13,1,41
+ban đỏ,11,3,"13,24,42"
+đau đầu,11,3,"17,50,59"
+khó thở khi gắng sức,10,6,"3,16,27,70,82,83"
+ngất xỉu,9,4,"3,43,44,100"
+ảo giác,9,2,"30,35"
+táo bón,8,5,"5,16,49,63,99"
+chướng bụng,7,2,"4,39"
+chủ quan sốt,7,3,"33,34,42"
+tiếng rít,7,1,50
+khò khè,6,2,"32,50"
+khó thở khi nằm,5,4,"3,40,43,71"
+hạ huyết áp,5,3,"5,58,97"
+tự tử,5,1,7
+đau ngực trái,5,2,"14,18"
+yếu,5,3,"19,44,68"
+thiếu oxy,5,3,"33,40,84"
+Ăn uống kém,5,3,"34,35,41"
+Toàn trạng suy kiệt,5,2,"34,35"
+đổ mồ hôi,4,3,"1,3,56"
+buồn nôn thoáng qua,4,1,4
+Lú lẫn,4,2,"7,35"
+"hạ huyết áp, không đặc hiệu",4,2,"16,58"
+tiểu tiện không tự chủ,4,2,"23,29"
+căng cứng vai trái,4,1,33
+phù chi dưới,4,2,"33,44"
+khó khăn khi cài cúc áo,4,1,48
+vụng về,4,1,48
+kéo lê chân trái,4,1,48
+vã mồ hôi,4,2,"75,76"
+ý định tự tử,4,2,"77,87"
+mất ý thức,3,2,"3,20"
+đau vùng hạ sườn phải,3,2,"4,67"
+Nôn mửa,3,3,"4,44,74"
+đau bụng hạ sườn phải,3,2,"4,94"
+ảo giác thị giác,3,1,7
+đau bụng dưới,3,2,"9,74"
+đau cơ,3,1,17
+ho khan,3,2,"17,71"
+mất định hướng,3,1,23
+sốt nhẹ đến 38.3°C,3,1,28
+"đau hạ sườn phải tái phát, ngày càng nặng hơn",3,1,28
+run rẩy,3,2,"34,52"
+khó khăn khi ăn uống qua đường miệng,3,1,41
+phù,3,2,"42,71"
+kéo khóa quần,3,1,48
+tiểu tiện ra sàn,3,1,48
+khó khăn khi ra khỏi ghế tựa,3,1,48
+khó khăn khi ăn,3,1,48
+ho nhẹ,3,1,50
+Đau đầu dữ dội,3,1,50
+sưng nhẹ,3,1,54
+đau nhẹ,3,1,54
+nhìn song thị,3,1,58
+yếu sức chân phải,3,1,58
+tỉnh chậm,3,1,58
+phản xạ kém,3,1,58
+nhìn mờ,3,1,59
+đau hố chậu,3,1,63
+đau bụng ngày càng nặng,3,1,70
+đau bụng liên tục,3,1,70
+mất trí nhớ chi tiết,3,1,82
+nhịp thở nhanh,3,1,84
+hạ thân nhiệt,3,1,97
+cảm giác thắt chặt ngực vùng trước tim,2,1,1
+cảm giác thắt chặt ngực,2,2,"1,53"
+khó chịu vùng ngực,2,1,1
+đau chân,2,1,3
+khó thở về đêm,2,1,3
+phù mắt cá chân,2,1,3
+Xỉu trước,2,1,3
+đau lưng kéo dài,2,1,4
+đau bụng vùng hạ sườn phải,2,1,4
+rối loạn thị giác,2,1,7
+Ảo thanh (AH),2,1,7
+khó nuốt,2,2,"8,27"
+chảy máu nhiều,2,1,9
+ho ra máu cỡ đồng xu,2,1,12
+ho ra máu,2,1,12
+tổn thương vùng âm hộ và mông bên phải,2,1,13
+cực kỳ đau đớn,2,1,13
+khó khăn khi ra khỏi giường,2,1,16
+đau bụng gián đoạn,2,1,16
+ho mạn tính có đờm vàng loãng,2,1,16
+phù phù,2,1,16
+phân nâu dương tính guaiac,2,1,16
+sưng quanh khớp ức đòn,2,1,17
+đau cổ,2,1,17
+đau sau xương ức,2,1,18
+đau bẹn trái,2,1,19
+Cơn rối loạn ý thức thoáng qua,2,1,23
+đi lại không vững,2,1,23
+kích thích nhẹ,2,1,23
+cứng đờ,2,1,23
+cắn lưỡi,2,1,23
+co giật,2,2,"23,58"
+sưng nề,2,1,24
+đau khi sờ nắn trên vùng da,2,1,24
+đau bụng trên,2,1,28
+Khó thở tăng dần,2,1,32
+cảm giác nghẹt ngực,2,1,32
+nghẹt ngực,2,2,"32,40"
+ho có đờm trắng,2,1,33
+đau bụng/khó chịu vùng bụng,2,1,34
+nôn x 1,2,1,34
+mất cảm giác ngon miệng/chán ăn,2,1,34
+suy nhược,2,1,34
+yếu cơ,2,1,35
+ăn vào dễ nôn,2,1,35
+ra máu,2,1,35
+ra dịch mật,2,1,35
+uống kém,2,1,36
+đau họng,2,1,38
+Tăng tăng cân 3 pound trong 7 ngày qua,2,1,38
+đau bụng dữ dội,2,1,39
+mất ăn ngon,2,1,39
+đau buốt khi đi tiểu,2,2,"40,44"
+đau tăng dần khi đi lại,2,1,42
+phù hai bên,2,1,42
+lơ mơ,2,2,"42,92"
+cơn ngất xỉu,2,1,44
+đau rát khi đi tiểu,2,1,44
+chán ăn,2,1,44
+"đau khi sờ nắn xung quanh vị trí đặt ống dẫn, đặc biệt là khi hít thở sâu",2,1,47
+ngã,2,1,48
+cảm thấy yếu sức,2,1,48
+cảm giác bất thường ở bên phải đầu,2,1,48
+Cánh tay trái lơ lửng,2,1,48
+căng tức vùng âm đạo,2,1,49
+khô âm đạo,2,1,49
+ra huyết âm đạo lượng ít,2,1,49
+đau khi ấn xoang,2,1,50
+mất ngủ,2,1,50
+Đau hạ vị,2,1,50
+máu từ trực tràng,2,1,54
+đau quanh vết mổ,2,1,55
+đau,2,2,"56,84"
+yếu sức nửa người bên phải,2,1,58
+tình trạng tri giác giảm sút,2,1,58
+không thể chịu lực ở chân phải,2,1,58
+nhịp tim chậm nặng,2,1,58
+mờ mắt,2,1,59
+trào ngược,2,1,60
+đau đầu gối phải,2,1,61
+táo bón trở nên tồi tệ hơn gần đây,2,1,64
+đau vùng hạ vị bên phải và hạ vị bên trái,2,1,64
+đổ mồ hôi qua đêm,2,1,64
+hoa mắt,2,1,64
+"đi tiêu bình thường, không ra máu",2,1,64
+đại tiện ra máu đỏ tươi gián đoạn,2,1,65
+đau bàn chân phải,2,1,66
+khó thở khi gắng sức nhẹ,2,1,71
+sưng phù hai mắt cá chân,2,1,71
+Đau tiến triển và lan vào sườn trái và LLQ,2,1,74
+khó chịu khi đi tiểu,2,1,74
+đau ngực trái dữ dội lan xuống cánh tay trái,2,1,75
+suy nhược toàn thân,2,1,78
+hồi hộp,2,1,78
+chảy dịch liên tục từ mặt trong của bàn chân trái,2,1,79
+vết thương thấu bụng giữa bên phải,2,1,81
+mệt mỏi nhiều,2,1,82
+ăn không ngon miệng,2,1,82
+ngứa da toàn thân nhiều,2,1,82
+chảy nước mũi,2,1,84
+giọng khàn,2,1,90
+chảy máu mũi,2,1,91
+nhầy máu,2,2,"94,95"
+sốt cao,2,1,96
+biến đổi ý thức,2,1,97
+đau dai dẳng,2,1,99
+giảm dung nạp gắng sức,1,1,1
+quầng sáng,1,1,3
+mất kiểm soát đại tiện hoặc tiểu tiện,1,1,3
+khó chịu,1,1,3
+choáng váng,1,1,3
+đau đầu gối,1,1,4
+nôn ói,1,1,4
+đau lưng kéo dài từ lâu,1,1,4
+Đau bụng chủ yếu khu trú vùng hạ sườn phải,1,1,4
+đau lưng âm ỉ,1,1,4
+"đau lưng (khu trú vùng cạnh cột sống bên trái đoạn giữa lưng, đôi khi lan ra phía trước bụng.)",1,1,4
+đau bụng vùng thượng vị,1,1,5
+tiểu khó,1,1,5
+Lú lẫn từng đợt gần đây,1,1,7
+cảm giác chóng mặt,1,1,7
+khó khăn khi nhìn gần,1,1,7
+ảo giác thính giác,1,1,7
+Khó khăn về thị lực gần,1,1,7
+khàn tiếng,1,1,8
+lower abdominal pain,1,1,9
+Đờm,1,1,10
+đau bụng quặn,1,1,10
+đi ngoài ra máu,1,1,10
+không tăng cân nhiều,1,1,10
+cổ trướng,1,1,11
+đờm có màu hồng,1,1,12
+Đờm pha màu hồng,1,1,12
+fever,1,1,12
+Đau bụng  âm ỉ,1,1,12
+tổn thương vùng âm hộ phải,1,1,13
+tổn thương đơn độc vùng âm hộ phải,1,1,13
+bọng nước,1,1,13
+đau nhiều,1,1,13
+rỉ dịch vàng đục giống mủ,1,1,13
+tổn thương dạng bóng nước,1,1,13
+dịch giống mủ có màu vàng,1,1,13
+chảy mủ,1,1,13
+dịch tiết có vẻ như mủ,1,1,13
+tụt huyết áp,1,1,16
+chán ăn trong vài tháng,1,1,16
+dịch từ vết mổ,1,1,16
+đỏ da,1,1,16
+bục chỉ khâu bụng,1,1,16
+ran nổ,1,1,16
+dịch rỉ huyết thanh từ vết mổ,1,1,16
+ran,1,1,16
+dịch thanh dịch lẫn máu từ vết mổ,1,1,16
+không khỏe,1,1,17
+đau cổ và vai phải,1,1,17
+đau vai phải,1,1,17
+sợ ánh sáng,1,1,17
+hơi đau khi sờ nắn,1,1,17
+đau khi vận động cánh tay,1,1,17
+đau lan ra sau lưng,1,1,18
+đau ngực lan ra sau lưng,1,1,18
+"đôi khi lan ra bên hông trái, xuống đầu gối trái khi đau dữ dội",1,1,19
+tê,1,1,19
+cảm giác châm chích,1,1,19
+cảm giác nặng,1,1,19
+Bầm máu vùng bẹn trái,1,1,19
+Sáng nay không thể tự ra khỏi giường và tự đi lại,1,1,20
+Đau ở hông phải khi cử động và thay đổi tư thế,1,1,20
+Than phiền đau ở hông phải khi cử động và thay đổi tư thế,1,1,20
+tiểu đêm nhiều,1,1,20
+rối loạn thần kinh,1,1,22
+cơn co giật,1,1,23
+đau đầu kéo dài,1,1,23
+đau đầu vùng thái dương phải và đỉnh đầu,1,1,23
+tê bì nửa mặt phải,1,1,23
+gần như ngất,1,1,23
+ý thức dao động,1,1,23
+run giật tay chân,1,1,23
+"Đau đầu vùng thái dương phải, đỉnh đầu, đôi khi lan ra sau mắt phải",1,1,23
+"Tê bì vùng trán phải, da đầu phải và nửa mặt phải",1,1,23
+Mất thăng bằng,1,1,23
+Gần ngất,1,1,23
+đau khi sờ nắn ở vết mổ,1,1,24
+ban đỏ lan rộng,1,1,24
+đau khi sờ nắn vùng mổ,1,1,24
+đau ấn vùng mổ,1,1,24
+rung động tại vị trí lỗ rò,1,1,25
+Cảm giác có đờm ở cổ họng,1,1,27
+khó thở tăng lên,1,1,27
+Cơn nhịp nhanh,1,1,27
+đau hạ sườn phải,1,1,28
+đau hạ sườn phải liên tục,1,1,28
+thay đổi chức năng ruột,1,1,28
+bàng quang căng,1,1,29
+cảm giác bí tiếu liên tục,1,1,29
+sờ thấy một khối cứng trong âm đạo khi bệnh nhân vệ sinh cá nhân,1,1,29
+Bệnh nhân nhìn/nghe thấy có nhiều người (đôi khi tổng cộng khoảng 8 người).,1,1,30
+Ảo giác không mang tính chất ra lệnh,1,1,30
+Bệnh nhân thường hoang tưởng/lo sợ rằng họ sẽ chạm vào da của mình.,1,1,30
+ảo giác khoảng mỗi đêm lúc 2 giờ sáng,1,1,30
+cơn co tử cung,1,1,31
+ra huyết âm đạo,1,1,31
+vỡ ối/rỉ ối,1,1,31
+phù ngoại vi tăng dần,1,1,32
+đau vai,1,1,32
+"Khó thở tăng dần, chủ yếu khi gắng sức.",1,1,32
+Nghẹt ngực kéo dài.,1,1,32
+Ho.,1,1,32
+Phù ngoại vi tăng dần trong vài tuần gần đây.,1,1,32
+ho và khò khè tăng lên,1,1,32
+ho nhiều,1,1,32
+khó nằm vào ban đêm để ngủ vì thở,1,1,33
+khó nằm vào ban đêm để ngủ vì khó thở,1,1,33
+giảm lượng nước tiểu,1,1,34
+tăng đáng kể lượng dịch từ ống thông hồi tràng,1,1,34
+thiểu niệu,1,1,34
+chảy dịch từ lỗ dò tăng đáng kể,1,1,34
+Nhiều lần ngã gần đây,1,1,35
+Cực kỳ yếu,1,1,35
+ngã hôm nay,1,1,35
+trượt ngã xuống sàn,1,1,35
+đau họng kèm theo nuốt vướng,1,1,38
+nhịp tim nhanh,1,1,39
+khó thở nhẹ-vừa khó thở khi gắng sức,1,1,40
+đi tiểu nhiều lần vào ban đêm,1,1,40
+khó thở khi gắng sức bao gồm cảm giác khó thở sau khi đi bộ vài khối,1,1,40
+ho đặc như bã theo lời bệnh nhân nhưng ông ấy không khạc nhổ gì,1,1,40
+tiêu chảy đã tự khỏi vào buổi sáng hôm sau,1,1,40
+đổ mồ hôi đêm,1,1,40
+khó thở khi nằm đột ngột (paroxysmal nocturnal dyspnea),1,1,40
+nausea,1,1,41
+diarrhea,1,1,41
+abdominal pain,1,1,41
+đau tăng dần,1,1,42
+cảm giác như vòi nước,1,1,43
+cảm giác như bị xịt nước bắt đầu ở ngực trái lan sang ngực phải,1,1,43
+khó thở khi ngủ,1,1,43
+weak,1,1,44
+ngủ quên,1,1,44
+giảm khả năng quan hệ tình dục,1,1,44
+tê bì ở cánh tay trái trên,1,1,44
+đau ở cánh tay trái dưới và bàn tay,1,1,44
+shortness of breath,1,1,44
+khó khăn với hạ huyết áp,1,1,46
+khó kiểm soát huyết áp,1,1,46
+đi khập khiễng cách quãng,1,1,46
+va đập đầu,1,1,48
+cánh tay trái được cho là lơ lửng,1,1,48
+khó khăn khi ước lượng vị trí ngồi xuống ghế ăn trưa,1,1,48
+cánh tay buông thõng,1,1,48
+khó khăn khi tự ăn tối,1,1,48
+Khó kéo khóa quần,1,1,48
+khó khăn khi ước lượng vị trí ngồi xuống ghế,1,1,48
+đi tiểu trên sàn,1,1,48
+khó khăn khi ước lượng vị trí ngồi,1,1,48
+cảm giác bất thường bên phải đầu,1,1,48
+đập đầu,1,1,48
+khối lồi trong âm đạo,1,1,49
+khối sa tại âm hộ,1,1,49
+tiểu buốt,1,1,49
+không kiểm soát được tiểu tiện,1,1,49
+đau nhiều khi  giao hợp,1,1,49
+khối sa lồi ra âm đạo,1,1,49
+Tiểu dắt,1,1,49
+Tiểu không tự chủ,1,1,49
+Đau khi giao hợp,1,1,49
+khối lồi âm đạo,1,1,49
+đau khi đi tiểu,1,1,49
+đau vùng hạ vị,1,1,50
+Đau vùng xoang,1,1,50
+khó chịu chung,1,1,51
+nghẹt mũi,1,1,51
+đau đầu bên trái,1,1,51
+phân đen,1,1,51
+máu đỏ tươi,1,1,51
+dịch nhầy,1,1,51
+Cảm giác thắt chặt ngực dưới xương ức nghiêm trọng,1,1,53
+máu trong phân,1,1,54
+rối loạn huyết động,1,1,54
+sưng ở chân trái,1,1,54
+máu trong trực tràng,1,1,54
+suy giảm huyết động,1,1,54
+khó chịu vùng ngực gián đoạn,1,1,56
+yếu chân phải,1,1,58
+yếu nửa người bên phải,1,1,58
+suy giảm tri giác,1,1,58
+nhịp tim chậm,1,1,58
+không nhấc chân phải khỏi mặt giường,1,1,58
+chân phải liên tục khuỵ xuống,1,1,58
+đau vùng xương bánh chè – đùi phải dữ dội,1,1,61
+Đau bánh chè đùi phải dữ dội,1,1,61
+đau đau dữ dội khi thực hiện hầu hết các hoạt động,1,1,61
+loét đau,1,1,62
+loét đỏ,1,1,62
+loét sưng,1,1,62
+mất thăng bằng khi đi lại,1,1,66
+đau bàn chân phải đã hoàn toàn hết,1,1,66
+Vẫn cảm thấy không vững khi đứng,1,1,66
+cơn đau dữ dội,1,1,70
+đau bụng trở nên tồi tệ hơn,1,1,70
+mệt mỏi toàn thân,1,1,70
+yếu sức,1,1,70
+ngứa toàn thân,1,1,70
+tiểu ra máu không đau,1,1,70
+Đau vùng gan phải (RUQ) và thượng vị lan ra sau lưng,1,1,70
+thay đổi thói quen đại tiện,1,1,70
+"phân có máu, đen hoặc nhựa đường",1,1,70
+vàng da không đau,1,1,72
+ngứa,1,1,72
+khó chịu khi đại tiện,1,1,74
+"đau liên tục, lan tỏa ra lưng và có tính chất kéo",1,1,74
+máu trong phân hoặc nước tiểu,1,1,74
+đau đớn khi đi tiểu,1,1,74
+tiểu gấp,1,1,74
+chảy máu âm đạo,1,1,74
+khí hư bất thường,1,1,74
+thay đổi cân nặng,1,1,74
+đau ngực sau xương ức,1,1,76
+Đau ngực dữ dội sau xương ức,1,1,76
+ý nghĩ tự bắn vào đầu,1,1,77
+trầm cảm,1,1,77
+các giai đoạn giống hưng cảm,1,1,77
+tăng hoạt động,1,1,77
+giảm nhu cầu ngủ,1,1,77
+ý nghĩ tự tử,1,1,77
+nghĩ tự bắn vào đầu,1,1,77
+lo âu,1,1,77
+hoảng sợ,1,1,77
+hoang tưởng như đang chiếm khí oxy của người khác,1,1,77
+khó thở kéo dài,1,1,78
+"khó thở liên tục, nhất là khi nằm",1,1,78
+khó thở tăng,1,1,86
+Khó thở tăng khi vận động gắng sức,1,1,86
+"Đi lại khó khăn, cần dùng gậy hỗ trợ đi lại",1,1,86
+Đau hai bàn chân do bệnh lý thần kinh ngoại biên,1,1,86
+buồn chán,1,1,87
+Phù chân trái và hoại tử ngày càng nặng,1,1,88
+phù chân,1,1,88
+phù chân và hoại tử nặng lên,1,1,88
+Phù 2 chân nặng,1,1,88
+chảy dịch vàng và có hoại tử đen kích thước 2*4 cm,1,1,88
+"chân sonde dẫn lưu sưng nề, đỏ",1,1,89
+"chân sonde dẫn lưu ổ bụng sưng nề, đỏ",1,1,89
+ý thúc chậm hơn,1,1,92
+đau bụng vùng hạ sườn phải ngày càng tăng,1,1,94
+"đi ngoài phân lỏng, toàn nước",1,1,94
+đau bụng tăng lên,1,1,94
+nôn nhiều,1,1,94
+"Buồn nôn, nôn ra thức ăn và dịch dạ dày, không có máu",1,1,94
+đau bụng sau khi uống sữa,1,1,95
+đau âm ỉ vùng quanh rốn,1,1,95
+đau bụng âm ỉ quanh rốn sau khí uống sữa,1,1,95
+xuất huyết dưới da,1,1,95
+"đau âm ỉ vùng quanh rốn, hạ sườn trái từng cơni",1,1,95
+buồn nôn nhẹ,1,1,95
+Cảm giác khát nước,1,1,96
+"Da khô, nếp véo da mất chậm",1,1,96
+đau hông từng cơn,1,1,96
+Mạch nhanh,1,1,96
+Tim nhịp nhanh đều,1,1,96
+đau toàn thân ít,1,1,97
+đau ngực ít,1,1,97
+đau lưng,1,1,98
+động kinh,1,1,100
+đau ở sau đầu và cổ từ khi bị ngã trong bồn tắm năm ngoái đến nay,1,1,100

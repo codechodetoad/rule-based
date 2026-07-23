@@ -1,0 +1,43 @@
+[
+    {
+        "text": "MÀY đay VÔ CĂN",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            170,
+            184
+        ],
+        "candidates": []
+    },
+    {
+        "text": "MÀY đay MẠN",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            268,
+            279
+        ],
+        "candidates": []
+    },
+    {
+        "text": "bệnh lý mày đay vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            739,
+            761
+        ],
+        "candidates": []
+    },
+    {
+        "text": "buồn ngủ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1183,
+            1191
+        ]
+    }
+]

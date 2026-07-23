@@ -1,0 +1,584 @@
+[
+    {
+        "text": "Bệnh bạch cầu dòng tủy mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "C93.1"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            57,
+            88
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            99,
+            106
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I10"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            113,
+            126
+        ]
+    },
+    {
+        "text": "tăng lipid máu, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E78.5"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            133,
+            163
+        ]
+    },
+    {
+        "text": "Đái tháo đường típ 2",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "P70.2"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            170,
+            190
+        ]
+    },
+    {
+        "text": "hẹp ống sống",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "M48.0"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            197,
+            209
+        ]
+    },
+    {
+        "text": "Giả gout",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            216,
+            224
+        ]
+    },
+    {
+        "text": "bệnh thận mạn, không đặc hiệu Giai đoạn 4",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "N18.4"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            231,
+            272
+        ]
+    },
+    {
+        "text": "tăng sản tuyến tiền liệt",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "N40"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            279,
+            303
+        ]
+    },
+    {
+        "text": "Nhiều lần ngã gần đây",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            310,
+            331
+        ]
+    },
+    {
+        "text": "Ngã",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            332,
+            335
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            342,
+            349
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            381,
+            388
+        ]
+    },
+    {
+        "text": "Toàn trạng suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            476,
+            495
+        ]
+    },
+    {
+        "text": "ảo giác dai dẳng",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            523,
+            539
+        ]
+    },
+    {
+        "text": "Lú lẫn ngày càng nặng",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            546,
+            567
+        ]
+    },
+    {
+        "text": "Cực kỳ yếu",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            605,
+            615
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            661,
+            668
+        ]
+    },
+    {
+        "text": "Lú lẫn ngày càng nặng",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            693,
+            714
+        ]
+    },
+    {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            739,
+            745
+        ]
+    },
+    {
+        "text": "ngã",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            754,
+            757
+        ]
+    },
+    {
+        "text": "toàn trạng suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            797,
+            816
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            823,
+            830
+        ]
+    },
+    {
+        "text": "Lú lẫn",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            837,
+            843
+        ]
+    },
+    {
+        "text": "Ăn uống kém",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            850,
+            861
+        ]
+    },
+    {
+        "text": "ăn vào dễ nôn",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            863,
+            876
+        ]
+    },
+    {
+        "text": "Nôn không ra máu, không ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            884,
+            919
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1000,
+            1007
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1047,
+            1054
+        ]
+    },
+    {
+        "text": "Toàn trạng suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1101,
+            1120
+        ]
+    },
+    {
+        "text": "trượt ngã",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1127,
+            1136
+        ]
+    },
+    {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1150,
+            1156
+        ]
+    },
+    {
+        "text": "Ăn uống kém",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1163,
+            1174
+        ]
+    },
+    {
+        "text": "ăn vào dễ nôn",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1176,
+            1189
+        ]
+    },
+    {
+        "text": "Nôn không ra máu, không ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1197,
+            1232
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1565,
+            1573
+        ]
+    },
+    {
+        "text": "39.2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1582,
+            1586
+        ]
+    },
+    {
+        "text": "creatinin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1593,
+            1602
+        ]
+    },
+    {
+        "text": "3.0",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1606,
+            1609
+        ]
+    },
+    {
+        "text": "troponin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1616,
+            1624
+        ]
+    },
+    {
+        "text": "0.10",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1628,
+            1632
+        ]
+    },
+    {
+        "text": "inr",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1639,
+            1642
+        ]
+    },
+    {
+        "text": "1.4",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1646,
+            1649
+        ]
+    },
+    {
+        "text": "Tăng men gan",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1656,
+            1668
+        ]
+    },
+    {
+        "text": "alt",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1674,
+            1677
+        ]
+    },
+    {
+        "text": "176",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1681,
+            1684
+        ]
+    },
+    {
+        "text": "ast",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1688,
+            1691
+        ]
+    },
+    {
+        "text": "287",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1695,
+            1698
+        ]
+    },
+    {
+        "text": "tổng phân tích nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1705,
+            1729
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "P70.2"
+        ],
+        "assertions": [],
+        "position": [
+            1733,
+            1747
+        ]
+    },
+    {
+        "text": "chụp x-quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1794,
+            1811
+        ]
+    },
+    {
+        "text": "bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1815,
+            1826
+        ]
+    },
+    {
+        "text": "cml",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "C92.1"
+        ],
+        "assertions": [],
+        "position": [
+            1968,
+            1971
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1993,
+            2000
+        ]
+    }
+]

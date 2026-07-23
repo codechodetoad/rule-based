@@ -1,0 +1,6 @@
+# KẾT_QUẢ_XÉT_NGHIỆM — cụm kết quả ĐỊNH TÍNH viết liền (không tách được bằng
+# find_result_value vì không theo mẫu "tên XN + số/định tính ngay sau").
+# 1 cụm/dòng, khớp không phân biệt hoa/thường.
+tăng bạch cầu
+đường huyết thấp
+sóng st chênh xuống  ở các chuyển đạo v4 đến v6

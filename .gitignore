@@ -1,0 +1,31 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# generated pipeline outputs (rebuildable)
+output_ner/
+output_pre/
+output_coded/
+output_final/
+output_closest/
+output_findings/
+output_drugs/
+output_tests/
+submission*.zip
+
+# large rebuildable cache — regenerate with source/eval/build_library_embeddings.py
+library/embeddings/
+
+# trained model weights (~2.1 GB) — NOT shipped; rebuild with ./train.sh (GPU, ~4 min)
+models/
+
+# training checkpoints (only final weights in models/ are tracked, via LFS)
+runs/
+checkpoint-*/
+*.log

@@ -1,0 +1,350 @@
+[
+    {
+        "text": "Rối loạn chuyển hóa tinh bột (amyloidosis)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            29,
+            71
+        ],
+        "assertions": [],
+        "candidates": [
+            "E70.2"
+        ]
+    },
+    {
+        "text": "Bệnh thoái hóa tinh bột (hay bệnh amyloidosis)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            308,
+            354
+        ],
+        "assertions": [],
+        "candidates": [
+            "H44.3"
+        ]
+    },
+    {
+        "text": "Bệnh bạch cầu dòng tủy mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            765,
+            796
+        ],
+        "assertions": [],
+        "candidates": [
+            "C93.1"
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "position": [
+            807,
+            814
+        ],
+        "assertions": [],
+        "candidates": []
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            821,
+            834
+        ],
+        "assertions": [],
+        "candidates": [
+            "I10"
+        ]
+    },
+    {
+        "text": "tăng lipid máu, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            841,
+            871
+        ],
+        "assertions": [],
+        "candidates": [
+            "E78.5"
+        ]
+    },
+    {
+        "text": "Đái tháo đường típ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            878,
+            898
+        ],
+        "assertions": [],
+        "candidates": [
+            "P70.2"
+        ]
+    },
+    {
+        "text": "hẹp ống sống",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            905,
+            917
+        ],
+        "assertions": [],
+        "candidates": [
+            "M48.0"
+        ]
+    },
+    {
+        "text": "Giả gout",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            924,
+            932
+        ],
+        "assertions": [],
+        "candidates": []
+    },
+    {
+        "text": "bệnh thận mạn, không đặc hiệu Giai đoạn 4",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            939,
+            980
+        ],
+        "assertions": [],
+        "candidates": [
+            "N18.4"
+        ]
+    },
+    {
+        "text": "tăng sản tuyến tiền liệt",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            987,
+            1011
+        ],
+        "assertions": [],
+        "candidates": [
+            "N40"
+        ]
+    },
+    {
+        "text": "ngã",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1028,
+            1031
+        ],
+        "assertions": []
+    },
+    {
+        "text": "Ngã",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1040,
+            1043
+        ],
+        "assertions": []
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1050,
+            1057
+        ],
+        "assertions": []
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "position": [
+            1089,
+            1096
+        ],
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Toàn trạng suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1184,
+            1203
+        ],
+        "assertions": []
+    },
+    {
+        "text": "ảo giác dai dẳng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1231,
+            1247
+        ],
+        "assertions": []
+    },
+    {
+        "text": "Lú lẫn ngày càng nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1254,
+            1275
+        ],
+        "assertions": []
+    },
+    {
+        "text": "Cực kỳ yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1313,
+            1323
+        ],
+        "assertions": []
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1369,
+            1376
+        ],
+        "assertions": []
+    },
+    {
+        "text": "Lú lẫn ngày càng nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1401,
+            1422
+        ],
+        "assertions": []
+    },
+    {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1447,
+            1453
+        ],
+        "assertions": []
+    },
+    {
+        "text": "ngã",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1462,
+            1465
+        ],
+        "assertions": []
+    },
+    {
+        "text": "toàn trạng suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1505,
+            1524
+        ],
+        "assertions": []
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1531,
+            1538
+        ],
+        "assertions": []
+    },
+    {
+        "text": "Lú lẫn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1545,
+            1551
+        ],
+        "assertions": []
+    },
+    {
+        "text": "Ăn uống kém",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1558,
+            1569
+        ],
+        "assertions": []
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1581,
+            1584
+        ],
+        "assertions": []
+    },
+    {
+        "text": "Nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1592,
+            1595
+        ],
+        "assertions": []
+    },
+    {
+        "text": "Bệnh amyloidosis chuỗi nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1637,
+            1663
+        ],
+        "assertions": [],
+        "candidates": [
+            "C88.1"
+        ]
+    },
+    {
+        "text": "Bệnh amyloidosis tự miễn dịch",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1673,
+            1702
+        ],
+        "assertions": [],
+        "candidates": []
+    },
+    {
+        "text": "Bệnh amyloidosis di truyền hoặc gia đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1712,
+            1752
+        ],
+        "assertions": [],
+        "candidates": [
+            "E85.2"
+        ]
+    },
+    {
+        "text": "amyloidosis",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1891,
+            1902
+        ],
+        "assertions": [],
+        "candidates": []
+    },
+    {
+        "text": "amyloidosis",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2036,
+            2047
+        ],
+        "assertions": [],
+        "candidates": []
+    }
+]

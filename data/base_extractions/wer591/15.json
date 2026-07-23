@@ -1,0 +1,342 @@
+[
+    {
+        "text": "Bệnh phổi kẽ do sử dụng corticoid liều cao kéo dài",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "T88.3"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            44,
+            94
+        ]
+    },
+    {
+        "text": "Hội chứng kháng enzym tổng hợp protein",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "Y42.0"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            124,
+            162
+        ]
+    },
+    {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            170,
+            177
+        ]
+    },
+    {
+        "text": "Tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "D75.2"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            184,
+            209
+        ]
+    },
+    {
+        "text": "Sinh thiết nội mạc tử cung gần đây",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            247,
+            281
+        ]
+    },
+    {
+        "text": "Corticoid liều cao kéo dài",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            317,
+            343
+        ]
+    },
+    {
+        "text": "bactrim",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            382,
+            389
+        ]
+    },
+    {
+        "text": "doxycycline",
+        "type": "THUỐC",
+        "candidates": [
+            "3640"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            430,
+            441
+        ]
+    },
+    {
+        "text": "Suy giảm miễn dịch do sử dụng corticoid kéo dài",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            478,
+            525
+        ]
+    },
+    {
+        "text": "tổn thương vùng âm hộ và mông bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            584,
+            622
+        ]
+    },
+    {
+        "text": "tổn thương vùng âm hộ phải",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            682,
+            708
+        ]
+    },
+    {
+        "text": "tổn thương đơn độc vùng âm hộ phải",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            839,
+            873
+        ]
+    },
+    {
+        "text": "cotrimoxazol",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            921,
+            933
+        ]
+    },
+    {
+        "text": "doxycyclin",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            953,
+            963
+        ]
+    },
+    {
+        "text": "viêm mô tế bào",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "H60.1"
+        ],
+        "assertions": [],
+        "position": [
+            976,
+            990
+        ]
+    },
+    {
+        "text": "ban đỏ quanh tổn thương",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1008,
+            1031
+        ]
+    },
+    {
+        "text": "bọng nước",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1114,
+            1123
+        ]
+    },
+    {
+        "text": "đau nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1150,
+            1159
+        ]
+    },
+    {
+        "text": "rỉ dịch vàng đục giống mủ",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1175,
+            1200
+        ]
+    },
+    {
+        "text": "cực kỳ đau đớn",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1756,
+            1770
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1860,
+            1866
+        ]
+    },
+    {
+        "text": "chảy mủ",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1868,
+            1875
+        ]
+    },
+    {
+        "text": "bactrim",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1984,
+            1991
+        ]
+    },
+    {
+        "text": "doxycycline",
+        "type": "THUỐC",
+        "candidates": [
+            "3640"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1995,
+            2006
+        ]
+    },
+    {
+        "text": "Viêm mô tế bào",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "H60.1"
+        ],
+        "assertions": [],
+        "position": [
+            2029,
+            2043
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            2083,
+            2089
+        ]
+    },
+    {
+        "text": "doxycyclinebactrim",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            2332,
+            2350
+        ]
+    },
+    {
+        "text": "Viêm mô tế bào",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "H60.1"
+        ],
+        "assertions": [],
+        "position": [
+            2364,
+            2378
+        ]
+    },
+    {
+        "text": "Nhiễm virus Herpes simplex (HSV)",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            2585,
+            2617
+        ]
+    },
+    {
+        "text": "Bệnh thủy đậu/Zona (do Varicella Zoster Virus)",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            2623,
+            2669
+        ]
+    }
+]

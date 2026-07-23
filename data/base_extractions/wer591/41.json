@@ -1,0 +1,215 @@
+[
+    {
+        "text": "mụn trứng cá",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            80,
+            92
+        ],
+        "candidates": []
+    },
+    {
+        "text": "mụn ở trán",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            249,
+            259
+        ]
+    },
+    {
+        "text": "da dầu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            316,
+            322
+        ]
+    },
+    {
+        "text": "Trứng cá",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            681,
+            689
+        ],
+        "candidates": []
+    },
+    {
+        "text": "nhân mụn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            744,
+            752
+        ]
+    },
+    {
+        "text": "sẹo",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            775,
+            778
+        ]
+    },
+    {
+        "text": "mụn mủ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            780,
+            786
+        ]
+    },
+    {
+        "text": "nốt sần",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            788,
+            795
+        ]
+    },
+    {
+        "text": "nang",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            800,
+            804
+        ]
+    },
+    {
+        "text": "Trứng cá",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            808,
+            816
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Tăng sản tuyến bã nhờn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            850,
+            872
+        ],
+        "candidates": [
+            "N40"
+        ]
+    },
+    {
+        "text": "Sừng hóa nang lông bất thường",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            875,
+            904
+        ],
+        "candidates": [
+            "L68.0"
+        ]
+    },
+    {
+        "text": "Viêm tại chỗ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            926,
+            938
+        ]
+    },
+    {
+        "text": "Nhân mụn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            952,
+            960
+        ]
+    },
+    {
+        "text": "Tretinoin tại chỗ",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            962,
+            979
+        ],
+        "candidates": [
+            "10753"
+        ]
+    },
+    {
+        "text": "Trứng cá viêm nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            982,
+            999
+        ],
+        "candidates": []
+    },
+    {
+        "text": "đau ngực trái cấp tính",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1115,
+            1137
+        ]
+    },
+    {
+        "text": "đau sau xương ức lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1141,
+            1173
+        ]
+    },
+    {
+        "text": "trứng cá",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1250,
+            1258
+        ],
+        "candidates": []
+    },
+    {
+        "text": "sẹo",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1280,
+            1283
+        ]
+    },
+    {
+        "text": "ức chế về tâm lý",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1287,
+            1303
+        ]
+    },
+    {
+        "text": "mụn trứng cá",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1333,
+            1345
+        ],
+        "candidates": []
+    }
+]

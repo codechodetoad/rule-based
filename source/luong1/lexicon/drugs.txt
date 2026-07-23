@@ -1,0 +1,221 @@
+# THUỐC — drug NER lexicon (tên generic EN + brand + cụm tiếng Việt). 1 tên/dòng, '#' = comment.
+# Dùng để PHÁT HIỆN tên thuốc; RxCUI được resolve qua RxNav (build_rxnorm.py -> cache).
+# Cụm tiếng Việt / class có thể ghi "cụm | RxCUI | note" để gán mã trực tiếp.
+# === generic (EN) ===
+metoprolol succinate
+metoprolol tartrate
+metoprolol
+atenolol
+amlodipine
+lisinopril
+enalapril
+losartan
+valsartan
+hydrochlorothiazide
+furosemide
+bumetanide
+spironolactone
+carvedilol
+diltiazem
+verapamil
+amiodarone
+digoxin
+aspirin
+clopidogrel
+prasugrel
+ticagrelor
+warfarin
+apixaban
+rivaroxaban
+dabigatran
+enoxaparin
+heparin
+atorvastatin
+simvastatin
+rosuvastatin
+pravastatin
+ranolazine
+nitroglycerin
+isosorbide
+acetaminophen
+paracetamol
+ibuprofen
+naproxen
+ketorolac
+hydrocodone
+oxycodone
+morphine
+hydromorphone
+fentanyl
+tramadol
+gabapentin
+pregabalin
+prednisone
+prednisolone
+methylprednisolone
+dexamethasone
+hydrocortisone
+albuterol
+ipratropium
+tiotropium
+montelukast
+guaifenesin
+dextromethorphan
+azithromycin
+levofloxacin
+levafloxacin | 82122 | levofloxacin (lỗi chính tả phổ biến trong GT)
+ciprofloxacin
+ceftriaxone
+ceftazidime
+cefepime
+cephalexin
+vancomycin
+piperacillin
+tazobactam
+doxycycline
+amoxicillin
+ampicillin
+metronidazole
+trimethoprim
+sulfamethoxazole
+nystatin
+fluconazole
+insulin
+metformin
+glipizide
+omeprazole
+pantoprazole
+ranitidine
+famotidine
+docusate sodium
+docusate
+senna
+ondansetron
+lorazepam
+clonazepam
+diazepam
+alprazolam
+sertraline
+fluoxetine
+citalopram
+escitalopram
+mirtazapine
+trazodone
+haloperidol
+quetiapine
+olanzapine
+risperidone
+levothyroxine
+allopurinol
+colchicine
+desmopressin
+phenytoin
+levetiracetam
+propofol
+phentolamine | 8153 | phentolamine (fix: approximateTerm nhầm phenylephrine)
+norepinephrine
+epinephrine
+dopamine
+imatinib
+clonidine
+chlorpheniramine
+capsaicin
+bicarbonate
+bumetanide
+ranexa
+# === brand (đã ngừng SX / retired trong RxNorm hiện tại -> verify qua RxNav property/approximateTerm) ===
+vicodin | 856987 | acetaminophen 300mg/hydrocodone bitartrate 5mg oral tablet (Vicodin brand đã retired, dùng SCD tương đương)
+z-pack | 750149 | Z-PAK (azithromycin 250mg x6 pack) [fix: GT dùng 18631=azithromycin đơn, kém chính xác hơn]
+toradol | 35827 | ketorolac (Toradol brand retired)
+taxol | 56946 | paclitaxel (Taxol brand retired, cả 2 rxcui cũ 196466/1180258 đều invalid)
+cefepim | 20481 | cefepime (lỗi chính tả thiếu chữ 'e')
+# === NEW-1 (2026-07-18): fix mã DB Opus trỏ SAI THUỐC KHÁC (audit round-trip RxCUI->RxNorm Name) ===
+ertapenem | 325642 | ertapenem (fix: DB Opus trỏ nhầm 596926=duloxetine)
+octreotide | 7617 | octreotide (fix: DB Opus trỏ nhầm 7512=norepinephrine)
+compazine | 8704 | prochlorperazine (fix: DB Opus trỏ nhầm 8745=promethazine; brand Compazine=prochlorperazine)
+# gazetteer nuốt CẢ cụm (drug+duration/dose) -> trie khớp NGUYÊN cụm nên override tên-ngắn ('zosyn'
+# ở mục brand, 'natriclori' ở mục saline) bị bỏ qua; cần override ĐÚNG cụm DB Opus gán mã sai.
+zosyn 8 ngày | 74169 | piperacillin/tazobactam (fix: DB Opus trỏ nhầm 1740938=insulin)
+natriclori 0.9 % | 9863 | sodium chloride (fix: DB Opus trỏ nhầm 3535=RxCUI vô hiệu)
+# === brand (còn active) ===
+lasix
+laxis | 4603 | furosemide (viết sai của Lasix)
+tylenol
+advil
+motrin
+aleve
+vicodin
+norco
+percocet
+coumadin
+plavix
+eliquis
+xarelto
+lovenox
+gleevec
+lipitor
+crestor
+zocor
+combivent
+spiriva
+ventolin
+proair
+singulair
+mucinex
+robitussin
+zithromax
+z-pack
+levaquin
+cipro
+rocephin
+bactrim | 151399 | Bactrim brand, RxNav approximateTerm xác nhận [fix: GT dùng 10829(trimethoprim đơn)/197454(cephalexin!) đều sai]
+cotrimoxazol | 10831 | sulfamethoxazole/trimethoprim (co-trimoxazole) [fix: 197454 sai = cephalexin]
+augmentin
+zosyn | 74169 | piperacillin/tazobactam (fix: DB Opus 'zosyn N ngày' trỏ nhầm 1740938=insulin)
+flagyl
+diflucan
+glucophage
+prilosec
+protonix
+zofran
+ativan
+klonopin
+xanax
+valium
+zoloft
+prozac
+lexapro
+seroquel
+zyprexa
+synthroid
+dilaudid
+# levophed: BN "Levophed" đã có sẵn RxCUI 227559 chính xác qua bulk pull (bỏ override 7512 cũ, thừa/kém chính xác hơn)
+levophed
+narcan
+mucinex d
+# === cụm tiếng Việt / class (gán RxCUI trực tiếp nếu chắc) ===
+thở oxy | 7806 | oxygen
+thở oxy tại nhà | 7806 | oxygen
+liệu pháp oxy | 7806 | oxygen
+natriclori | 9863 | sodium chloride (fix: 3535 là RxCUI vô hiệu, không resolve được tên)
+natri clorid | 9863 | sodium chloride (fix: 3535 vô hiệu)
+nước muối sinh lý | 9863 | sodium chloride (fix: 3535 vô hiệu)
+điều trị chống đông | 11289 | warfarin (anticoagulation)
+liệu pháp chống đông | 11289 | warfarin (anticoagulation)
+lợi tiểu | 4603 | furosemide (diuretic)
+liệu pháp lợi tiểu | 4603 | furosemide (diuretic)
+corticoid | 8640 | prednisone (corticosteroid)
+nitrates | 4917 | nitroglycerin
+nsaid | 5640 | ibuprofen (đại diện nhóm NSAID)
+nsaids | 5640 | ibuprofen (đại diện nhóm NSAID)
+thuốc giảm đau opioid | 7052 | morphine (đại diện nhóm opioid)
+thuốc an thần | 3322 | diazepam (đại diện nhóm an thần/sedative)
+yếu tố ix đậm đặc | 1670383 | factor IX complex [fix: GT dùng 1360481 retired/invalid]
+yếu tố ix | 1670383 | factor IX complex
+truyền dịch tĩnh mạch | 9863 | sodium chloride (dịch truyền mặc định)
+
+# === recall-bug: xuất hiện trong input nhưng extractor bỏ sót (mining vs output/, 2026-07-21) ===
+doxycyclin | 3640
+asa | 1191
+methadone
+nac

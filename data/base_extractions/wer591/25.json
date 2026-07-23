@@ -1,0 +1,387 @@
+[
+    {
+        "text": "**********",
+        "type": "THUỐC",
+        "position": [
+            58,
+            68
+        ],
+        "candidates": []
+    },
+    {
+        "text": "**********",
+        "type": "THUỐC",
+        "position": [
+            138,
+            148
+        ],
+        "candidates": []
+    },
+    {
+        "text": "**********",
+        "type": "THUỐC",
+        "position": [
+            328,
+            338
+        ],
+        "candidates": []
+    },
+    {
+        "text": "*************************",
+        "type": "THUỐC",
+        "position": [
+            519,
+            544
+        ],
+        "candidates": []
+    },
+    {
+        "text": "*************************",
+        "type": "THUỐC",
+        "position": [
+            962,
+            987
+        ],
+        "candidates": []
+    },
+    {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            386,
+            394
+        ]
+    },
+    {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            403,
+            411
+        ]
+    },
+    {
+        "text": "trễ kinh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            416,
+            424
+        ]
+    },
+    {
+        "text": "tắc ống dẫn trứng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            757,
+            774
+        ],
+        "candidates": [
+            "Q55.3"
+        ]
+    },
+    {
+        "text": "teo niêm mạc tử cung",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            801,
+            821
+        ],
+        "candidates": [
+            "N86"
+        ]
+    },
+    {
+        "text": "không rụng trứng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            823,
+            839
+        ]
+    },
+    {
+        "text": "vô sinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            848,
+            855
+        ],
+        "candidates": [
+            "N46"
+        ]
+    },
+    {
+        "text": "ung thư cổ tử cung",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            895,
+            913
+        ],
+        "candidates": [
+            "D06.9"
+        ]
+    },
+    {
+        "text": "mang thai ngoài tử cung",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1014,
+            1037
+        ],
+        "candidates": [
+            "O26.3"
+        ]
+    },
+    {
+        "text": "ảnh hưởng đến tim, mạch, gan, thận",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1082,
+            1116
+        ]
+    },
+    {
+        "text": "mụn trứng cá",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1227,
+            1239
+        ]
+    },
+    {
+        "text": "nám",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1241,
+            1244
+        ]
+    },
+    {
+        "text": "tàn nhang",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1246,
+            1255
+        ]
+    },
+    {
+        "text": "sạm da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1257,
+            1263
+        ]
+    },
+    {
+        "text": "bồn chồn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1317,
+            1325
+        ]
+    },
+    {
+        "text": "lo lắng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1327,
+            1334
+        ]
+    },
+    {
+        "text": "bứt rứt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1336,
+            1343
+        ]
+    },
+    {
+        "text": "giảm ham muốn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1361,
+            1374
+        ]
+    },
+    {
+        "text": "lãnh cảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1376,
+            1384
+        ]
+    },
+    {
+        "text": "suy giảm hưng phấn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1386,
+            1404
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1494,
+            1500
+        ]
+    },
+    {
+        "text": "đau khi sờ nắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1504,
+            1518
+        ]
+    },
+    {
+        "text": "sưng nề",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1649,
+            1656
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1694,
+            1700
+        ]
+    },
+    {
+        "text": "đau khi sờ nắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1657,
+            1671
+        ]
+    },
+    {
+        "text": "chọc hút dịch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1842,
+            1855
+        ]
+    },
+    {
+        "text": "cấy mẫu bệnh phẩm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1864,
+            1881
+        ]
+    },
+    {
+        "text": "levafloxacin",
+        "type": "THUỐC",
+        "position": [
+            1914,
+            1926
+        ],
+        "candidates": []
+    },
+    {
+        "text": "cephalexin",
+        "type": "THUỐC",
+        "position": [
+            1930,
+            1940
+        ],
+        "candidates": [
+            "2231"
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1778,
+            1784
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2008,
+            2017
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1983,
+            1989
+        ]
+    },
+    {
+        "text": "đau khi sờ nắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1741,
+            1755
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2232,
+            2241
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            2248,
+            2257
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2154,
+            2160
+        ]
+    },
+    {
+        "text": "đau khi sờ nắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2203,
+            2217
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1830,
+            1838
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            1840,
+            1849
+        ]
+    }
+]

@@ -1,0 +1,315 @@
+[
+    {
+        "text": "Bệnh bạch cầu dòng tủy mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "C93.1"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            57,
+            88
+        ]
+    },
+    {
+        "text": "tăng cholesterol máu đơn thuần",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E78.0"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            95,
+            125
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I10"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            132,
+            145
+        ]
+    },
+    {
+        "text": "gleevec (ngừng uống cách nhập viện 5 ngày)",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "position": [
+            190,
+            232
+        ]
+    },
+    {
+        "text": "allopurinol (ngừng uống \ncách nhập viện 5 ngày)",
+        "type": "THUỐC",
+        "candidates": [
+            "519"
+        ],
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "position": [
+            239,
+            286
+        ]
+    },
+    {
+        "text": "Thuốc giảm đau (ngừng)",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "position": [
+            293,
+            315
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            363,
+            370
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            451,
+            458
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "O86.2"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            515,
+            565
+        ]
+    },
+    {
+        "text": "Thuốc giảm đau",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "position": [
+            573,
+            587
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "O86.2"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            664,
+            714
+        ]
+    },
+    {
+        "text": "Thuốc giảm đau",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "position": [
+            720,
+            734
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "position": [
+            751,
+            758
+        ]
+    },
+    {
+        "text": "allopurinol",
+        "type": "THUỐC",
+        "candidates": [
+            "519"
+        ],
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "position": [
+            797,
+            808
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            847,
+            854
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            919,
+            926
+        ]
+    },
+    {
+        "text": "Ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1076,
+            1083
+        ]
+    },
+    {
+        "text": "hoang tưởng/lo sợ",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1131,
+            1148
+        ]
+    },
+    {
+        "text": "đi cầu phân sống",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1252,
+            1268
+        ]
+    },
+    {
+        "text": "đi cầu phân sống",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1396,
+            1412
+        ]
+    },
+    {
+        "text": "Bacillus clausii 2 tỷ bào tử/5ml/ ống uống 1-2 ống/ ngày",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1635,
+            1691
+        ]
+    },
+    {
+        "text": "Enterogermina",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1706,
+            1719
+        ]
+    },
+    {
+        "text": "Biogermin",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1721,
+            1730
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "position": [
+            1743,
+            1750
+        ]
+    },
+    {
+        "text": "allopurinol",
+        "type": "THUỐC",
+        "candidates": [
+            "519"
+        ],
+        "assertions": [
+            "isHistorical",
+            "isNegated"
+        ],
+        "position": [
+            1788,
+            1799
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1872,
+            1879
+        ]
+    }
+]

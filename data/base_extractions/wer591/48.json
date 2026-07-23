@@ -1,0 +1,74 @@
+[
+    {
+        "text": "không có lỗ tai",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            84,
+            99
+        ]
+    },
+    {
+        "text": "đo âm tai",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            213,
+            222
+        ]
+    },
+    {
+        "text": "vành tai không phát triển đều",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            375,
+            404
+        ]
+    },
+    {
+        "text": "dị tật thiểu sản vành tai và tịt ống tai ngoài bẩm sinh",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "Q16.1"
+        ],
+        "assertions": [],
+        "position": [
+            1042,
+            1097
+        ]
+    },
+    {
+        "text": "chỉ nghe một bên",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1358,
+            1374
+        ]
+    },
+    {
+        "text": "lúng túng khi xác định hướng âm thanh",
+        "type": "TRIỆU_CHỨNG",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1390,
+            1427
+        ]
+    },
+    {
+        "text": "đo thính lực",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1647,
+            1659
+        ]
+    }
+]

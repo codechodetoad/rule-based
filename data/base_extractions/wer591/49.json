@@ -1,0 +1,194 @@
+[
+    {
+        "text": "rụng tóc từng mảng",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            35,
+            53
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Ung thư vú di căn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            195,
+            212
+        ],
+        "candidates": []
+    },
+    {
+        "text": "tràn dịch màng phổi trái tái phát",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            214,
+            247
+        ],
+        "candidates": [
+            "J90"
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            286,
+            293
+        ]
+    },
+    {
+        "text": "tràn dịch màng ngoài tim mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            326,
+            368
+        ],
+        "candidates": [
+            "I31.3"
+        ]
+    },
+    {
+        "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            397,
+            444
+        ],
+        "candidates": [
+            "Q20.4"
+        ]
+    },
+    {
+        "text": "rụng tóc từng vùng",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            639,
+            657
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Corticosteroid bôi tại chỗ",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            742,
+            768
+        ],
+        "candidates": []
+    },
+    {
+        "text": "kem ***************************",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            824,
+            855
+        ],
+        "candidates": []
+    },
+    {
+        "text": "************************************ (corticoid mức độ mạnh)",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            878,
+            938
+        ],
+        "candidates": []
+    },
+    {
+        "text": "rụng tóc toàn bộ",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            948,
+            964
+        ],
+        "candidates": [
+            "L63.1"
+        ]
+    },
+    {
+        "text": "rụng tóc toàn thể",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            970,
+            987
+        ],
+        "candidates": [
+            "L63.0"
+        ]
+    },
+    {
+        "text": "2,5g ********************e có bao phim che phủ",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1016,
+            1062
+        ],
+        "candidates": [
+            "1809438"
+        ]
+    },
+    {
+        "text": "diphenylcyclopropenone (diphencyprone)",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1284,
+            1322
+        ],
+        "candidates": []
+    },
+    {
+        "text": "dinitrochlorobenzene",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1326,
+            1346
+        ],
+        "candidates": []
+    },
+    {
+        "text": "viêm da tiếp xúc dị ứng",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1389,
+            1412
+        ],
+        "candidates": []
+    },
+    {
+        "text": "mày đay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1535,
+            1542
+        ]
+    },
+    {
+        "text": "bất thường sắc tố (gồm cả bạch biến)",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1544,
+            1580
+        ],
+        "candidates": [
+            "L80"
+        ]
+    }
+]

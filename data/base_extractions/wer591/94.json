@@ -1,0 +1,134 @@
+[
+    {
+        "text": "Siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            16,
+            27
+        ]
+    },
+    {
+        "text": "chèn ép tim",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            29,
+            40
+        ],
+        "candidates": [
+            "G93.5"
+        ]
+    },
+    {
+        "text": "Viêm hang vị sung huyết",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            43,
+            66
+        ],
+        "candidates": [
+            "C16.3"
+        ]
+    },
+    {
+        "text": "đau bụng cồn cào",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            184,
+            200
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            210,
+            215
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            217,
+            223
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            244,
+            252
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            258,
+            261
+        ]
+    },
+    {
+        "text": "bệnh dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            273,
+            284
+        ],
+        "candidates": [
+            "A21.3"
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            352,
+            359
+        ]
+    },
+    {
+        "text": "viêm sung huyết hang vị dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            433,
+            463
+        ],
+        "candidates": [
+            "I50.0"
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            519,
+            533
+        ]
+    },
+    {
+        "text": "viêm sung huyết hang vị dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            913,
+            943
+        ],
+        "candidates": [
+            "I50.0"
+        ]
+    }
+]

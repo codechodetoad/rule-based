@@ -1,0 +1,287 @@
+[
+    {
+        "text": "thương nhẹ ở tay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            61,
+            79
+        ]
+    },
+    {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            90,
+            100
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            310,
+            318
+        ]
+    },
+    {
+        "text": "Bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            540,
+            548
+        ]
+    },
+    {
+        "text": "vết cắn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            571,
+            578
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            603,
+            611
+        ]
+    },
+    {
+        "text": "Bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            653,
+            661
+        ]
+    },
+    {
+        "text": "vết thương",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            766,
+            776
+        ]
+    },
+    {
+        "text": "trầy xước",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            795,
+            804
+        ]
+    },
+    {
+        "text": "Bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            820,
+            828
+        ]
+    },
+    {
+        "text": "Bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            843,
+            851
+        ]
+    },
+    {
+        "text": "điên dại",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1070,
+            1078
+        ]
+    },
+    {
+        "text": "Bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1099,
+            1107
+        ]
+    },
+    {
+        "text": "vết thương",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1192,
+            1202
+        ]
+    },
+    {
+        "text": "cơn dại",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1282,
+            1289
+        ]
+    },
+    {
+        "text": "vaccine phòng dại",
+        "type": "THUỐC",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1312,
+            1329
+        ]
+    },
+    {
+        "text": "Bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1331,
+            1339
+        ]
+    },
+    {
+        "text": "Bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1367,
+            1375
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1436,
+            1444
+        ]
+    },
+    {
+        "text": "Bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1470,
+            1478
+        ]
+    },
+    {
+        "text": "vết cắn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1596,
+            1603
+        ]
+    },
+    {
+        "text": "vết trầy xước",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1613,
+            1626
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1675,
+            1683
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            1994,
+            2002
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [],
+        "assertions": [],
+        "position": [
+            2179,
+            2187
+        ]
+    },
+    {
+        "text": "đau ngực trái cấp tính",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2243,
+            2265
+        ]
+    },
+    {
+        "text": "đau sau xương ức lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2269,
+            2301
+        ]
+    },
+    {
+        "text": "vết cắn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2326,
+            2333
+        ]
+    },
+    {
+        "text": "vết thương",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2416,
+            2426
+        ]
+    },
+    {
+        "text": "vết thương",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2455,
+            2465
+        ]
+    }
+]

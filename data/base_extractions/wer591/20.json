@@ -1,0 +1,499 @@
+[
+    {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            67,
+            77
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            327,
+            335
+        ],
+        "candidates": []
+    },
+    {
+        "text": "vết cắn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            580,
+            587
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            612,
+            620
+        ],
+        "candidates": []
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            746,
+            754
+        ],
+        "candidates": []
+    },
+    {
+        "text": "vết thương",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            776,
+            786
+        ]
+    },
+    {
+        "text": "trầy xước",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            805,
+            814
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1618,
+            1626
+        ],
+        "candidates": []
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1938,
+            1946
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Lyssavirus",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            865,
+            875
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Lyssaviridae",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            886,
+            898
+        ],
+        "candidates": []
+    },
+    {
+        "text": "hệ thần kinh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            981,
+            993
+        ]
+    },
+    {
+        "text": "tủy sống",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            998,
+            1006
+        ]
+    },
+    {
+        "text": "não",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1010,
+            1013
+        ]
+    },
+    {
+        "text": "trung khu thần kinh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1027,
+            1046
+        ]
+    },
+    {
+        "text": "đại não",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1053,
+            1060
+        ]
+    },
+    {
+        "text": "Da niêm mạc hồngi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1063,
+            1080
+        ]
+    },
+    {
+        "text": "Đau bụng hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1082,
+            1103
+        ]
+    },
+    {
+        "text": "Buồn nôn, nôn ra thức ăn và dịch dạ dày, không có máu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1105,
+            1158
+        ]
+    },
+    {
+        "text": "Huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1170,
+            1178
+        ]
+    },
+    {
+        "text": "130/76 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1179,
+            1190
+        ]
+    },
+    {
+        "text": "Mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1191,
+            1195
+        ]
+    },
+    {
+        "text": "93 l/p",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1197,
+            1203
+        ]
+    },
+    {
+        "text": "Nhiệt độ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1204,
+            1212
+        ]
+    },
+    {
+        "text": "36.3 độ C",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1215,
+            1224
+        ]
+    },
+    {
+        "text": "Nhịp thở",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1225,
+            1233
+        ]
+    },
+    {
+        "text": "14 l/p",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1235,
+            1241
+        ]
+    },
+    {
+        "text": "SPO2",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1243,
+            1247
+        ]
+    },
+    {
+        "text": "99 %",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            1249,
+            1253
+        ]
+    },
+    {
+        "text": "compazine",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1287,
+            1296
+        ],
+        "candidates": []
+    },
+    {
+        "text": "aleven",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1300,
+            1306
+        ],
+        "candidates": []
+    },
+    {
+        "text": "morphineoral",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1335,
+            1347
+        ],
+        "candidates": []
+    },
+    {
+        "text": "lorazepam",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            1352,
+            1361
+        ],
+        "candidates": [
+            "6470"
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1319,
+            1322
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1365,
+            1368
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            2123,
+            2131
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Vi-rút dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1448,
+            1458
+        ],
+        "candidates": []
+    },
+    {
+        "text": "vết cắn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1539,
+            1546
+        ]
+    },
+    {
+        "text": "vết trầy xước",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1556,
+            1569
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1602,
+            1610
+        ],
+        "candidates": []
+    },
+    {
+        "text": "thần kinh trung ương",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            1689,
+            1709
+        ]
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1924,
+            1932
+        ],
+        "candidates": []
+    },
+    {
+        "text": "bệnh dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            2111,
+            2119
+        ],
+        "candidates": []
+    },
+    {
+        "text": "vết cắn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2205,
+            2212
+        ]
+    },
+    {
+        "text": "vi rút dại",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            2222,
+            2232
+        ],
+        "candidates": []
+    },
+    {
+        "text": "vết thương",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2295,
+            2305
+        ]
+    },
+    {
+        "text": "vết thương",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2334,
+            2344
+        ]
+    },
+    {
+        "text": "đầu mút thần kinh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2359,
+            2376
+        ]
+    },
+    {
+        "text": "ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2381,
+            2389
+        ]
+    },
+    {
+        "text": "thời gian ủ bệnh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2401,
+            2417
+        ]
+    },
+    {
+        "text": "mô thần kinh",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            2474,
+            2486
+        ]
+    },
+    {
+        "text": "kiểm tra y tế",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "assertions": [],
+        "position": [
+            2558,
+            2573
+        ]
+    },
+    {
+        "text": "chích ngừa",
+        "type": "THUỐC",
+        "assertions": [],
+        "position": [
+            2579,
+            2591
+        ],
+        "candidates": []
+    }
+]

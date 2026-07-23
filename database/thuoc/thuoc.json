@@ -1,0 +1,1770 @@
+[
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "candidates": [
+      "161"
+    ],
+    "inconsistent": false,
+    "occurrences": 8,
+    "files": [
+      12,
+      17,
+      40,
+      63
+    ]
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "candidates": [
+      "282388"
+    ],
+    "inconsistent": false,
+    "occurrences": 7,
+    "files": [
+      30,
+      35
+    ]
+  },
+  {
+    "text": "omeprazole",
+    "type": "THUỐC",
+    "candidates": [
+      "7646"
+    ],
+    "inconsistent": false,
+    "occurrences": 5,
+    "files": [
+      4,
+      41
+    ]
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "candidates": [
+      "10829",
+      "197454"
+    ],
+    "inconsistent": true,
+    "candidate_variants": [
+      {
+        "candidates": [
+          "10829"
+        ],
+        "files": [
+          96
+        ]
+      },
+      {
+        "candidates": [
+          "197454"
+        ],
+        "files": [
+          13,
+          74
+        ]
+      }
+    ],
+    "occurrences": 5,
+    "files": [
+      13,
+      74,
+      96
+    ]
+  },
+  {
+    "text": "lasix",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "inconsistent": false,
+    "occurrences": 5,
+    "files": [
+      71,
+      88
+    ]
+  },
+  {
+    "text": "vancomycin",
+    "type": "THUỐC",
+    "candidates": [
+      "11124"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      24,
+      54,
+      96
+    ]
+  },
+  {
+    "text": "cellcept",
+    "type": "THUỐC",
+    "candidates": [
+      "68149"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "azithromycin",
+    "type": "THUỐC",
+    "candidates": [
+      "18631"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      40,
+      50,
+      51
+    ]
+  },
+  {
+    "text": "amoxicillin",
+    "type": "THUỐC",
+    "candidates": [
+      "723"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "doxycycline",
+    "type": "THUỐC",
+    "candidates": [
+      "3640"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      1,
+      13
+    ]
+  },
+  {
+    "text": "vicodin",
+    "type": "THUỐC",
+    "candidates": [
+      "856987"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "coumadin",
+    "type": "THUỐC",
+    "candidates": [
+      "11289"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      27,
+      91
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "type": "THUỐC",
+    "candidates": [
+      "519"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      30
+    ]
+  },
+  {
+    "text": "thuốc giảm đau opioid",
+    "type": "THUỐC",
+    "candidates": [
+      "7052"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "prograf",
+    "type": "THUỐC",
+    "candidates": [
+      "42316"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "Torsemide",
+    "type": "THUỐC",
+    "candidates": [
+      "38413"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "isosorbide",
+    "type": "THUỐC",
+    "candidates": [
+      "6057"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "carvedilol",
+    "type": "THUỐC",
+    "candidates": [
+      "20352"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "percocet",
+    "type": "THUỐC",
+    "candidates": [
+      "209459"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      64
+    ]
+  },
+  {
+    "text": "metoprolol 25mg po bid",
+    "type": "THUỐC",
+    "candidates": [
+      "866924"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "atenolol",
+    "type": "THUỐC",
+    "candidates": [
+      "1202"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "Thở oxy tại nhà",
+    "type": "THUỐC",
+    "candidates": [
+      "7806"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "albuterol",
+    "type": "THUỐC",
+    "candidates": [
+      "435"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      32,
+      84
+    ]
+  },
+  {
+    "text": "crestor",
+    "type": "THUỐC",
+    "candidates": [
+      "301542"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "mucinex d",
+    "type": "THUỐC",
+    "candidates": [
+      "352777"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "methadone",
+    "type": "THUỐC",
+    "candidates": [
+      "6813"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      42,
+      88
+    ]
+  },
+  {
+    "text": "ntg",
+    "type": "THUỐC",
+    "candidates": [
+      "4917"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "prednisone giảm liều",
+    "type": "THUỐC",
+    "candidates": [
+      "8640"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "prednisone 40 mg/ngày",
+    "type": "THUỐC",
+    "candidates": [
+      "8640"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "ceftazidime",
+    "type": "THUỐC",
+    "candidates": [
+      "2551"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "amiodarone",
+    "type": "THUỐC",
+    "candidates": [
+      "703"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "bicarbonate",
+    "type": "THUỐC",
+    "candidates": [
+      "36676"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "intravenous fluids",
+    "type": "THUỐC",
+    "candidates": [
+      "9863"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "ciproflagyl",
+    "type": "THUỐC",
+    "candidates": [
+      "2551"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      64
+    ]
+  },
+  {
+    "text": "acetaminophen 500mg",
+    "type": "THUỐC",
+    "candidates": [
+      "198440"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "thuốc an thần",
+    "type": "THUỐC",
+    "candidates": [
+      "3322"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "cipro",
+    "type": "THUỐC",
+    "candidates": [
+      "2551"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "heparin",
+    "type": "THUỐC",
+    "candidates": [
+      "5224"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      76,
+      91
+    ]
+  },
+  {
+    "text": "klonopinclonidine",
+    "type": "THUỐC",
+    "candidates": [
+      "2598"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "flagyl",
+    "type": "THUỐC",
+    "candidates": [
+      "6135"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "aspirin 325mg x 1",
+    "type": "THUỐC",
+    "candidates": [
+      "308416"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "NSAID",
+    "type": "THUỐC",
+    "candidates": [
+      "5640"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "NSAIDs",
+    "type": "THUỐC",
+    "candidates": [
+      "5640"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "levophed",
+    "type": "THUỐC",
+    "candidates": [
+      "227559"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "propofol",
+    "type": "THUỐC",
+    "candidates": [
+      "8782"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "phentolamine",
+    "type": "THUỐC",
+    "candidates": [
+      "8163"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "seroquel",
+    "type": "THUỐC",
+    "candidates": [
+      "51272"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "iron",
+    "type": "THUỐC",
+    "candidates": [
+      "90176"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "liệu pháp lợi tiểu",
+    "type": "THUỐC",
+    "candidates": [
+      "9997"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      11
+    ]
+  },
+  {
+    "text": "levofloxacin",
+    "type": "THUỐC",
+    "candidates": [
+      "82122"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "Corticoid liều cao kéo dài",
+    "type": "THUỐC",
+    "candidates": [
+      "8640"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "cotrimoxazol",
+    "type": "THUỐC",
+    "candidates": [
+      "197454"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "doxycyclinebactrim",
+    "type": "THUỐC",
+    "candidates": [
+      "197454",
+      "3640"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "yếu tố IX đậm đặc",
+    "type": "THUỐC",
+    "candidates": [
+      "1670383"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      15
+    ]
+  },
+  {
+    "text": "Điều trị chống đông",
+    "type": "THUỐC",
+    "candidates": [
+      "11289"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      15
+    ]
+  },
+  {
+    "text": "advil",
+    "type": "THUỐC",
+    "candidates": [
+      "5640"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "metoprolol",
+    "type": "THUỐC",
+    "candidates": [
+      "6918"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "desmopressin",
+    "type": "THUỐC",
+    "candidates": [
+      "3251"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "aspirin 325mg hằng ngày",
+    "type": "THUỐC",
+    "candidates": [
+      "198466"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      22
+    ]
+  },
+  {
+    "text": "levafloxacin",
+    "type": "THUỐC",
+    "candidates": [
+      "82122"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      24
+    ]
+  },
+  {
+    "text": "cephalexin",
+    "type": "THUỐC",
+    "candidates": [
+      "2231"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      24
+    ]
+  },
+  {
+    "text": "albuterolipratropium nebs x2",
+    "type": "THUỐC",
+    "candidates": [
+      "745678"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      27
+    ]
+  },
+  {
+    "text": "metoprolol 5mg iv x2",
+    "type": "THUỐC",
+    "candidates": [
+      "866412"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      27
+    ]
+  },
+  {
+    "text": "eliquis",
+    "type": "THUỐC",
+    "candidates": [
+      "1364430"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "guaifenesin",
+    "type": "THUỐC",
+    "candidates": [
+      "4493"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "furosemide 40 mg",
+    "type": "THUỐC",
+    "candidates": [
+      "197589"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "bumetanide 2mg iv",
+    "type": "THUỐC",
+    "candidates": [
+      "1808"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "vancomycin 1 gram",
+    "type": "THUỐC",
+    "candidates": [
+      "11124"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "levofloxacin 750mg iv",
+    "type": "THUỐC",
+    "candidates": [
+      "82122"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "aspirin 325mg",
+    "type": "THUỐC",
+    "candidates": [
+      "198466"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "albuterolipratropium nebulizer",
+    "type": "THUỐC",
+    "candidates": [
+      "630208"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "methylprednisolone 125mg iv",
+    "type": "THUỐC",
+    "candidates": [
+      "6902"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "azathioprine",
+    "type": "THUỐC",
+    "candidates": [
+      "1256"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "Insulin glargine",
+    "type": "THUỐC",
+    "candidates": [
+      "274783"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "Rosuvastatin (Crestor)",
+    "type": "THUỐC",
+    "candidates": [
+      "301542"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "glargine",
+    "type": "THUỐC",
+    "candidates": [
+      "274783"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "insulin",
+    "type": "THUỐC",
+    "candidates": [
+      "253182"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "dextrose",
+    "type": "THUỐC",
+    "candidates": [
+      "4850"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "iv lasix 40 mg",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "80mg po lasix",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "2 sl ntg",
+    "type": "THUỐC",
+    "candidates": [
+      "4917"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "asa",
+    "type": "THUỐC",
+    "candidates": [
+      "1191"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "80mg lasix iv",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "8mg morphine",
+    "type": "THUỐC",
+    "candidates": [
+      "7052"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "1mg dilaudid",
+    "type": "THUỐC",
+    "candidates": [
+      "3423"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "po metoprolol",
+    "type": "THUỐC",
+    "candidates": [
+      "6918"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "10mg iv diltiazem",
+    "type": "THUỐC",
+    "candidates": [
+      "3443"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      44
+    ]
+  },
+  {
+    "text": "albuterol nebs q4h",
+    "type": "THUỐC",
+    "candidates": [
+      "435"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "z-pack",
+    "type": "THUỐC",
+    "candidates": [
+      "18631"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "combivent nebs x3 every 20 minutes",
+    "type": "THUỐC",
+    "candidates": [
+      "435",
+      "7213"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "iv magnesium",
+    "type": "THUỐC",
+    "candidates": [
+      "6585"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "30 mg of prednisone",
+    "type": "THUỐC",
+    "candidates": [
+      "8640"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "kali 80mEq",
+    "type": "THUỐC",
+    "candidates": [
+      "8591"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "40meq po k",
+    "type": "THUỐC",
+    "candidates": [
+      "8591"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "40meq iv k",
+    "type": "THUỐC",
+    "candidates": [
+      "8591"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "Augmentin đường uống trong 10 ngày",
+    "type": "THUỐC",
+    "candidates": [
+      "48203",
+      "723"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      52
+    ]
+  },
+  {
+    "text": "1 L ns",
+    "type": "THUỐC",
+    "candidates": [
+      "9863"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "Truyền dịch tĩnh mạch",
+    "type": "THUỐC",
+    "candidates": [
+      "9863"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "colace",
+    "type": "THUỐC",
+    "candidates": [
+      "82000"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "ertapenem",
+    "type": "THUỐC",
+    "candidates": [
+      "596926"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "nac",
+    "type": "THUỐC",
+    "candidates": [
+      "197"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "aspirin 81mg",
+    "type": "THUỐC",
+    "candidates": [
+      "243670"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "clopidogrel",
+    "type": "THUỐC",
+    "candidates": [
+      "32968"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "prasugrel",
+    "type": "THUỐC",
+    "candidates": [
+      "613391"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "metoprolol succinate 100mg daily",
+    "type": "THUỐC",
+    "candidates": [
+      "866452"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "lasix 40mg daily",
+    "type": "THUỐC",
+    "candidates": [
+      "310429"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "atorvastatin 80mg daily",
+    "type": "THUỐC",
+    "candidates": [
+      "617320"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "lisinopril 2.5mg daily",
+    "type": "THUỐC",
+    "candidates": [
+      "314076"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "ranexa 500mg daily",
+    "type": "THUỐC",
+    "candidates": [
+      "616493"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "iv morphine",
+    "type": "THUỐC",
+    "candidates": [
+      "7052"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "toradol",
+    "type": "THUỐC",
+    "candidates": [
+      "35827"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "nitroglycerin dưới lưỡi 1 liều",
+    "type": "THUỐC",
+    "candidates": [
+      "4917"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "3 viên nitroglycerin",
+    "type": "THUỐC",
+    "candidates": [
+      "4917"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "aspirin",
+    "type": "THUỐC",
+    "candidates": [
+      "1191"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "4 liều nitroglycerin",
+    "type": "THUỐC",
+    "candidates": [
+      "4917"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "nitroglycerin dạng bôi/dán lên da",
+    "type": "THUỐC",
+    "candidates": [
+      "4917"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "ativan",
+    "type": "THUỐC",
+    "candidates": [
+      "6470"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "lovenox",
+    "type": "THUỐC",
+    "candidates": [
+      "67108"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      75
+    ]
+  },
+  {
+    "text": "plavix",
+    "type": "THUỐC",
+    "candidates": [
+      "32968"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "nitrates",
+    "type": "THUỐC",
+    "candidates": [
+      "4917"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "9 nitroglycerin",
+    "type": "THUỐC",
+    "candidates": [
+      "4917"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "nitro",
+    "type": "THUỐC",
+    "candidates": [
+      "4917"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "dilaudid 3mg",
+    "type": "THUỐC",
+    "candidates": [
+      "3423"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "clonidine",
+    "type": "THUỐC",
+    "candidates": [
+      "2599"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "suboxone",
+    "type": "THUỐC",
+    "candidates": [
+      "1819"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "thở oxy 3L/p",
+    "type": "THUỐC",
+    "candidates": [
+      "7806"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      78
+    ]
+  },
+  {
+    "text": "lợi tiểu",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      83
+    ]
+  },
+  {
+    "text": "Ipratropium",
+    "type": "THUỐC",
+    "candidates": [
+      "7213"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "Ceftriaxone 1 gram",
+    "type": "THUỐC",
+    "candidates": [
+      "2193"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "Tylenol 1 gram",
+    "type": "THUỐC",
+    "candidates": [
+      "161"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "octreotide",
+    "type": "THUỐC",
+    "candidates": [
+      "7512"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "taxol",
+    "type": "THUỐC",
+    "candidates": [
+      "56946"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "fulvestrant",
+    "type": "THUỐC",
+    "candidates": [
+      "282357"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "compazine",
+    "type": "THUỐC",
+    "candidates": [
+      "8745"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "aleve",
+    "type": "THUỐC",
+    "candidates": [
+      "7258"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "morphine",
+    "type": "THUỐC",
+    "candidates": [
+      "7052"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "lorazepam",
+    "type": "THUỐC",
+    "candidates": [
+      "6470"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "vancozosyn",
+    "type": "THUỐC",
+    "candidates": [
+      "11124"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "vancozosynbactrim",
+    "type": "THUỐC",
+    "candidates": [
+      "11124"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "zosyn 8 ngày",
+    "type": "THUỐC",
+    "candidates": [
+      "1740938"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "Cefepim",
+    "type": "THUỐC",
+    "candidates": [
+      "2231"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "nitroglycerin",
+    "type": "THUỐC",
+    "candidates": [
+      "4917"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "Laxis 20mg",
+    "type": "THUỐC",
+    "candidates": [
+      "4603"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "Natriclori 0.9 %",
+    "type": "THUỐC",
+    "candidates": [
+      "3535"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  }
+]

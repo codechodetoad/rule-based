@@ -1,0 +1,103 @@
+[
+    {
+        "text": "mề đay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            85,
+            91
+        ]
+    },
+    {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            102,
+            106
+        ]
+    },
+    {
+        "text": "mề đay",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            161,
+            167
+        ]
+    },
+    {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            188,
+            192
+        ]
+    },
+    {
+        "text": "dị ứng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            357,
+            363
+        ]
+    },
+    {
+        "text": "MÀY ĐAY VÔ CĂN",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            733,
+            747
+        ],
+        "candidates": []
+    },
+    {
+        "text": "MÀY ĐAY MẠN TÍNH",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            839,
+            855
+        ],
+        "candidates": []
+    },
+    {
+        "text": "mày đay vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1396,
+            1410
+        ],
+        "candidates": []
+    },
+    {
+        "text": "Mày đay vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [],
+        "position": [
+            1508,
+            1522
+        ],
+        "candidates": []
+    },
+    {
+        "text": "quá liều klonopinclonidine",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            1670,
+            1696
+        ],
+        "candidates": [
+            "Y63.2"
+        ]
+    }
+]

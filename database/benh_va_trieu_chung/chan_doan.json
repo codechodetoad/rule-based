@@ -1,0 +1,4353 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I10"
+    ],
+    "inconsistent": false,
+    "occurrences": 23,
+    "files": [
+      3,
+      5,
+      11,
+      19,
+      20,
+      21,
+      27,
+      30,
+      32,
+      35,
+      37,
+      40,
+      44,
+      45,
+      46,
+      51,
+      56,
+      66,
+      71,
+      82,
+      98
+    ]
+  },
+  {
+    "text": "đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E11.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 9,
+    "files": [
+      16,
+      23,
+      33,
+      40,
+      45,
+      56,
+      76,
+      82
+    ]
+  },
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E66.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 7,
+    "files": [
+      11,
+      13,
+      26,
+      33,
+      40,
+      44,
+      66
+    ]
+  },
+  {
+    "text": "bệnh tim mạch do xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 6,
+    "files": [
+      3,
+      5,
+      23,
+      53,
+      71,
+      73
+    ]
+  },
+  {
+    "text": "tim to",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I51.7"
+    ],
+    "inconsistent": false,
+    "occurrences": 5,
+    "files": [
+      3,
+      20,
+      37
+    ]
+  },
+  {
+    "text": "rung nhĩ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I48.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 5,
+    "files": [
+      16,
+      28,
+      44,
+      91
+    ]
+  },
+  {
+    "text": "hẹp van động mạch chủ nghiêm trọng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I35.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 5,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "phù gai thị",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "H47.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 5,
+    "files": [
+      59
+    ]
+  },
+  {
+    "text": "hội chứng não gan",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K72.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      2
+    ]
+  },
+  {
+    "text": "tăng lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E78.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      5,
+      66,
+      71,
+      76
+    ]
+  },
+  {
+    "text": "viêm mô tế bào",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L03.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      13,
+      17
+    ]
+  },
+  {
+    "text": "suy tim, không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I50.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      21,
+      33,
+      44,
+      71
+    ]
+  },
+  {
+    "text": "u ác của tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C61"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      28,
+      82
+    ]
+  },
+  {
+    "text": "sỏi mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K80.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      28,
+      67,
+      70
+    ]
+  },
+  {
+    "text": "Đái tháo đường típ 2",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E11.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      32,
+      35,
+      38,
+      71
+    ]
+  },
+  {
+    "text": "viêm dạ dày ruột do virus",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A08.4"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "loét tá tràng và hồi tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K26.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C18.9",
+      "C24.0"
+    ],
+    "inconsistent": true,
+    "candidate_variants": [
+      {
+        "candidates": [
+          "C18.9"
+        ],
+        "files": [
+          69
+        ]
+      },
+      {
+        "candidates": [
+          "C24.0"
+        ],
+        "files": [
+          47
+        ]
+      }
+    ],
+    "occurrences": 4,
+    "files": [
+      47,
+      69
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D64.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      54,
+      69
+    ]
+  },
+  {
+    "text": "bệnh động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 4,
+    "files": [
+      75,
+      76,
+      83,
+      86
+    ]
+  },
+  {
+    "text": "xơ gan do rượu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K70.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      2,
+      16
+    ]
+  },
+  {
+    "text": "rung nhĩ kèm đáp ứng thất nhanh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I48.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      3,
+      32
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G93.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "nốt tuyến giáp trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E04.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      8
+    ]
+  },
+  {
+    "text": "bệnh thận mạn, không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      11,
+      21,
+      53
+    ]
+  },
+  {
+    "text": "áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K65",
+      "L02.9"
+    ],
+    "inconsistent": true,
+    "candidate_variants": [
+      {
+        "candidates": [
+          "K65.1"
+        ],
+        "files": [
+          52,
+          74
+        ]
+      },
+      {
+        "candidates": [
+          "L02.91"
+        ],
+        "files": [
+          17
+        ]
+      }
+    ],
+    "occurrences": 3,
+    "files": [
+      17,
+      52,
+      74
+    ]
+  },
+  {
+    "text": "tăng sản tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N40"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      20,
+      35
+    ]
+  },
+  {
+    "text": "viêm túi mật cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K81.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "Bệnh bạch cầu dòng tủy mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C92.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      30,
+      32,
+      35
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N39.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      30,
+      49
+    ]
+  },
+  {
+    "text": "tăng lipid máu, không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E78.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      35,
+      58,
+      73
+    ]
+  },
+  {
+    "text": "đào thải kháng thể hữu hình cấp tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "T86.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "suy thận cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N17.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      39,
+      54
+    ]
+  },
+  {
+    "text": "hội chứng ruột kích thích",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K58"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "Viêm thực quản độ C",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K20"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "loét thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K22.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "Nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I21.9",
+      "I25.2"
+    ],
+    "inconsistent": true,
+    "candidate_variants": [
+      {
+        "candidates": [
+          "I21.9"
+        ],
+        "files": [
+          43,
+          73
+        ]
+      },
+      {
+        "candidates": [
+          "I25.2"
+        ],
+        "files": [
+          76
+        ]
+      }
+    ],
+    "occurrences": 3,
+    "files": [
+      43,
+      73,
+      76
+    ]
+  },
+  {
+    "text": "tai biến mạch máu não",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I64"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      45,
+      58
+    ]
+  },
+  {
+    "text": "Yếu nửa người trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G81.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "tái phát u ác trực tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C20"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tế bào thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C64",
+      "C64"
+    ],
+    "inconsistent": true,
+    "candidate_variants": [
+      {
+        "candidates": [
+          "C64.1"
+        ],
+        "files": [
+          54
+        ]
+      },
+      {
+        "candidates": [
+          "C64.9"
+        ],
+        "files": [
+          69
+        ]
+      }
+    ],
+    "occurrences": 3,
+    "files": [
+      54,
+      69
+    ]
+  },
+  {
+    "text": "rối loạn cân bằng kiềm toan phối hợp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E87.4"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "tăng bilirubin máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E80.7"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "rối loạn lo âu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F41.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      77,
+      84,
+      87
+    ]
+  },
+  {
+    "text": "viêm tủy xương mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M86.6"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "tăng calci máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E83.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 3,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "ngoại tâm thu nhĩ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I49.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "ngoại tâm thu thất",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I49.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "nhịp tim chậm tương đối",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R00.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "nhồi máu cơ tim vùng dưới cũ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "viêm dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K29.7"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "sỏi đoạn cuối ống mật chủ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K80.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "bệnh trào ngược dạ dày- thực quản không có viêm thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K21.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      5,
+      17
+    ]
+  },
+  {
+    "text": "Nghẽn tắc và hẹp động mạch cảnh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I65.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      6
+    ]
+  },
+  {
+    "text": "hội chứng nghiện rượu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F10.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "nốt tuyến giáp thùy trái kích thước khoảng 1 cm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E04.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      8
+    ]
+  },
+  {
+    "text": "ung thư đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      11,
+      27
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J90"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      11,
+      16
+    ]
+  },
+  {
+    "text": "viêm phế quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J40"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      12,
+      66
+    ]
+  },
+  {
+    "text": "viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      12,
+      50
+    ]
+  },
+  {
+    "text": "hẹp 60% đoạn gần động mạch liên thất trước trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      14
+    ]
+  },
+  {
+    "text": "xuất huyết nội sọ không do chấn thương, không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I62.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      15
+    ]
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính, không xác định",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J44.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      16,
+      73
+    ]
+  },
+  {
+    "text": "Viêm phổi bệnh viện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "nhịp nhanh trên thất",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I47.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "bệnh thận mạn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      20,
+      32
+    ]
+  },
+  {
+    "text": "Phát hiện có gãy cổ xương đùi di lệch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S72.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "chấn thương đầu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S09.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      20,
+      48
+    ]
+  },
+  {
+    "text": "tràn dịch màng tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I31.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J90"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "thoát vị hoành nhỏ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K44.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "thay đổi khí phế thủng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J43.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "xẹp phổi hai đáy",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J98.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "xuất huyết dưới nhện vùng trán phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I60.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "bầm dập nhu mô vùng trán phải và trán - thái dương phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S06.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "lớp dịch dưới màng cứng mỏng vùng thùy trán phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I62.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "nang màng nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G93.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "tụ máu ngoài màng cứng phải cấp tính trên nền tổn thương mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I62.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "viêm túi mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K81.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      28,
+      64
+    ]
+  },
+  {
+    "text": "sa âm đạo",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N81.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      29
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A41.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "Bệnh thận đa nang",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "Q61.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "Suy thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N17.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "đào thải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "T86.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "tăng kali máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E87.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "loét tá tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K26.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "hẹp gây hạn chế dòng chảy",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "phình mạch ACom bên phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I67.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      45
+    ]
+  },
+  {
+    "text": "hẹp khoảng 65% của động mạch cảnh chung trái gần gốc với bằng chứng xơ vữa mảng loét",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I65.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      45
+    ]
+  },
+  {
+    "text": "tắc hẹp 80% động mạch thận trái L",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I70.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      46
+    ]
+  },
+  {
+    "text": "ngất xỉu do phản ứng thần kinh mạch máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R55"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "ngất xỉu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R55"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "viêm bể thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N10"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      49,
+      66
+    ]
+  },
+  {
+    "text": "hen suyễn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J45.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      50,
+      84
+    ]
+  },
+  {
+    "text": "Đái tháo đường type 2",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E11.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      51,
+      73
+    ]
+  },
+  {
+    "text": "Cơn đau thắt ngực không ổn định",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I20.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      53
+    ]
+  },
+  {
+    "text": "viêm phổi thuỳ, không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J18.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "rung cuống nhĩ với đáp ứng thất nhanh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I48.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "bệnh rễ thần kinh tuỷ sống ở ngón tay cái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M54.12"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      57
+    ]
+  },
+  {
+    "text": "nhiễm trùng răng miệng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K12.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "tăng nhãn áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G93.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      59
+    ]
+  },
+  {
+    "text": "viêm túi mật cấp tính không biến chứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K81.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "viêm túi mật không biến chứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K81.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      64
+    ]
+  },
+  {
+    "text": "FNA của một nốt sần tuyến giáp phải có cấu trúc vi nang",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E04.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      67
+    ]
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J44.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      68,
+      85
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến giật nhú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C73"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      69
+    ]
+  },
+  {
+    "text": "túi mật giãn nở rõ rệt",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K82.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "sỏi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K80.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      70
+    ]
+  },
+  {
+    "text": "giãn đường dẫn mật trong gan",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K83.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "một chỗ hẹp đơn lẻ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K83.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến, biệt hóa vừa phải đến kém",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C25.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "một khối u có nguồn gốc từ đường mật tụy",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C25.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N39.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "bàn chân vẹo bẩm sinh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "Q66.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      79
+    ]
+  },
+  {
+    "text": "chấn thương gãy xương sườn trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S22.4"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      80
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F32.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      87
+    ]
+  },
+  {
+    "text": "tổn thương chi dưới",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "T14.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      87
+    ]
+  },
+  {
+    "text": "tổn thương dây thanh quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J38.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      90
+    ]
+  },
+  {
+    "text": "bàng quang thần kinh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N31.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      96,
+      97
+    ]
+  },
+  {
+    "text": "liệt hai chi dưới",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G82.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      96,
+      97
+    ]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I95.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "đa u tuỷ xương",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C90.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      98
+    ]
+  },
+  {
+    "text": "nhồi máu cũ nhỏ ở vỏ não đỉnh trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I69.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 2,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "viêm tuyến mồ hôi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L73.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      1
+    ]
+  },
+  {
+    "text": "phình động mạch chủ nhỏ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I71.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      3
+    ]
+  },
+  {
+    "text": "sỏi ống dẫn mật chung đoạn cuối",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K80.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      4
+    ]
+  },
+  {
+    "text": "viêm gan do men",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K75.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "giãn đường mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K83.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "tắc nghẽn đường mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K83.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      5
+    ]
+  },
+  {
+    "text": "hẹp nặng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I65.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      6
+    ]
+  },
+  {
+    "text": "Rối loạn cảm xúc (trầm cảm)",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F32.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "Bệnh đa xơ cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G35"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "Ảo giác do rượu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F10.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "loạn thần",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F29"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      7
+    ]
+  },
+  {
+    "text": "nốt tuyến giáp thùy trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E04.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      8
+    ]
+  },
+  {
+    "text": "u cơ trơn tử cung",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D25.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "u xơ tử cung",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D25.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "U cơ trơn lớn nhất ở đoạn dưới của tử cung đo 4,1 x 4,8 x 4,1 cm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D25.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      9
+    ]
+  },
+  {
+    "text": "khối u trực tràng với hình ảnh của một u ác trực tràng đáng kể",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C20"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "u tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D12.6"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      10
+    ]
+  },
+  {
+    "text": "bệnh gút không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M10.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      11
+    ]
+  },
+  {
+    "text": "xơ gan mất bù",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K74.6"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      11
+    ]
+  },
+  {
+    "text": "tăng áp lực tĩnh mạch cửa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K76.6"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      11
+    ]
+  },
+  {
+    "text": "U Sacoit",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D86.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "viêm phổi mắc phải cộng đồng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "phù phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J81"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      12
+    ]
+  },
+  {
+    "text": "Bệnh phổi kẽ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J84.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "Hội chứng kháng enzym tổng hợp protein",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M35.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "Tăng huyết áp nguyên phát",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I10"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "Suy giảm miễn dịch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D84.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "Nhiễm virus Herpes simplex (HSV)",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "B00.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "Bệnh thủy đậu/Zona",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "B01.9",
+      "B02.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      13
+    ]
+  },
+  {
+    "text": "dị ứng theo mùa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J30.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      14
+    ]
+  },
+  {
+    "text": "dị ứng phấn hoa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J30.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      14
+    ]
+  },
+  {
+    "text": "thiếu máu cơ tim vùng dưới và thành bên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      14
+    ]
+  },
+  {
+    "text": "Bệnh động mạch vành mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      14
+    ]
+  },
+  {
+    "text": "thiếu máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      14
+    ]
+  },
+  {
+    "text": "Ung thư biểu mô tuyến đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "ung thư tuyến đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "xẹp phổi thùy dưới phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J98.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      16
+    ]
+  },
+  {
+    "text": "áp xe/viêm khớp nhiễm trùng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M00.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "nhiễm trùng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A49.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      17
+    ]
+  },
+  {
+    "text": "Thuyên tắc tĩnh mạch sâu chi dưới ở chân trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I82"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      18
+    ]
+  },
+  {
+    "text": "tắc mạch phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I26.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      18
+    ]
+  },
+  {
+    "text": "thuyên tắc mạch phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I26.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      18
+    ]
+  },
+  {
+    "text": "bóc tách động mạch chủ Stanford loại B",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I71.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      18
+    ]
+  },
+  {
+    "text": "bóc tách động mạch chủ loại B",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I71.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      18
+    ]
+  },
+  {
+    "text": "Giai đoạn IV Ung thư phổi không tế bào nhỏ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C34.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "Di căn não vùng trán phải dã phẫu thuật lấy u",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C79.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "Tắc mạch huyết khối tĩnh mạch chủ dưới (IVC) và tĩnh mạch chủ trên (SVC) phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I82.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "Sa van hai lá",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I34.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      19
+    ]
+  },
+  {
+    "text": "bệnh tim mạch do xơ vữa động mạch với Nhồi máu cơ tim gần đây",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "rung nhĩ kịch phát",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I48.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "Rối loạn dáng đi với nhiều lần ngã",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R26"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "gãy cổ xương đùi di lệch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S72.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "Chấn thương tù ở Chi dưới phải (RLE)",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S80.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "vết thương hở phần khác của chi dưới",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S81.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "hở van ba lá vừa-nặng (mod-severe TR)",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I36.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "hở van hai lá/van động mạch chủ nhẹ (mild ARMR)",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I34.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "Gãy xương hông phải: gãy cổ xương đùi phải, lún đầu dưới",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S72.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "Nhồi máu cơ tim vùng vách liên thất, mạn tính và đỉnh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "rung nhĩ kịch phát liên tục kể từ Nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I48.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      20
+    ]
+  },
+  {
+    "text": "phình động mạch chủ ngực – bụng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I71.6"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      21
+    ]
+  },
+  {
+    "text": "bệnh mạch máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I99"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      22
+    ]
+  },
+  {
+    "text": "khối máu tụ dưới màng cứng bán cấp hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I62.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      22
+    ]
+  },
+  {
+    "text": "ăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I10"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "Rối loạn lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E78.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "xuất huyết dưới nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I60.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "tụ dịch/tụ máu dưới màng cứng mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I62.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "tụ máu dưới màng cứng mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I62.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      23
+    ]
+  },
+  {
+    "text": "ung thư vú trái giai IIIB",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C50.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      24
+    ]
+  },
+  {
+    "text": "tách thành động mạch chủ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I71.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      25
+    ]
+  },
+  {
+    "text": "liệt hai chân",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G82.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      25
+    ]
+  },
+  {
+    "text": "Rò động - tĩnh mạch đùi phải do thủ thuật can thiệp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I77.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      25
+    ]
+  },
+  {
+    "text": "hội chứng turner, không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "Q96.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      27
+    ]
+  },
+  {
+    "text": "Thuyên tắc phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I26.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      27
+    ]
+  },
+  {
+    "text": "viêm tụy",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K85.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "rối loạn cảm xúc lưỡng cực khác",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F31.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "sỏi ống mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K80.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      28
+    ]
+  },
+  {
+    "text": "tăng cholesterol máu đơn thuần",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E78.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      30
+    ]
+  },
+  {
+    "text": "suy hô hấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J96.90"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      32
+    ]
+  },
+  {
+    "text": "ngừng thở khi ngủ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G47.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      33
+    ]
+  },
+  {
+    "text": "Viêm loét đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K51.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "Bệnh gan do rượu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K70.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      34
+    ]
+  },
+  {
+    "text": "hẹp ống sống",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M48.00"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "Giả gout",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M11.20"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "bệnh thận mạn, không đặc hiệu Giai đoạn 4",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N18.4"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "cml",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C92.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      35
+    ]
+  },
+  {
+    "text": "bệnh lý BK",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "B97.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "Bệnh lý thận do BK",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "B97.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      36
+    ]
+  },
+  {
+    "text": "Đái tháo đường, có biến chứng bệnh lý thần kinh ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E11.4"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "Suy tim không do thiếu máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I50.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "Bệnh thận mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "Tăng gánh nhẹ tuần hoàn phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J81"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi hai bên nhẹ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J90"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      37
+    ]
+  },
+  {
+    "text": "bệnh tim mạch do xơ vữa động mạch đặt stent",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "Suy tim dãn tâm thu giữ nguyên trương lực",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I50"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "viêm họng do liên cầu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J02.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      38
+    ]
+  },
+  {
+    "text": "bất thường điện giải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E87.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      39
+    ]
+  },
+  {
+    "text": "viêm túi mật thủng cấp tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K81.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      39
+    ]
+  },
+  {
+    "text": "ngưng thở khi ngủ do tắc nghẽn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G47.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "giãn phế quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J20.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "viêm phổi thùy dưới phải (RLL PNA)",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      40
+    ]
+  },
+  {
+    "text": "loét ở tá tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K26.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      41
+    ]
+  },
+  {
+    "text": "bệnh tim mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I51.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      42
+    ]
+  },
+  {
+    "text": "thận bệnh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      42
+    ]
+  },
+  {
+    "text": "nhiễm trùng tụ cầu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A49.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      43
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tế bào mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C24.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      47
+    ]
+  },
+  {
+    "text": "xuất huyết dưới màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I62.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      48
+    ]
+  },
+  {
+    "text": "Khối sa âm đạo",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N81.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "tiểu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R31"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "sỏi thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N20.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      49
+    ]
+  },
+  {
+    "text": "đợt cấp hen suyễn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J45.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      50
+    ]
+  },
+  {
+    "text": "hạ kali máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E87.6"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "nhiễm trùng đường hô hấp trên cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J06.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      51
+    ]
+  },
+  {
+    "text": "ung thư đường mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C24.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      52
+    ]
+  },
+  {
+    "text": "nhiều nang tụy nhỏ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K86.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      52
+    ]
+  },
+  {
+    "text": "blốc nhĩ thất, hoàn toàn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I44.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      53
+    ]
+  },
+  {
+    "text": "Suy giảm nhận thức nhẹ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G31.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      53
+    ]
+  },
+  {
+    "text": "rung nhĩ điển hình",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I48.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "viêm phổi thùy dưới trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J18.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      54
+    ]
+  },
+  {
+    "text": "thiếu máu cơ tim cục bộ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      56
+    ]
+  },
+  {
+    "text": "hẹp ống sống C4-5, C5-6, C6-7",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M48.02"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      57
+    ]
+  },
+  {
+    "text": "hẹp lỗ liên hợp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M99.72"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      57
+    ]
+  },
+  {
+    "text": "bệnh Graves",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E05.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      58
+    ]
+  },
+  {
+    "text": "não úng thuỷ khác",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G91.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      59
+    ]
+  },
+  {
+    "text": "não úng tuỷ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G91.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      59
+    ]
+  },
+  {
+    "text": "não úng thủy",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G91.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      59
+    ]
+  },
+  {
+    "text": "Trào ngược dạ dày thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K21.0",
+      "K21.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      60
+    ]
+  },
+  {
+    "text": "thoát vị hoành",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K44.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      60
+    ]
+  },
+  {
+    "text": "thoát vị cạnh thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K44.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      60
+    ]
+  },
+  {
+    "text": "những thay đổi thoái hóa nghiêm trọng của khớp bánh chè đùi phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M17.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      61
+    ]
+  },
+  {
+    "text": "loét mới ở ngón chân út bên phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L97"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      62
+    ]
+  },
+  {
+    "text": "Bệnh túi thừa ở cả ruột non và đại tràng, chưa có biến chứng thủng hoặc áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K57.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "thiếu máu hồng cầu nhỏ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D50.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      63
+    ]
+  },
+  {
+    "text": "Tiền sử đã biết của bệnh túi thừa của cả ruột non và đại tràng, không thủng hay áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K57.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      64
+    ]
+  },
+  {
+    "text": "rối loạn đông máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D68.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      65
+    ]
+  },
+  {
+    "text": "Tiểu đường loại 1 đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E10.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "Nhiễm trùng đường tiết niệu (UTIs) tái phát nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N39.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "huyết khối tĩnh mạch sâu (DVT)",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I82"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      66
+    ]
+  },
+  {
+    "text": "tâm thần phân liệt",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F20.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      68
+    ]
+  },
+  {
+    "text": "khối ở chỗ uốn gan",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C18.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      69
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến trên sinh thiết",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      69
+    ]
+  },
+  {
+    "text": "tiền sử khối u thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C64"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      69
+    ]
+  },
+  {
+    "text": "Tăng huyết áp phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I27.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "Suy tim sung huyết cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I50.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "graft SVG bị tắc",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "Bệnh động mạch vành phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      71
+    ]
+  },
+  {
+    "text": "u ác của đầu tuỵ mới được chẩn đoán",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C25.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      72
+    ]
+  },
+  {
+    "text": "Hội chứng mạch vành cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I24.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "tăng huyết áp vô căn (nguyên phát)",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I10"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "Đột quỵ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I63.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      73
+    ]
+  },
+  {
+    "text": "một khoang chứa dịch phức tạp lớn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K65"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      74
+    ]
+  },
+  {
+    "text": "mảng xơ vữa nhẹ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      76
+    ]
+  },
+  {
+    "text": "2 lần tự tử",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "T14.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "Rối loạn cảm xúc",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F39"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "Rối loạn lưỡng cực",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F31.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "Lạm dụng chất kích thích",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F19.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "chất gây nghiện opioid",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F11.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      77
+    ]
+  },
+  {
+    "text": "ung thư vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C50.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      78
+    ]
+  },
+  {
+    "text": "ung thư phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C34.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      78
+    ]
+  },
+  {
+    "text": "chèn ép tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I31"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      78
+    ]
+  },
+  {
+    "text": "gãy 3 xương sườn 9, 10 và 11",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S22.4"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      80
+    ]
+  },
+  {
+    "text": "xương sườn thứ 10 bị gãy vụn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S22.4"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      80
+    ]
+  },
+  {
+    "text": "đụng dập một vùng nhu mô phổi nhỏ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S27.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      80
+    ]
+  },
+  {
+    "text": "độ dày niêm mạc xoang hàm dày lên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J32.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      81
+    ]
+  },
+  {
+    "text": "Suy thận mạn giai đoạn V",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N18.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "u dây thần kinh số VIII",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D33.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      82
+    ]
+  },
+  {
+    "text": "hở van hai lá nặng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I34.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      83
+    ]
+  },
+  {
+    "text": "tăng huyết áp (tăng huyết áp)",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I10"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "Táo bón mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K59.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "ngưng thở khi ngủ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G47.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "viêm phổi kẽ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J84.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      84
+    ]
+  },
+  {
+    "text": "Đái tháo đường type II",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E11.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      85
+    ]
+  },
+  {
+    "text": "bệnh động mạch vành sau phẫu thuật bắc cầu nối động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      85
+    ]
+  },
+  {
+    "text": "suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I50.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      85
+    ]
+  },
+  {
+    "text": "bệnh mạch máu ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I73.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      85
+    ]
+  },
+  {
+    "text": "Ngưng thở khi ngủ do tắc nghẽn đang dùng BiPAP",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G47.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      85
+    ]
+  },
+  {
+    "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vậtbiệt hóa kém, sau cắt bao quy đầu với bờ diện cắt dương tính.",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C60.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      85
+    ]
+  },
+  {
+    "text": "bệnh lý thần kinh ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G62.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      86
+    ]
+  },
+  {
+    "text": "bệnh ba thân động mạch vành nghiêm trọng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      86
+    ]
+  },
+  {
+    "text": "Phẫu thuật cắt cụt chân trái bên trên gối",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "Z89.6"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      87
+    ]
+  },
+  {
+    "text": "cắt cụt chân phải bên dưới gối",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "Z89.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      87
+    ]
+  },
+  {
+    "text": "biến chứng thuyên tắc phổi hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I26.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      87
+    ]
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải do Enterococcus kháng vancomycin",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L03.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      87
+    ]
+  },
+  {
+    "text": "cắt cụt chân trái trên gối",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "Z89.6"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      87
+    ]
+  },
+  {
+    "text": "chân phải dưới gối",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "Z89.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      87
+    ]
+  },
+  {
+    "text": "Đái tháo đường típ 1 có biến chứng viêm thần kinh ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E10.4"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "Viêm gan virus C và B",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "B19"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "Tăng áp động mạch phổi mức độ trung bình",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I27.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "U lympho không hodgkin tế bàoB lớn lan toả",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C83.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "Loét 2 bàn chân",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L97"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "Loét bàn chân nhiễm trùng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L97"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      88
+    ]
+  },
+  {
+    "text": "khối u thần kinh nội tiết ở thân tụy",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D13.7"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "Tuột sonde dẫn lưu ổ bụng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "T81.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "u nội tiết từ thân tuỵ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D13.7"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "rò ống tuỵ mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K86.8"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "Clostridioides difficile",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A04.7"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "nhiễm trùng vết mổổ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "T81.4"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "tuột ống sonde dẫn lưu ổ bụng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "T81.5"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      89
+    ]
+  },
+  {
+    "text": "tổn thương dây thanh quản thật sự",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J38.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      90
+    ]
+  },
+  {
+    "text": "Viêm nội tâm mạc",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I33.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "rối loạn chức năng tâm thất phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I51.7"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "Phẫu thuật thay van tim hai lá cơ học",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "Z95.2"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "Suy thận mạn giai V đang chạy thận nhân tạo chu kì các ngày thứ 2, thứ 6, chủ nhật, sau khi ghép thận thất bại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N18"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "ghép thận thất bại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "T86.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      91
+    ]
+  },
+  {
+    "text": "Nhiễm trùng đường tiết niệu kháng thuốc",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N39.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      92
+    ]
+  },
+  {
+    "text": "đại tràng giãn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K59.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      92
+    ]
+  },
+  {
+    "text": "Theo dõi đại tràng giãn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K59.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      92
+    ]
+  },
+  {
+    "text": "Ung thư vú di căn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C50.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      93
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi trái tái phát",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J91"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      93
+    ]
+  },
+  {
+    "text": "tràn dịch màng ngoài tim mức độ trung bình",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I31.3"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      93
+    ]
+  },
+  {
+    "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C78.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      93
+    ]
+  },
+  {
+    "text": "Ung thư vú di căn ER+/HER2−",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C50.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      94
+    ]
+  },
+  {
+    "text": "loét tì đè giai đoạn IV mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L89.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu tái phát",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N39.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "nhiễm trùng huyết",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A41.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "viêm tuỷ xương",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M86.6"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "nhiễm trùng huyết đường vào tiết niệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A41.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      96
+    ]
+  },
+  {
+    "text": "viêm tủy xương",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M86.6"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "nhiễm trùng đường tiết niệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N39.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "nhịp chậm xoang",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R00.1"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      97
+    ]
+  },
+  {
+    "text": "Đa u tủy xương",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C90.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      98
+    ]
+  },
+  {
+    "text": "rối loạn lo âu, không biệt định nghiêm trọng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F41.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      99
+    ]
+  },
+  {
+    "text": "U ác của đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C18.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "cường cận giáp nguyên phát",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E21.0"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "Xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I70.90"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  },
+  {
+    "text": "cơn đau thắt ngực ổn định",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I20.9"
+    ],
+    "inconsistent": false,
+    "occurrences": 1,
+    "files": [
+      100
+    ]
+  }
+]
